@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3h57-hmj3-gj3p",
-	"modified": "2023-11-08T04:12:06.032475Z",
+	"modified": "2023-12-09T00:46:32.671950Z",
 	"published": "2023-03-08T17:20:04Z",
 	"aliases": [
 		"CVE-2023-27530"
@@ -242,6 +242,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.debian.org/debian-lts-announce/2023/04/msg00017.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20231208-0015/"
 		},
 		{
 			"type": "WEB",

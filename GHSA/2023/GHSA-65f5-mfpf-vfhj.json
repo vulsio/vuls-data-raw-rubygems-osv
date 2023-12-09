@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-65f5-mfpf-vfhj",
-	"modified": "2023-11-08T04:10:48.526549Z",
+	"modified": "2023-12-09T00:46:14.467068Z",
 	"published": "2023-01-18T18:19:33Z",
 	"aliases": [
 		"CVE-2022-44570"
@@ -190,6 +190,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/rack/CVE-2022-44570.yml"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20231208-0010/"
 		},
 		{
 			"type": "WEB",

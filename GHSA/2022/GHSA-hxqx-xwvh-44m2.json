@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hxqx-xwvh-44m2",
-	"modified": "2023-11-08T04:09:16.649020Z",
+	"modified": "2023-12-09T00:47:06.958253Z",
 	"published": "2022-05-27T16:36:52Z",
 	"aliases": [
 		"CVE-2022-30122"
@@ -192,6 +192,10 @@
 		{
 			"type": "WEB",
 			"url": "https://security.gentoo.org/glsa/202310-18"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20231208-0012/"
 		},
 		{
 			"type": "WEB",
