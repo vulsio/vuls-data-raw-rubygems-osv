@@ -16,7 +16,7 @@
 				"0.1.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/rubygems/tzinfo-i18n/MAL-2023-12.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/tzinfo-i18n/MAL-2023-12.json"
 			}
 		}
 	],

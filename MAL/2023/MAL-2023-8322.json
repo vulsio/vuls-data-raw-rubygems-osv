@@ -16,7 +16,7 @@
 				"1.2.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/rubygems/investing_parameters/MAL-2023-8322.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/investing_parameters/MAL-2023-8322.json"
 			}
 		}
 	],

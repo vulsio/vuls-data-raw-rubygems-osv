@@ -16,7 +16,7 @@
 				"1.0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/rubygems/puppet-module-posix-system-r/MAL-2023-1433.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/puppet-module-posix-system-r/MAL-2023-1433.json"
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				"0.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/rubygems/google-apis-androidpublisher_v2/MAL-2023-1426.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/google-apis-androidpublisher_v2/MAL-2023-1426.json"
 			}
 		}
 	],

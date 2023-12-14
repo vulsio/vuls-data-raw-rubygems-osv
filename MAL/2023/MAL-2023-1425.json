@@ -16,7 +16,7 @@
 				"7.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/rubygems/gitlab-glfm-markdown/MAL-2023-1425.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/gitlab-glfm-markdown/MAL-2023-1425.json"
 			}
 		}
 	],

@@ -17,7 +17,7 @@
 				"13.1.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/rubygems/modified_bayes/MAL-2023-1429.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/modified_bayes/MAL-2023-1429.json"
 			}
 		}
 	],

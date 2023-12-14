@@ -16,7 +16,7 @@
 				"1.1.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/rubygems/naveen4gem/MAL-2023-1430.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/naveen4gem/MAL-2023-1430.json"
 			}
 		}
 	],

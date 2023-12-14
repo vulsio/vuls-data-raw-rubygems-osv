@@ -16,7 +16,7 @@
 				"4.1.0"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/rubygems/i18n_sonder/MAL-2023-1427.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/i18n_sonder/MAL-2023-1427.json"
 			}
 		}
 	],

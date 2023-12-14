@@ -16,7 +16,7 @@
 				"0.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/rubygems/ptrsec_rce/MAL-2023-1432.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/ptrsec_rce/MAL-2023-1432.json"
 			}
 		}
 	],

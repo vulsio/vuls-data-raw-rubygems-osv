@@ -16,7 +16,7 @@
 				"5.0.1"
 			],
 			"database_specific": {
-				"source": "https://github.com/ossf/malicious-packages/blob/main/malicious/rubygems/fluent-plugin-enhance-k8s-metadata/MAL-2023-1424.json"
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/fluent-plugin-enhance-k8s-metadata/MAL-2023-1424.json"
 			}
 		}
 	],
