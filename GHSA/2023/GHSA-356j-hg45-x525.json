@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-356j-hg45-x525",
-	"modified": "2023-12-15T23:56:27.291993Z",
+	"modified": "2023-12-18T17:49:03.023825Z",
 	"published": "2023-12-15T23:44:34Z",
 	"aliases": [
 		"CVE-2023-50448"
@@ -110,6 +110,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/activeadmin/activeadmin"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/activeadmin/CVE-2023-50448.yml"
 		}
 	],
 	"database_specific": {
