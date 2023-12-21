@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gc3j-vvwf-4rp8",
-	"modified": "2023-12-18T19:56:34.209456Z",
+	"modified": "2023-12-20T18:35:19.977531Z",
 	"published": "2023-12-18T19:34:06Z",
 	"aliases": [
 		"CVE-2023-50725"
@@ -129,6 +129,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/resque/resque"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/resque/CVE-2023-50725.yml"
 		}
 	],
 	"database_specific": {

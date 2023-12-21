@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r9mq-m72x-257g",
-	"modified": "2023-12-18T19:56:34.283998Z",
+	"modified": "2023-12-20T18:36:44.057216Z",
 	"published": "2023-12-18T19:33:58Z",
 	"aliases": [
 		"CVE-2023-50727"
@@ -133,6 +133,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/resque/resque"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/resque/CVE-2023-50727.yml"
 		}
 	],
 	"database_specific": {

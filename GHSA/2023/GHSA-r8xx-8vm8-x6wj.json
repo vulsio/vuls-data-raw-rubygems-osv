@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r8xx-8vm8-x6wj",
-	"modified": "2023-12-18T19:56:34.133079Z",
+	"modified": "2023-12-20T18:34:15.928394Z",
 	"published": "2023-12-18T19:34:14Z",
 	"aliases": [
 		"CVE-2023-50724"
@@ -131,6 +131,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/resque/resque"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/resque/CVE-2023-50724.yml"
 		}
 	],
 	"database_specific": {

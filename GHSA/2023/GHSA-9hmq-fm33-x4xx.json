@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9hmq-fm33-x4xx",
-	"modified": "2023-12-18T19:56:33.891645Z",
+	"modified": "2023-12-20T18:36:22.350680Z",
 	"published": "2023-12-18T19:30:32Z",
 	"aliases": [
 		"CVE-2022-44303"
@@ -90,6 +90,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/resque/resque-scheduler"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/resque-scheduler/CVE-2022-44303.yml"
 		},
 		{
 			"type": "WEB",

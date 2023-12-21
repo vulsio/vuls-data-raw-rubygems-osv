@@ -1,10 +1,16 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q7jc-v6f2-q9jr",
-	"modified": "2023-12-18T19:49:10.206967Z",
+	"modified": "2023-12-20T18:36:01.540044Z",
 	"published": "2022-12-13T15:30:26Z",
 	"summary": "Duplicate Advisory: Resque Scheduler Reflected XSS In Delayed Jobs View",
 	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-9hmq-fm33-x4xx. This link is maintained to preserve external references.\n\n## Original Description\nResque Scheduler version 1.27.4 is vulnerable to Cross-site scripting (XSS). A remote attacker could inject javascript code to the \"{schedule_job}\" or \"args\" parameter in /resque/delayed/jobs/{schedule_job}?args={args_id} to execute javascript at client side.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -84,7 +90,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-79"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-12-18T19:30:26Z",
 		"nvd_published_at": "2022-12-13T15:15:00Z",
