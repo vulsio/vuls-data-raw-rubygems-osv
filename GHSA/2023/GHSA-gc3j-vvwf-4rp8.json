@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gc3j-vvwf-4rp8",
-	"modified": "2023-12-20T18:35:19.977531Z",
+	"modified": "2023-12-22T22:31:56.045973Z",
 	"published": "2023-12-18T19:34:06Z",
 	"aliases": [
 		"CVE-2023-50725"
@@ -119,6 +119,10 @@
 			"url": "https://github.com/resque/resque/security/advisories/GHSA-gc3j-vvwf-4rp8"
 		},
 		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-50725"
+		},
+		{
 			"type": "WEB",
 			"url": "https://github.com/resque/resque/pull/1790"
 		},
@@ -142,7 +146,7 @@
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-12-18T19:34:06Z",
-		"nvd_published_at": null,
+		"nvd_published_at": "2023-12-22T20:15:07Z",
 		"severity": "MODERATE"
 	}
 }
