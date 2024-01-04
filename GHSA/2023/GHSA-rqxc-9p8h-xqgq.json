@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rqxc-9p8h-xqgq",
-	"modified": "2023-12-28T19:16:01.088299Z",
+	"modified": "2024-01-03T23:48:12.864854Z",
 	"published": "2023-12-24T06:30:31Z",
 	"summary": "Duplicate Advisory: ActiveAdmin vulnerable to CSV injection",
 	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-xhvv-3jww-c487. This link is maintained to preserve external references.\n\n## Original Description\ncsv_builder.rb in ActiveAdmin (aka Active Admin) before 3.2.0 allows CSV injection.",
@@ -136,7 +136,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-1236"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-12-27T15:07:14Z",
 		"nvd_published_at": "2023-12-24T04:15:07Z",
