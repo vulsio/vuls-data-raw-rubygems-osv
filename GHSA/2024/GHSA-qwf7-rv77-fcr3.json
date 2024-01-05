@@ -1,13 +1,10 @@
 {
 	"schema_version": "1.6.0",
-	"id": "GHSA-85rf-xh54-whp3",
-	"modified": "2024-01-05T15:57:23.054946Z",
-	"published": "2019-10-07T16:52:13Z",
-	"aliases": [
-		"CVE-2024-22050"
-	],
-	"summary": "Malicious URL drafting attack against iodines static file server may allow path traversal",
-	"details": "### Impact\n\nA path traversal vulnerability was detected in iodine's static file service. This vulnerability effects any application running iodine's static file server on an effected iodine version.\n\nMalicious URL drafting may cause the static file server to attempt a response containing data from files that shouldn't be normally accessible from the public folder.\n\n### Patches\n\nThe vulnerability was patched in version 0.7.34. Please upgrade to the latest version.\n\n### Workarounds\n\nA possible workaround would be to disable the static file service and it's `X-Sendfile` support, sending static files using nginx or a source code solution (sending the data dynamically).\n\nHowever, it would be better to upgrade iodine to the latest version, as it also contains non-security related fixes.\n\n### For more information\nIf you have any questions or comments about this advisory:\n* Email [Boaz Segev](https://github.com/boazsegev)",
+	"id": "GHSA-qwf7-rv77-fcr3",
+	"modified": "2024-01-05T15:48:51.212939Z",
+	"published": "2024-01-04T21:30:24Z",
+	"summary": "Duplicate Advisory: Malicious URL drafting attack against iodines static file server may allow path traversal",
+	"details": "### Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-85rf-xh54-whp3. This link is maintained to preserve external references.\n\n### Original Description\nPath traversal in the static file service in Iodine less than 0.7.33 allows an unauthenticated, remote attacker to read files outside the public folder via malicious URLs.\n\n",
 	"affected": [
 		{
 			"package": {
@@ -21,9 +18,6 @@
 					"events": [
 						{
 							"introduced": "0"
-						},
-						{
-							"fixed": "0.7.34"
 						}
 					]
 				}
@@ -133,8 +127,32 @@
 				"0.7.31",
 				"0.7.32",
 				"0.7.33",
+				"0.7.34",
+				"0.7.35",
+				"0.7.36",
+				"0.7.37",
+				"0.7.38",
+				"0.7.39",
 				"0.7.4",
+				"0.7.40",
+				"0.7.41",
+				"0.7.42",
+				"0.7.43",
+				"0.7.44",
+				"0.7.45",
+				"0.7.46",
+				"0.7.47",
+				"0.7.48",
+				"0.7.49",
 				"0.7.5",
+				"0.7.50",
+				"0.7.51",
+				"0.7.52",
+				"0.7.53",
+				"0.7.54",
+				"0.7.55",
+				"0.7.56",
+				"0.7.57",
 				"0.7.6",
 				"0.7.7",
 				"0.7.8",
@@ -142,7 +160,7 @@
 			],
 			"database_specific": {
 				"last_known_affected_version_range": "< 0.7.33",
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2019/10/GHSA-85rf-xh54-whp3/GHSA-85rf-xh54-whp3.json"
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/01/GHSA-qwf7-rv77-fcr3/GHSA-qwf7-rv77-fcr3.json"
 			}
 		}
 	],
@@ -160,8 +178,12 @@
 			"url": "https://github.com/boazsegev/iodine/commit/5558233fb7defda706b4f9c87c17759705949889"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/boazsegev/iodine"
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-85rf-xh54-whp3"
+		},
+		{
+			"type": "WEB",
+			"url": "https://vulncheck.com/advisories/vc-advisory-GHSA-85rf-xh54-whp3"
 		}
 	],
 	"database_specific": {
@@ -169,8 +191,8 @@
 			"CWE-22"
 		],
 		"github_reviewed": true,
-		"github_reviewed_at": "2020-04-24T20:13:10Z",
-		"nvd_published_at": null,
+		"github_reviewed_at": "2024-01-05T15:28:54Z",
+		"nvd_published_at": "2024-01-04T21:15:10Z",
 		"severity": "LOW"
 	}
 }

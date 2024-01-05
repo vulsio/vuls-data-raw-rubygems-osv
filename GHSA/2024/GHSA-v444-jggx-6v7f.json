@@ -1,13 +1,10 @@
 {
 	"schema_version": "1.6.0",
-	"id": "GHSA-hjp3-5g2q-7jww",
-	"modified": "2024-01-05T15:41:56.356647Z",
-	"published": "2023-05-01T14:00:47Z",
-	"aliases": [
-		"CVE-2024-22047"
-	],
-	"summary": "Race Condition leading to logging errors",
-	"details": "In certain setups with threaded web servers, Audited's use of `Thread.current` can incorrectly attributed audits to the wrong user. \n\nFixed in 5.3.3. \n\nIn March, @convisoappsec noticed that the library in question had a Race Condition problem, which caused logs to be registered at times with different users than those who performed the genuine actions.\n\n- The first issue we identified was from November 2021: https://github.com/collectiveidea/audited/issues/601 \n- So the solution was implemented in the following Pull Request: https://github.com/collectiveidea/audited/pull/669 \n- And the feature was published in version 5.3.3: RELEASE: https://github.com/collectiveidea/audited/pull/671\n",
+	"id": "GHSA-v444-jggx-6v7f",
+	"modified": "2024-01-05T15:31:17.205116Z",
+	"published": "2024-01-04T21:30:24Z",
+	"summary": "Duplicate Advisory: Race Condition leading to logging errors",
+	"details": "### Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-hjp3-5g2q-7jww. This link is maintained to preserve external references.\n\n### Original Description\nA race condition exists in Audited 4.0.0 to 5.3.3 that can result in an authenticated user to cause audit log entries to be attributed to another user.\n\n",
 	"severity": [
 		{
 			"type": "CVSS_V3",
@@ -27,9 +24,6 @@
 					"events": [
 						{
 							"introduced": "4.0.0"
-						},
-						{
-							"fixed": "5.3.3"
 						}
 					]
 				}
@@ -56,10 +50,15 @@
 				"5.2.0",
 				"5.3.0",
 				"5.3.1",
-				"5.3.2"
+				"5.3.2",
+				"5.3.3",
+				"5.4.0",
+				"5.4.1",
+				"5.4.2"
 			],
 			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/05/GHSA-hjp3-5g2q-7jww/GHSA-hjp3-5g2q-7jww.json"
+				"last_known_affected_version_range": "< 5.3.3",
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/01/GHSA-v444-jggx-6v7f/GHSA-v444-jggx-6v7f.json"
 			}
 		}
 	],
@@ -85,15 +84,21 @@
 			"url": "https://github.com/collectiveidea/audited/pull/671"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/collectiveidea/audited"
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-hjp3-5g2q-7jww"
+		},
+		{
+			"type": "WEB",
+			"url": "https://vulncheck.com/advisories/vc-advisory-GHSA-hjp3-5g2q-7jww"
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-362"
+		],
 		"github_reviewed": true,
-		"github_reviewed_at": "2023-05-01T14:00:47Z",
-		"nvd_published_at": null,
+		"github_reviewed_at": "2024-01-05T15:27:09Z",
+		"nvd_published_at": "2024-01-04T21:15:09Z",
 		"severity": "LOW"
 	}
 }
