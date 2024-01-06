@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ggxm-pgc9-g7fp",
-	"modified": "2023-11-08T04:05:50.852316Z",
+	"modified": "2024-01-05T17:46:01.002070Z",
 	"published": "2021-09-01T18:53:15Z",
 	"aliases": [
 		"CVE-2021-31799"
@@ -157,6 +157,10 @@
 		{
 			"type": "WEB",
 			"url": "https://security-tracker.debian.org/tracker/CVE-2021-31799"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202401-05"
 		},
 		{
 			"type": "WEB",

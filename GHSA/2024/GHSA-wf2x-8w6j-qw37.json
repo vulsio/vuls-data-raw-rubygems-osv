@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wf2x-8w6j-qw37",
-	"modified": "2024-01-04T22:11:49.678800Z",
+	"modified": "2024-01-05T19:26:00.767570Z",
 	"published": "2024-01-04T21:54:34Z",
 	"aliases": [
 		"CVE-2024-21636"
@@ -185,6 +185,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/ViewComponent/view_component"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/view_component/CVE-2024-21636.yml"
 		}
 	],
 	"database_specific": {
