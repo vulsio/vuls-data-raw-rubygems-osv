@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-85rf-xh54-whp3",
-	"modified": "2024-01-05T15:57:23.054946Z",
+	"modified": "2024-01-08T19:31:59.290068Z",
 	"published": "2019-10-07T16:52:13Z",
 	"aliases": [
 		"CVE-2024-22050"
@@ -141,7 +141,6 @@
 				"0.7.9"
 			],
 			"database_specific": {
-				"last_known_affected_version_range": "< 0.7.33",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2019/10/GHSA-85rf-xh54-whp3/GHSA-85rf-xh54-whp3.json"
 			}
 		}
@@ -162,6 +161,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/boazsegev/iodine"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/iodine/CVE-2024-22050.yml"
 		}
 	],
 	"database_specific": {

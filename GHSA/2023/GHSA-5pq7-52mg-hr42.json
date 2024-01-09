@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5pq7-52mg-hr42",
-	"modified": "2024-01-05T15:57:22.981705Z",
+	"modified": "2024-01-08T19:31:44.821189Z",
 	"published": "2023-01-03T13:36:46Z",
 	"aliases": [
 		"CVE-2024-22049"
@@ -141,6 +141,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/jnunemaker/httparty/blob/4416141d37fd71bdba4f37589ec265f55aa446ce/lib/httparty/request/body.rb#L43"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/httparty/CVE-2024-22049.yml"
 		}
 	],
 	"database_specific": {

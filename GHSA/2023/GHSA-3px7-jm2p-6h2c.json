@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3px7-jm2p-6h2c",
-	"modified": "2024-01-05T15:41:56.273755Z",
+	"modified": "2024-01-08T19:31:28.484078Z",
 	"published": "2023-10-24T02:00:50Z",
 	"aliases": [
 		"CVE-2024-0241"
@@ -63,6 +63,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/stevegeek/encoded_id-rails/commit/afa495a77b8a21ad582611f9cdc2081dc4018b91"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/encoded_id-rails/CVE-2024-0241.yml"
 		},
 		{
 			"type": "PACKAGE",

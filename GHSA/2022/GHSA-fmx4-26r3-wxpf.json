@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fmx4-26r3-wxpf",
-	"modified": "2024-01-05T15:57:23.128153Z",
+	"modified": "2024-01-08T19:30:57.990884Z",
 	"published": "2022-03-03T20:28:47Z",
 	"aliases": [
 		"CVE-2024-22051"
@@ -136,6 +136,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/gjtorikian/commonmarker"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/commonmarker/CVE-2024-22051.yml"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hjp3-5g2q-7jww",
-	"modified": "2024-01-05T15:41:56.356647Z",
+	"modified": "2024-01-08T19:31:12.965192Z",
 	"published": "2023-05-01T14:00:47Z",
 	"aliases": [
 		"CVE-2024-22047"
@@ -85,8 +85,16 @@
 			"url": "https://github.com/collectiveidea/audited/pull/671"
 		},
 		{
+			"type": "WEB",
+			"url": "https://github.com/collectiveidea/audited/commit/342734c9396d8f96d3165f1d8531c626139fa4c6"
+		},
+		{
 			"type": "PACKAGE",
 			"url": "https://github.com/collectiveidea/audited"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/audited/CVE-2024-22047.yml"
 		}
 	],
 	"database_specific": {

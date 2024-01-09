@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x2xw-hw8g-6773",
-	"modified": "2024-01-05T15:41:56.438160Z",
+	"modified": "2024-01-08T19:32:13.702606Z",
 	"published": "2023-04-11T15:41:30Z",
 	"aliases": [
 		"CVE-2024-22048"
@@ -77,12 +77,20 @@
 			"url": "https://github.com/alphagov/tech-docs-gem/pull/323"
 		},
 		{
+			"type": "WEB",
+			"url": "https://github.com/alphagov/tech-docs-gem/commit/a51c7058cec46bf2a4e25a1da62b14ac3fd46b53"
+		},
+		{
 			"type": "PACKAGE",
 			"url": "https://github.com/alphagov/tech-docs-gem"
 		},
 		{
 			"type": "WEB",
 			"url": "https://github.com/alphagov/tech-docs-gem/releases/tag/v3.3.1"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/govuk_tech_docs/CVE-2024-22048.yml"
 		}
 	],
 	"database_specific": {
