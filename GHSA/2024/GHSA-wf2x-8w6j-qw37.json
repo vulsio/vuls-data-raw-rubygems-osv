@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wf2x-8w6j-qw37",
-	"modified": "2024-01-05T19:26:00.767570Z",
+	"modified": "2024-01-09T16:14:08.149164Z",
 	"published": "2024-01-04T21:54:34Z",
 	"aliases": [
 		"CVE-2024-21636"
@@ -26,10 +26,44 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "3.0.0"
 						},
 						{
 							"fixed": "3.9.0"
+						}
+					]
+				}
+			],
+			"versions": [
+				"3.0.0",
+				"3.1.0",
+				"3.2.0",
+				"3.3.0",
+				"3.4.0",
+				"3.5.0",
+				"3.6.0",
+				"3.7.0",
+				"3.8.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/01/GHSA-wf2x-8w6j-qw37/GHSA-wf2x-8w6j-qw37.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "view_component",
+				"purl": "pkg:gem/view_component"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.83.0"
 						}
 					]
 				}
@@ -143,22 +177,7 @@
 				"2.80.0",
 				"2.81.0",
 				"2.82.0",
-				"2.9.0",
-				"3.0.0",
-				"3.0.0.rc1",
-				"3.0.0.rc2",
-				"3.0.0.rc3",
-				"3.0.0.rc4",
-				"3.0.0.rc5",
-				"3.0.0.rc6",
-				"3.1.0",
-				"3.2.0",
-				"3.3.0",
-				"3.4.0",
-				"3.5.0",
-				"3.6.0",
-				"3.7.0",
-				"3.8.0"
+				"2.9.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/01/GHSA-wf2x-8w6j-qw37/GHSA-wf2x-8w6j-qw37.json"
@@ -180,7 +199,15 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/ViewComponent/view_component/pull/1962"
+		},
+		{
+			"type": "WEB",
 			"url": "https://github.com/ViewComponent/view_component/commit/0d26944a8d2730ea40e60eae23d70684483e5017"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/ViewComponent/view_component/commit/c43d8bafa7117cbce479669a423ab266de150697"
 		},
 		{
 			"type": "PACKAGE",
