@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qcm3-vfq5-wfr2",
-	"modified": "2024-01-09T23:46:03.925536Z",
+	"modified": "2024-01-10T16:19:53.149311Z",
 	"published": "2023-06-06T18:30:20Z",
 	"aliases": [
 		"CVE-2023-31606"
@@ -101,6 +101,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.debian.org/debian-lts-announce/2023/07/msg00002.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202401-14"
 		}
 	],
 	"database_specific": {
