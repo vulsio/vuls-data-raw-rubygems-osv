@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hv5j-3h9f-99c2",
-	"modified": "2023-11-08T04:12:14.454511Z",
+	"modified": "2024-01-24T19:30:58.308940Z",
 	"published": "2023-03-31T06:30:15Z",
 	"aliases": [
 		"CVE-2023-28755"
@@ -143,6 +143,18 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/FFZANOQA4RYX7XCB42OO3P24DQKWHEKA/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/G76GZG3RAGYF4P75YY7J7TGYAU7Z5E2T/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/WMIOPLBAAM3FEQNAXA2L7BDKOGSVUT5Z/"
+		},
+		{
+			"type": "WEB",
 			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/FFZANOQA4RYX7XCB42OO3P24DQKWHEKA/"
 		},
 		{
@@ -152,6 +164,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WMIOPLBAAM3FEQNAXA2L7BDKOGSVUT5Z/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202401-27"
 		},
 		{
 			"type": "WEB",

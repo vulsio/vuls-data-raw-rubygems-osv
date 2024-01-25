@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qg54-694p-wgpp",
-	"modified": "2023-12-06T01:01:37.716760Z",
+	"modified": "2024-01-24T19:31:31.938497Z",
 	"published": "2021-11-16T00:32:30Z",
 	"aliases": [
 		"BIT-ruby-2021-41817",
@@ -148,11 +148,23 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/IUXQCH6FRKANCVZO2Q7D2SQX33FP3KWN/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/UTOJGS5IEFDK3UOO7IY4OTTFGHGLSWZF/"
+		},
+		{
+			"type": "WEB",
 			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/IUXQCH6FRKANCVZO2Q7D2SQX33FP3KWN/"
 		},
 		{
 			"type": "WEB",
 			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/UTOJGS5IEFDK3UOO7IY4OTTFGHGLSWZF/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202401-27"
 		},
 		{
 			"type": "WEB",
