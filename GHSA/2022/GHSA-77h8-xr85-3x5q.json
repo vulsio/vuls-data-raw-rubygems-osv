@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-77h8-xr85-3x5q",
-	"modified": "2023-11-08T03:59:19.735998Z",
+	"modified": "2024-01-26T20:31:47.515357Z",
 	"published": "2022-05-13T01:36:51Z",
 	"aliases": [
 		"CVE-2017-2667"
@@ -100,6 +100,10 @@
 		{
 			"type": "WEB",
 			"url": "http://projects.theforeman.org/issues/19033"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.securityfocus.com/bid/97153"
 		}
 	],
 	"database_specific": {
