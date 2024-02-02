@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2rqw-v265-jf8c",
-	"modified": "2023-11-08T04:05:01.941538Z",
+	"modified": "2024-02-02T16:06:37.333699Z",
 	"published": "2021-08-26T20:36:51Z",
 	"aliases": [
 		"CVE-2021-22942"
@@ -118,6 +118,10 @@
 		{
 			"type": "WEB",
 			"url": "https://rubygems.org/gems/actionpack"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20240202-0005/"
 		},
 		{
 			"type": "WEB",
