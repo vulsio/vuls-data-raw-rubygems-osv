@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vrh7-99jh-3fmm",
-	"modified": "2024-02-06T23:11:36.321926Z",
+	"modified": "2024-02-07T19:46:04.867433Z",
 	"published": "2022-05-02T06:10:33Z",
 	"aliases": [
 		"CVE-2010-0156"
@@ -91,6 +91,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/puppetlabs/puppet"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/puppet/CVE-2010-0156.yml"
 		},
 		{
 			"type": "WEB",
