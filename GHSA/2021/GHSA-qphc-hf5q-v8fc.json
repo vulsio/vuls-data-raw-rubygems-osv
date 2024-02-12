@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qphc-hf5q-v8fc",
-	"modified": "2023-11-08T04:07:16.984265Z",
+	"modified": "2024-02-08T13:27:14.763095Z",
 	"published": "2021-12-14T21:19:08Z",
 	"aliases": [
 		"CVE-2021-44528"
@@ -128,6 +128,10 @@
 		{
 			"type": "WEB",
 			"url": "https://groups.google.com/g/ruby-security-ann/c/vG9gz3nk1pM/m/7-NU4MNrDAAJ?utm_medium=email&utm_source=footer"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20240208-0003/"
 		},
 		{
 			"type": "WEB",

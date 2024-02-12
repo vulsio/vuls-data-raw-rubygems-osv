@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cmcx-xhr8-3w9p",
-	"modified": "2023-11-08T04:03:52.784360Z",
+	"modified": "2024-02-08T23:03:33.592527Z",
 	"published": "2020-02-20T23:26:10Z",
 	"aliases": [
 		"CVE-2020-5243"
@@ -111,11 +111,12 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
+			"CWE-1333",
 			"CWE-20"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2020-02-20T23:09:32Z",
-		"nvd_published_at": null,
+		"nvd_published_at": "2020-02-21T00:15:10Z",
 		"severity": "MODERATE"
 	}
 }
