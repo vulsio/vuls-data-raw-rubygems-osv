@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qj2w-mw2r-pv39",
-	"modified": "2023-11-08T03:59:33.727022Z",
+	"modified": "2024-02-14T05:32:45.444762Z",
 	"published": "2022-05-14T01:01:12Z",
 	"aliases": [
 		"CVE-2018-1000074"
@@ -346,15 +346,15 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3621-1/"
+			"url": "https://usn.ubuntu.com/3621-1"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3621-2/"
+			"url": "https://usn.ubuntu.com/3621-2"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3685-1/"
+			"url": "https://usn.ubuntu.com/3685-1"
 		},
 		{
 			"type": "WEB",
