@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cfjv-5498-mph5",
-	"modified": "2023-11-08T04:02:31.923390Z",
+	"modified": "2024-02-15T05:19:30.854243Z",
 	"published": "2020-09-11T15:19:57Z",
 	"aliases": [
 		"CVE-2020-15169"
@@ -254,7 +254,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XJ7NUWXAEVRQCROIIBV4C6WXO6IR3KSB/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XJ7NUWXAEVRQCROIIBV4C6WXO6IR3KSB"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-746g-3gfp-hfhw",
-	"modified": "2023-12-14T22:34:16.640648Z",
+	"modified": "2024-02-15T05:31:37.145018Z",
 	"published": "2023-01-26T23:54:07Z",
 	"aliases": [
 		"CVE-2015-8314"
@@ -194,11 +194,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://rubysec.com/advisories/CVE-2015-8314/"
+			"url": "https://rubysec.com/advisories/CVE-2015-8314"
 		},
 		{
 			"type": "WEB",
-			"url": "http://blog.plataformatec.com.br/2016/01/improve-remember-me-cookie-expiration-in-devise/"
+			"url": "http://blog.plataformatec.com.br/2016/01/improve-remember-me-cookie-expiration-in-devise"
 		}
 	],
 	"database_specific": {

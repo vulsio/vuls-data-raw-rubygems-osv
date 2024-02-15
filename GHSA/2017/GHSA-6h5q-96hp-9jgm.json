@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6h5q-96hp-9jgm",
-	"modified": "2023-11-10T05:35:55.423164Z",
+	"modified": "2024-02-15T05:30:53.051567Z",
 	"published": "2017-10-24T18:33:36Z",
 	"aliases": [
 		"CVE-2013-6415"
@@ -233,7 +233,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://weblog.rubyonrails.org/2013/12/3/Rails_3_2_16_and_4_0_2_have_been_released/"
+			"url": "http://weblog.rubyonrails.org/2013/12/3/Rails_3_2_16_and_4_0_2_have_been_released"
 		},
 		{
 			"type": "WEB",

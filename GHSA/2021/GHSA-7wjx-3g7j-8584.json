@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7wjx-3g7j-8584",
-	"modified": "2023-11-08T04:05:01.502991Z",
+	"modified": "2024-02-15T05:32:55.452878Z",
 	"published": "2021-05-05T19:49:12Z",
 	"aliases": [
 		"CVE-2021-22904"
@@ -356,7 +356,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210805-0009/"
+			"url": "https://security.netapp.com/advisory/ntap-20210805-0009"
 		}
 	],
 	"database_specific": {

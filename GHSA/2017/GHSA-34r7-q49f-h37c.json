@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-34r7-q49f-h37c",
-	"modified": "2023-11-08T03:58:03.563321Z",
+	"modified": "2024-02-15T05:21:18.916397Z",
 	"published": "2017-10-24T18:33:36Z",
 	"aliases": [
 		"CVE-2015-8857"
@@ -135,7 +135,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://zyan.scripts.mit.edu/blog/backdooring-js/"
+			"url": "https://zyan.scripts.mit.edu/blog/backdooring-js"
 		},
 		{
 			"type": "WEB",

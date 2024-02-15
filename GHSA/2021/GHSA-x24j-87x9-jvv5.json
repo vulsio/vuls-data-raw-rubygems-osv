@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x24j-87x9-jvv5",
-	"modified": "2023-12-06T01:00:58.054282Z",
+	"modified": "2024-02-15T05:32:12.266359Z",
 	"published": "2021-11-03T17:34:22Z",
 	"aliases": [
 		"BIT-publify-2021-25973",
@@ -66,8 +66,8 @@
 			"url": "https://github.com/publify/publify/commit/3447e0241e921b65f6eb1090453d8ea73e98387e"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/publify/publify/"
+			"type": "WEB",
+			"url": "https://github.com/publify/publify"
 		},
 		{
 			"type": "WEB",

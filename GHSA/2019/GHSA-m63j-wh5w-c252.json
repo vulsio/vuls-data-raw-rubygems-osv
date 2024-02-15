@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m63j-wh5w-c252",
-	"modified": "2023-11-09T05:35:43.870717Z",
+	"modified": "2024-02-15T05:32:36.832240Z",
 	"published": "2019-03-13T17:25:55Z",
 	"aliases": [
 		"CVE-2019-5419"
@@ -307,11 +307,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/Y43636TH4D6T46IC6N2RQVJTRFJAAYGA/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/Y43636TH4D6T46IC6N2RQVJTRFJAAYGA"
 		},
 		{
 			"type": "WEB",
-			"url": "https://weblog.rubyonrails.org/2019/3/13/Rails-4-2-5-1-5-1-6-2-have-been-released/"
+			"url": "https://weblog.rubyonrails.org/2019/3/13/Rails-4-2-5-1-5-1-6-2-have-been-released"
 		},
 		{
 			"type": "WEB",

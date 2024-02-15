@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xgv7-pqqh-h2w9",
-	"modified": "2023-12-14T22:34:54.494342Z",
+	"modified": "2024-02-15T05:43:55.870862Z",
 	"published": "2023-01-19T17:51:27Z",
 	"aliases": [
 		"CVE-2009-4123"
@@ -66,8 +66,8 @@
 			"url": "https://github.com/advisories/GHSA-xgv7-pqqh-h2w9"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jruby/jruby-openssl/"
+			"type": "WEB",
+			"url": "https://github.com/jruby/jruby-openssl"
 		},
 		{
 			"type": "WEB",

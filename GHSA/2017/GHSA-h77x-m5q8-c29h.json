@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h77x-m5q8-c29h",
-	"modified": "2023-11-08T03:57:11.014263Z",
+	"modified": "2024-02-15T05:30:43.163041Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2012-6109"
@@ -160,8 +160,8 @@
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=895277"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/rack/rack/"
+			"type": "WEB",
+			"url": "https://github.com/rack/rack"
 		},
 		{
 			"type": "WEB",

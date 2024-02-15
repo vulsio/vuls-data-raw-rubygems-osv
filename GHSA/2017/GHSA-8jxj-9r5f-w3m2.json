@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8jxj-9r5f-w3m2",
-	"modified": "2023-11-10T05:18:30.580253Z",
+	"modified": "2024-02-15T05:30:26.622096Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2012-3866"
@@ -79,7 +79,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://puppetlabs.com/security/cve/cve-2012-3866/"
+			"url": "http://puppetlabs.com/security/cve/cve-2012-3866"
 		},
 		{
 			"type": "WEB",

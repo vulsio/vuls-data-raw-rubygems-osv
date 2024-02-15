@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-65cv-r6x7-79hv",
-	"modified": "2023-11-08T04:03:53.637928Z",
+	"modified": "2024-02-15T05:33:18.084630Z",
 	"published": "2020-03-19T17:30:29Z",
 	"aliases": [
 		"CVE-2020-5267"
@@ -243,7 +243,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XJ7NUWXAEVRQCROIIBV4C6WXO6IR3KSB/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XJ7NUWXAEVRQCROIIBV4C6WXO6IR3KSB"
 		},
 		{
 			"type": "WEB",

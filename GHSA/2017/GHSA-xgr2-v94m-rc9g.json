@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xgr2-v94m-rc9g",
-	"modified": "2023-11-08T03:57:13.725615Z",
+	"modified": "2024-02-15T05:25:28.288796Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-0333"
@@ -183,7 +183,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://weblog.rubyonrails.org/2013/1/28/Rails-3-0-20-and-2-3-16-have-been-released/"
+			"url": "http://weblog.rubyonrails.org/2013/1/28/Rails-3-0-20-and-2-3-16-have-been-released"
 		},
 		{
 			"type": "WEB",

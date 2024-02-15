@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gx69-6cp4-hxrj",
-	"modified": "2023-11-08T03:59:33.664798Z",
+	"modified": "2024-02-15T05:32:57.090897Z",
 	"published": "2022-05-13T01:18:44Z",
 	"aliases": [
 		"CVE-2018-1000073"
@@ -346,7 +346,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3621-1/"
+			"url": "https://usn.ubuntu.com/3621-1"
 		},
 		{
 			"type": "WEB",

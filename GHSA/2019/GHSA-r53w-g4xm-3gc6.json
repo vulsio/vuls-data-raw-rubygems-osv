@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r53w-g4xm-3gc6",
-	"modified": "2023-11-08T03:58:48.435823Z",
+	"modified": "2024-02-15T05:26:32.295732Z",
 	"published": "2019-10-21T21:59:13Z",
 	"aliases": [
 		"CVE-2017-1002201",
@@ -195,8 +195,8 @@
 			"url": "https://github.com/haml/haml/commit/18576ae6e9bdcb4303fdbe6b3199869d289d67c2"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/haml/haml/"
+			"type": "WEB",
+			"url": "https://github.com/haml/haml"
 		},
 		{
 			"type": "WEB",

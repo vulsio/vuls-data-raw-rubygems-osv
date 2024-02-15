@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vxf6-w9mp-95hm",
-	"modified": "2023-11-08T03:57:05.980346Z",
+	"modified": "2024-02-15T05:32:12.141122Z",
 	"published": "2017-10-24T18:33:38Z",
 	"aliases": [
 		"CVE-2012-3408"
@@ -121,7 +121,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://puppetlabs.com/security/cve/cve-2012-3408/"
+			"url": "http://puppetlabs.com/security/cve/cve-2012-3408"
 		}
 	],
 	"database_specific": {

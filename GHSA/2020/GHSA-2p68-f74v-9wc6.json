@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2p68-f74v-9wc6",
-	"modified": "2023-11-08T04:04:14.870971Z",
+	"modified": "2024-02-15T05:19:45.417752Z",
 	"published": "2020-05-26T14:49:24Z",
 	"aliases": [
 		"CVE-2020-8165"
@@ -164,7 +164,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://weblog.rubyonrails.org/2020/5/18/Rails-5-2-4-3-and-6-0-3-1-have-been-released/"
+			"url": "https://weblog.rubyonrails.org/2020/5/18/Rails-5-2-4-3-and-6-0-3-1-have-been-released"
 		},
 		{
 			"type": "WEB",

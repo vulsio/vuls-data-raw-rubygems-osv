@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cj43-9h3w-v976",
-	"modified": "2023-11-10T05:43:53.334698Z",
+	"modified": "2024-02-15T05:23:10.341982Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-4761"
@@ -107,7 +107,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://puppetlabs.com/security/cve/cve-2013-4761/"
+			"url": "http://puppetlabs.com/security/cve/cve-2013-4761"
 		},
 		{
 			"type": "WEB",

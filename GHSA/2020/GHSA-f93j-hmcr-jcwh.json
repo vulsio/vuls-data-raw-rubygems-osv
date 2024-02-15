@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f93j-hmcr-jcwh",
-	"modified": "2023-11-08T03:57:55.413724Z",
+	"modified": "2024-02-15T05:21:14.116608Z",
 	"published": "2020-08-19T16:45:49Z",
 	"aliases": [
 		"CVE-2015-4410"
@@ -119,8 +119,8 @@
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1229757"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/mongoid/moped/"
+			"type": "WEB",
+			"url": "https://github.com/mongoid/moped"
 		},
 		{
 			"type": "WEB",

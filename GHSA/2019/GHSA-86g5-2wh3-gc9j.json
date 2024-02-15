@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-86g5-2wh3-gc9j",
-	"modified": "2023-11-08T04:01:35.680865Z",
+	"modified": "2024-02-15T05:29:57.459488Z",
 	"published": "2019-03-13T17:26:59Z",
 	"aliases": [
 		"CVE-2019-5418"
@@ -272,15 +272,15 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/Y43636TH4D6T46IC6N2RQVJTRFJAAYGA/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/Y43636TH4D6T46IC6N2RQVJTRFJAAYGA"
 		},
 		{
 			"type": "WEB",
-			"url": "https://weblog.rubyonrails.org/2019/3/13/Rails-4-2-5-1-5-1-6-2-have-been-released/"
+			"url": "https://weblog.rubyonrails.org/2019/3/13/Rails-4-2-5-1-5-1-6-2-have-been-released"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/46585/"
+			"url": "https://www.exploit-db.com/exploits/46585"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fj2w-qmjp-3rjm",
-	"modified": "2023-11-08T04:03:33.256433Z",
+	"modified": "2024-02-15T05:20:46.537731Z",
 	"published": "2022-07-16T00:00:28Z",
 	"aliases": [
 		"CVE-2020-35305"
@@ -56,11 +56,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/Szarny/"
+			"url": "https://github.com/Szarny"
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/gollum/"
+			"url": "https://github.com/gollum"
 		},
 		{
 			"type": "PACKAGE",
