@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rxq3-gm4p-5fj4",
-	"modified": "2024-02-13T19:47:07.909964Z",
+	"modified": "2024-02-14T21:48:01.926005Z",
 	"published": "2017-10-24T18:33:38Z",
 	"aliases": [
 		"CVE-2009-2422"
