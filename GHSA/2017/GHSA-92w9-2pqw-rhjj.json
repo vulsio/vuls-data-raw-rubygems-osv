@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-92w9-2pqw-rhjj",
-	"modified": "2023-11-10T05:31:24.205020Z",
+	"modified": "2024-02-16T05:31:19.806176Z",
 	"published": "2017-10-24T18:33:38Z",
 	"aliases": [
 		"CVE-2012-3424"
@@ -231,7 +231,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://weblog.rubyonrails.org/2012/7/26/ann-rails-3-2-7-has-been-released/"
+			"url": "http://weblog.rubyonrails.org/2012/7/26/ann-rails-3-2-7-has-been-released"
 		}
 	],
 	"database_specific": {

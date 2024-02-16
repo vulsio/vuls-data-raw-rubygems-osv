@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6xxq-j39w-g3f6",
-	"modified": "2024-02-06T16:16:19.591726Z",
+	"modified": "2024-02-16T05:32:08.760582Z",
 	"published": "2022-05-14T00:56:45Z",
 	"aliases": [
 		"CVE-2012-1988"
@@ -131,7 +131,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20121013181707/http://puppetlabs.com/security/cve/cve-2012-1988/"
+			"url": "https://web.archive.org/web/20121013181707/http://puppetlabs.com/security/cve/cve-2012-1988"
 		},
 		{
 			"type": "WEB",
@@ -175,7 +175,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://puppetlabs.com/security/cve/cve-2012-1988/"
+			"url": "http://puppetlabs.com/security/cve/cve-2012-1988"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qp49-3pvw-x4m5",
-	"modified": "2023-11-08T04:09:16.098863Z",
+	"modified": "2024-02-16T05:31:54.337492Z",
 	"published": "2022-05-03T00:00:43Z",
 	"aliases": [
 		"CVE-2022-29970"
@@ -151,8 +151,8 @@
 			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/sinatra/CVE-2022-29970.yml"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/sinatra/sinatra/"
+			"type": "WEB",
+			"url": "https://github.com/sinatra/sinatra"
 		},
 		{
 			"type": "WEB",

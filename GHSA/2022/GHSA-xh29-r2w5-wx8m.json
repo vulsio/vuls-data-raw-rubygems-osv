@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xh29-r2w5-wx8m",
-	"modified": "2023-11-08T04:09:09.116539Z",
+	"modified": "2024-02-16T05:31:34.011928Z",
 	"published": "2022-05-23T23:15:15Z",
 	"aliases": [
 		"CVE-2022-29181"
@@ -217,7 +217,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://securitylab.github.com/advisories/GHSL-2022-031_GHSL-2022-032_Nokogiri/"
+			"url": "https://securitylab.github.com/advisories/GHSL-2022-031_GHSL-2022-032_Nokogiri"
 		},
 		{
 			"type": "WEB",

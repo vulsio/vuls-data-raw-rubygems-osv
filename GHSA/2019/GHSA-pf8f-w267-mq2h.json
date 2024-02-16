@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pf8f-w267-mq2h",
-	"modified": "2023-11-08T04:01:27.010709Z",
+	"modified": "2024-02-16T05:16:28.245381Z",
 	"published": "2019-11-15T20:26:59Z",
 	"aliases": [
 		"CVE-2019-18978"
@@ -86,7 +86,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4571-1/"
+			"url": "https://usn.ubuntu.com/4571-1"
 		},
 		{
 			"type": "WEB",

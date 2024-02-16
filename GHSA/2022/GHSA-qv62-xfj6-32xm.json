@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qv62-xfj6-32xm",
-	"modified": "2023-11-08T03:57:55.045224Z",
+	"modified": "2024-02-16T05:18:34.609831Z",
 	"published": "2022-05-17T00:16:50Z",
 	"aliases": [
 		"CVE-2015-4020"
@@ -240,7 +240,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.trustwave.com/Resources/SpiderLabs-Blog/Attacking-Ruby-Gem-Security-with-CVE-2015-3900/"
+			"url": "https://www.trustwave.com/Resources/SpiderLabs-Blog/Attacking-Ruby-Gem-Security-with-CVE-2015-3900"
 		},
 		{
 			"type": "WEB",

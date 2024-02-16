@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wj5j-xpcj-45gc",
-	"modified": "2023-04-11T01:43:10.272775Z",
+	"modified": "2024-02-16T05:24:25.757304Z",
 	"published": "2021-02-24T19:17:37Z",
 	"summary": "Cross-Site Request Forgery (CSRF)",
 	"details": "# Withdrawn\n\nAffected versions of the package are vulnerable to Cross-Site Request Forgery (CSRF) attacks.",
@@ -96,7 +96,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.sourceclear.com/vulnerability-database/security/cross-site-request-forgery-csrf/ruby/sid-2272/"
+			"url": "https://www.sourceclear.com/vulnerability-database/security/cross-site-request-forgery-csrf/ruby/sid-2272"
 		}
 	],
 	"database_specific": {
