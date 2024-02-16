@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-69p6-wvmq-27gg",
-	"modified": "2023-12-06T01:02:07.716900Z",
+	"modified": "2024-02-16T08:12:46.317789Z",
 	"published": "2022-04-20T00:00:33Z",
 	"aliases": [
 		"BIT-git-2022-25648",

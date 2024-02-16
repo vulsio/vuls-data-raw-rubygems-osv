@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-46j2-xjgp-jrfm",
-	"modified": "2024-02-16T05:32:19.775862Z",
+	"modified": "2024-02-16T08:09:28.174414Z",
 	"published": "2020-05-21T21:09:38Z",
 	"aliases": [
 		"CVE-2020-8151"

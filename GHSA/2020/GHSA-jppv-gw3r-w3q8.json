@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jppv-gw3r-w3q8",
-	"modified": "2023-11-08T04:04:13.833286Z",
+	"modified": "2024-02-16T08:12:16.389980Z",
 	"published": "2020-02-28T16:54:36Z",
 	"aliases": [
 		"CVE-2020-8130"

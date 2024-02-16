@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mp78-r56v-45qc",
-	"modified": "2023-11-08T03:57:51.367450Z",
+	"modified": "2024-02-16T08:03:16.123580Z",
 	"published": "2018-08-28T22:34:31Z",
 	"aliases": [
 		"CVE-2015-1866"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v6fx-752r-ccp2",
-	"modified": "2023-11-08T04:02:39.375498Z",
+	"modified": "2024-02-16T08:23:18.681389Z",
 	"published": "2020-08-05T14:53:43Z",
 	"aliases": [
 		"CVE-2020-16253"

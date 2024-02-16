@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c2v4-chx5-vff6",
-	"modified": "2024-01-05T15:46:26.144169Z",
+	"modified": "2024-02-16T08:18:53.384359Z",
 	"published": "2024-01-04T21:30:24Z",
 	"summary": "Duplicate Advisory: Integer overflow in cmark-gfm table parsing extension leads to heap memory corruption",
 	"details": "### Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-fmx4-26r3-wxpf. This link is maintained to preserve external references.\n\n### Original Description\nCommonMarker versions prior to 0.23.4 are at risk of an integer overflow vulnerability. This vulnerability can result in possibly unauthenticated remote attackers to cause heap memory corruption, potentially leading to an information leak or remote code execution, via parsing tables with marker rows that contain more than UINT16_MAX columns.\n\n",

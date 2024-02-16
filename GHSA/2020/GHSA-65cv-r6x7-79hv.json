@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-65cv-r6x7-79hv",
-	"modified": "2024-02-15T05:33:18.084630Z",
+	"modified": "2024-02-16T08:23:07.935097Z",
 	"published": "2020-03-19T17:30:29Z",
 	"aliases": [
 		"CVE-2020-5267"

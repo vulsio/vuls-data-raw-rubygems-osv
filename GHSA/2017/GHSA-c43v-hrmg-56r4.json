@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c43v-hrmg-56r4",
-	"modified": "2023-11-08T03:57:23.402697Z",
+	"modified": "2024-02-16T07:59:06.170334Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-4457"

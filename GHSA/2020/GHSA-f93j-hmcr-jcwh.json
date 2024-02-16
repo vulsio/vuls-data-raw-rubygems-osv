@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f93j-hmcr-jcwh",
-	"modified": "2024-02-15T05:21:14.116608Z",
+	"modified": "2024-02-16T08:10:02.211472Z",
 	"published": "2020-08-19T16:45:49Z",
 	"aliases": [
 		"CVE-2015-4410"

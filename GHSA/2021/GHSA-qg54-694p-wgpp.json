@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qg54-694p-wgpp",
-	"modified": "2024-01-24T19:31:31.938497Z",
+	"modified": "2024-02-16T08:12:24.156597Z",
 	"published": "2021-11-16T00:32:30Z",
 	"aliases": [
 		"BIT-ruby-2021-41817",

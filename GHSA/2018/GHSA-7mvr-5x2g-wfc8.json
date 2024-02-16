@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7mvr-5x2g-wfc8",
-	"modified": "2024-01-23T16:16:14.438763Z",
+	"modified": "2024-02-16T08:21:31.396842Z",
 	"published": "2018-09-13T15:50:32Z",
 	"aliases": [
 		"CVE-2018-14042"

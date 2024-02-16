@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pf6m-fxpq-fg8v",
-	"modified": "2023-11-08T03:59:21.448672Z",
+	"modified": "2024-02-16T08:13:08.873821Z",
 	"published": "2018-07-31T18:21:29Z",
 	"aliases": [
 		"CVE-2017-5029"

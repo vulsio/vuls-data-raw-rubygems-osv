@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c4mc-49hq-q275",
-	"modified": "2024-02-14T05:26:27.905808Z",
+	"modified": "2024-02-16T08:03:14.174981Z",
 	"published": "2022-05-14T00:56:45Z",
 	"aliases": [
 		"CVE-2012-1906"

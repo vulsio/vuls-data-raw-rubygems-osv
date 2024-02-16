@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9jfq-54vc-9rr2",
-	"modified": "2023-11-09T05:25:19.966560Z",
+	"modified": "2024-02-16T08:08:39.817640Z",
 	"published": "2023-09-22T15:30:15Z",
 	"summary": "Foreman Transpilation Enables OS Command Injection",
 	"details": "A command injection flaw was found in foreman. This flaw allows an authenticated user with admin privileges on the foreman instance to transpile commands through CoreOS and Fedora CoreOS configurations in templates, possibly resulting in arbitrary command execution on the underlying operating system.",

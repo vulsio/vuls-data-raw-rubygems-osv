@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j7qv-pgf6-hvh4",
-	"modified": "2023-12-06T01:01:33.204791Z",
+	"modified": "2024-02-16T08:12:53.480275Z",
 	"published": "2021-10-26T14:55:21Z",
 	"aliases": [
 		"BIT-drupal-2021-41183",

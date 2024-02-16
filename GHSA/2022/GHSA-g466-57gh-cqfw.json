@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g466-57gh-cqfw",
-	"modified": "2023-11-08T03:56:52.416094Z",
+	"modified": "2024-02-16T08:18:59.569847Z",
 	"published": "2022-05-17T05:30:58Z",
 	"aliases": [
 		"CVE-2008-7311"

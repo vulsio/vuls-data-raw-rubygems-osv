@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-685w-vc84-wxcx",
-	"modified": "2023-11-08T03:57:45.541481Z",
+	"modified": "2024-02-16T08:11:01.255860Z",
 	"published": "2018-09-17T21:55:22Z",
 	"aliases": [
 		"CVE-2014-8144"

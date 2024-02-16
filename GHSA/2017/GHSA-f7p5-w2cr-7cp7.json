@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f7p5-w2cr-7cp7",
-	"modified": "2024-02-15T05:30:47.464109Z",
+	"modified": "2024-02-16T08:17:46.440817Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-3567"

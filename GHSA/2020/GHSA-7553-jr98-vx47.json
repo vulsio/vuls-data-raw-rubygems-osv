@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7553-jr98-vx47",
-	"modified": "2023-11-08T04:03:59.514310Z",
+	"modified": "2024-02-16T08:09:58.442178Z",
 	"published": "2020-02-24T19:12:36Z",
 	"aliases": [
 		"CVE-2020-7595"

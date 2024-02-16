@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-257q-pv89-v3xv",
-	"modified": "2024-02-13T22:17:49.169424Z",
+	"modified": "2024-02-16T08:07:44.671870Z",
 	"published": "2023-06-26T21:30:58Z",
 	"aliases": [
 		"CVE-2020-23064",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-76wm-422q-92mq",
-	"modified": "2023-11-08T04:01:46.002639Z",
+	"modified": "2024-02-16T08:05:58.997983Z",
 	"published": "2019-06-20T16:06:11Z",
 	"aliases": [
 		"CVE-2019-8324"

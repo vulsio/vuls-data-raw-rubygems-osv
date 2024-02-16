@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hrj5-qp7x-rpg6",
-	"modified": "2023-11-08T04:00:40.846774Z",
+	"modified": "2024-02-16T08:19:08.502621Z",
 	"published": "2019-07-26T16:10:15Z",
 	"aliases": [
 		"CVE-2019-1010191"

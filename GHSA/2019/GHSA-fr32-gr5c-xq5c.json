@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fr32-gr5c-xq5c",
-	"modified": "2023-11-08T04:01:45.820100Z",
+	"modified": "2024-02-16T08:01:58.841157Z",
 	"published": "2019-06-20T16:06:04Z",
 	"aliases": [
 		"CVE-2019-8321"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-746g-3gfp-hfhw",
-	"modified": "2024-02-15T05:31:37.145018Z",
+	"modified": "2024-02-16T08:13:56.118671Z",
 	"published": "2023-01-26T23:54:07Z",
 	"aliases": [
 		"CVE-2015-8314"

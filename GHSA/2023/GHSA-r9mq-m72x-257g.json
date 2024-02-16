@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r9mq-m72x-257g",
-	"modified": "2023-12-22T22:32:48.546697Z",
+	"modified": "2024-02-16T08:16:47.591691Z",
 	"published": "2023-12-18T19:33:58Z",
 	"aliases": [
 		"CVE-2023-50727"

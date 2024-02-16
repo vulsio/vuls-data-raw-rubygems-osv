@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j838-vfpq-fmf2",
-	"modified": "2024-02-16T05:22:16.322906Z",
+	"modified": "2024-02-16T08:25:42.989203Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-1857"

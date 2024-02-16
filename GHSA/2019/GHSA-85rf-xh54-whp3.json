@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-85rf-xh54-whp3",
-	"modified": "2024-01-08T19:31:59.290068Z",
+	"modified": "2024-02-16T08:18:14.629854Z",
 	"published": "2019-10-07T16:52:13Z",
 	"aliases": [
 		"CVE-2024-22050"

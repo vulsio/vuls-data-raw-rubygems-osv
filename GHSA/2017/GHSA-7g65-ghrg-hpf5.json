@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7g65-ghrg-hpf5",
-	"modified": "2024-02-16T05:32:16.721120Z",
+	"modified": "2024-02-16T08:16:31.391551Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2012-3465"

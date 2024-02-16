@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wh98-p28r-vrc9",
-	"modified": "2024-02-16T05:36:01.428139Z",
+	"modified": "2024-02-16T08:22:11.213707Z",
 	"published": "2022-02-11T20:49:14Z",
 	"aliases": [
 		"CVE-2022-23633",

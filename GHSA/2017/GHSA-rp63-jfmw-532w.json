@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rp63-jfmw-532w",
-	"modified": "2023-11-08T03:57:04.885577Z",
+	"modified": "2024-02-16T08:23:53.146129Z",
 	"published": "2017-10-24T18:33:38Z",
 	"aliases": [
 		"CVE-2012-2140"

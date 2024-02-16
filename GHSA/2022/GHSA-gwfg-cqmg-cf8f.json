@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gwfg-cqmg-cf8f",
-	"modified": "2023-12-06T01:00:24.797966Z",
+	"modified": "2024-02-16T08:21:13.017925Z",
 	"published": "2022-05-24T17:30:10Z",
 	"aliases": [
 		"BIT-ruby-2020-25613",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w542-cpp9-r3g7",
-	"modified": "2023-11-08T04:02:39.314573Z",
+	"modified": "2024-02-16T08:19:37.390564Z",
 	"published": "2020-08-05T14:53:34Z",
 	"aliases": [
 		"CVE-2020-16252"

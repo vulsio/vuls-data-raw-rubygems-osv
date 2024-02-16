@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mf6w-45cf-qhmp",
-	"modified": "2023-11-08T03:58:03.996815Z",
+	"modified": "2024-02-16T08:22:26.485373Z",
 	"published": "2018-08-15T20:04:44Z",
 	"aliases": [
 		"CVE-2015-8969"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-35mm-cc6r-8fjp",
-	"modified": "2023-11-08T04:04:16.144012Z",
+	"modified": "2024-02-16T07:59:11.354962Z",
 	"published": "2021-04-07T20:58:47Z",
 	"aliases": [
 		"CVE-2020-8264"

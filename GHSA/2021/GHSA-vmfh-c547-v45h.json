@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vmfh-c547-v45h",
-	"modified": "2023-11-08T04:06:05.621396Z",
+	"modified": "2024-02-16T08:22:58.544138Z",
 	"published": "2021-10-06T17:48:27Z",
 	"aliases": [
 		"CVE-2021-33575"

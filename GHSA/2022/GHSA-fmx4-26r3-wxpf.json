@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fmx4-26r3-wxpf",
-	"modified": "2024-01-30T20:14:02.115207Z",
+	"modified": "2024-02-16T08:16:24.052821Z",
 	"published": "2022-03-03T20:28:47Z",
 	"aliases": [
 		"CVE-2022-24724",

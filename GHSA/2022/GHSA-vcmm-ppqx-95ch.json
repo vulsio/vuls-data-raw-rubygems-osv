@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vcmm-ppqx-95ch",
-	"modified": "2023-11-22T21:31:00.199618Z",
+	"modified": "2024-02-16T08:09:23.721451Z",
 	"published": "2022-05-14T00:58:12Z",
 	"aliases": [
 		"CVE-2016-1000221"

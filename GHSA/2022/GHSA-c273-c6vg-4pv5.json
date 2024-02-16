@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c273-c6vg-4pv5",
-	"modified": "2023-12-06T01:01:52.988414Z",
+	"modified": "2024-02-16T08:23:45.033664Z",
 	"published": "2022-05-24T00:01:48Z",
 	"aliases": [
 		"BIT-publify-2022-1810",

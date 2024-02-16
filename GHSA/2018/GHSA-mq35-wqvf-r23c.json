@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mq35-wqvf-r23c",
-	"modified": "2023-11-08T03:59:46.392221Z",
+	"modified": "2024-02-16T08:16:36.186181Z",
 	"published": "2018-06-05T21:32:06Z",
 	"aliases": [
 		"CVE-2018-11627"

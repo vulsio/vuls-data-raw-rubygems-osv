@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f68m-q26r-64f6",
-	"modified": "2024-02-09T22:01:10.021661Z",
+	"modified": "2024-02-16T08:20:11.804370Z",
 	"published": "2022-05-17T05:26:20Z",
 	"aliases": [
 		"CVE-2010-5142"

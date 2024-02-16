@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wj5j-xpcj-45gc",
-	"modified": "2024-02-16T05:24:25.757304Z",
+	"modified": "2024-02-16T08:15:56.013166Z",
 	"published": "2021-02-24T19:17:37Z",
 	"summary": "Cross-Site Request Forgery (CSRF)",
 	"details": "# Withdrawn\n\nAffected versions of the package are vulnerable to Cross-Site Request Forgery (CSRF) attacks.",

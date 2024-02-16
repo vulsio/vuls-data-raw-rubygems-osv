@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cr3x-7m39-c6jq",
-	"modified": "2023-12-06T01:00:40.291207Z",
+	"modified": "2024-02-16T08:05:45.499862Z",
 	"published": "2020-07-07T16:34:27Z",
 	"aliases": [
 		"BIT-rails-2020-8163",

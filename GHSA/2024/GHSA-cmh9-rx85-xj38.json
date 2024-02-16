@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cmh9-rx85-xj38",
-	"modified": "2024-02-15T06:46:03.835111Z",
+	"modified": "2024-02-16T08:08:31.246575Z",
 	"published": "2024-02-13T18:34:16Z",
 	"aliases": [
 		"CVE-2024-25122"

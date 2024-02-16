@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mpmx-gm5v-q789",
-	"modified": "2024-01-19T20:15:10.926607Z",
+	"modified": "2024-02-16T08:21:23.379671Z",
 	"published": "2022-05-14T00:56:55Z",
 	"aliases": [
 		"CVE-2011-3871"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cfjv-5498-mph5",
-	"modified": "2024-02-15T05:19:30.854243Z",
+	"modified": "2024-02-16T08:09:49.740061Z",
 	"published": "2020-09-11T15:19:57Z",
 	"aliases": [
 		"CVE-2020-15169"

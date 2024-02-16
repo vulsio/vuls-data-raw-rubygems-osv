@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cmcx-xhr8-3w9p",
-	"modified": "2024-02-08T23:03:33.592527Z",
+	"modified": "2024-02-16T08:11:49.017078Z",
 	"published": "2020-02-20T23:26:10Z",
 	"aliases": [
 		"CVE-2020-5243"

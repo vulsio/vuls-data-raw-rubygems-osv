@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g8q2-24jh-5hpc",
-	"modified": "2023-10-22T05:20:08.856804Z",
+	"modified": "2024-02-16T08:06:36.357872Z",
 	"published": "2018-07-27T14:47:52Z",
 	"summary": "High severity vulnerability that affects jquery-ui",
 	"details": "Withdrawn, accidental duplicate publish.\n\nCross-site scripting (XSS) vulnerability in jQuery UI before 1.12.0 might allow remote attackers to inject arbitrary web script or HTML via the closeText parameter of the dialog function.",

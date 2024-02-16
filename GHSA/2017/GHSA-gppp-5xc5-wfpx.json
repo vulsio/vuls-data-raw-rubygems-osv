@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gppp-5xc5-wfpx",
-	"modified": "2023-11-08T03:57:12.253300Z",
+	"modified": "2024-02-16T08:12:42.542139Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-0155"
