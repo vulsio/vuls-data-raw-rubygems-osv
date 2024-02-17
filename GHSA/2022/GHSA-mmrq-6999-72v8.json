@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mmrq-6999-72v8",
-	"modified": "2024-02-16T08:23:47.750334Z",
+	"modified": "2024-02-17T05:31:18.481897Z",
 	"published": "2022-05-13T01:50:20Z",
 	"aliases": [
 		"CVE-2018-16395"
@@ -126,11 +126,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190221-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20190221-0002"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3808-1/"
+			"url": "https://usn.ubuntu.com/3808-1"
 		},
 		{
 			"type": "WEB",
@@ -146,23 +146,23 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.ruby-lang.org/en/news/2018/10/17/openssl-x509-name-equality-check-does-not-work-correctly-cve-2018-16395/"
+			"url": "https://www.ruby-lang.org/en/news/2018/10/17/openssl-x509-name-equality-check-does-not-work-correctly-cve-2018-16395"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.ruby-lang.org/en/news/2018/10/17/ruby-2-3-8-released/"
+			"url": "https://www.ruby-lang.org/en/news/2018/10/17/ruby-2-3-8-released"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.ruby-lang.org/en/news/2018/10/17/ruby-2-4-5-released/"
+			"url": "https://www.ruby-lang.org/en/news/2018/10/17/ruby-2-4-5-released"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.ruby-lang.org/en/news/2018/10/17/ruby-2-5-2-released/"
+			"url": "https://www.ruby-lang.org/en/news/2018/10/17/ruby-2-5-2-released"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.ruby-lang.org/en/news/2018/11/06/ruby-2-6-0-preview3-released/"
+			"url": "https://www.ruby-lang.org/en/news/2018/11/06/ruby-2-6-0-preview3-released"
 		},
 		{
 			"type": "WEB",

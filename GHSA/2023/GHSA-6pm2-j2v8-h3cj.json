@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6pm2-j2v8-h3cj",
-	"modified": "2023-04-11T01:34:06.495738Z",
+	"modified": "2024-02-17T05:33:28.792213Z",
 	"published": "2023-02-06T21:30:29Z",
 	"summary": "Withdrawn: Fortra GoAnywhere MFT Deserialization of Untrusted Data vulnerability affects metasploit-framework",
 	"details": "## Withdrawn\nThis advisory has been withdrawn because it was incorrectly associated with the metasploit-framework package, which is not affected by this CVE, and the actual vulnerable component does not fit within our supported ecosystems. This link is maintained to preserve external references.\n\n## Original Description\n\nFortra (formerly, HelpSystems) GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.",
@@ -74,7 +74,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.rapid7.com/blog/post/2023/02/03/exploitation-of-goanywhere-mft-zero-day-vulnerability/"
+			"url": "https://www.rapid7.com/blog/post/2023/02/03/exploitation-of-goanywhere-mft-zero-day-vulnerability"
 		}
 	],
 	"database_specific": {

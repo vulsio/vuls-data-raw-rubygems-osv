@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-62qp-3fxm-9wxf",
-	"modified": "2024-02-16T08:13:24.699619Z",
+	"modified": "2024-02-17T05:36:04.619605Z",
 	"published": "2022-05-05T00:29:01Z",
 	"aliases": [
 		"CVE-2013-6460"
@@ -131,7 +131,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20200229074427/https://www.securityfocus.com/bid/64513/"
+			"url": "https://web.archive.org/web/20200229074427/https://www.securityfocus.com/bid/64513"
 		},
 		{
 			"type": "WEB",

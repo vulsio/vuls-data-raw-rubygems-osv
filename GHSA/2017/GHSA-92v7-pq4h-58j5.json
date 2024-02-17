@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-92v7-pq4h-58j5",
-	"modified": "2024-02-16T08:19:43.830893Z",
+	"modified": "2024-02-17T05:31:49.959139Z",
 	"published": "2017-10-24T18:33:36Z",
 	"aliases": [
 		"CVE-2014-3248"
@@ -394,7 +394,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20150204183209/http://rowediness.com/2014/06/13/cve-2014-3248-a-little-problem-with-puppet/"
+			"url": "https://web.archive.org/web/20150204183209/http://rowediness.com/2014/06/13/cve-2014-3248-a-little-problem-with-puppet"
 		},
 		{
 			"type": "WEB",
