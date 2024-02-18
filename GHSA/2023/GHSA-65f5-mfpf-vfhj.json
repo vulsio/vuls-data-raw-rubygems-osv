@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-65f5-mfpf-vfhj",
-	"modified": "2024-02-16T07:57:38.634271Z",
+	"modified": "2024-02-18T05:33:21.526901Z",
 	"published": "2023-01-18T18:19:33Z",
 	"aliases": [
 		"CVE-2022-44570"
@@ -193,7 +193,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20231208-0010/"
+			"url": "https://security.netapp.com/advisory/ntap-20231208-0010"
 		},
 		{
 			"type": "WEB",

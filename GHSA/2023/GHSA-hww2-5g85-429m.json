@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hww2-5g85-429m",
-	"modified": "2024-02-16T08:14:33.136889Z",
+	"modified": "2024-02-18T05:33:30.810093Z",
 	"published": "2023-06-29T15:30:34Z",
 	"aliases": [
 		"CVE-2023-36617"
@@ -108,11 +108,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230725-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20230725-0002"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.ruby-lang.org/en/news/2023/06/29/redos-in-uri-CVE-2023-36617/"
+			"url": "https://www.ruby-lang.org/en/news/2023/06/29/redos-in-uri-CVE-2023-36617"
 		}
 	],
 	"database_specific": {

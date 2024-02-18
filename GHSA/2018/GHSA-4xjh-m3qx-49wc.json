@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4xjh-m3qx-49wc",
-	"modified": "2024-02-16T08:25:09.245683Z",
+	"modified": "2024-02-18T05:32:07.925067Z",
 	"published": "2018-09-28T19:29:07Z",
 	"aliases": [
 		"CVE-2018-17567"
@@ -231,7 +231,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://jekyllrb.com/news/2018/09/19/security-fixes-for-3-6-3-7-3-8/"
+			"url": "https://jekyllrb.com/news/2018/09/19/security-fixes-for-3-6-3-7-3-8"
 		},
 		{
 			"type": "WEB",

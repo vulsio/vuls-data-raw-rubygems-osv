@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qpqw-mc85-qvm9",
-	"modified": "2023-11-08T03:57:32.181024Z",
+	"modified": "2024-02-18T05:31:15.848772Z",
 	"published": "2022-07-01T00:01:04Z",
 	"aliases": [
 		"CVE-2014-0156"
@@ -59,7 +59,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://rubysec.com/advisories/CVE-2014-0156/"
+			"url": "https://rubysec.com/advisories/CVE-2014-0156"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jvgm-pfqv-887x",
-	"modified": "2024-02-16T08:18:57.653476Z",
+	"modified": "2024-02-18T05:32:52.714784Z",
 	"published": "2022-05-14T00:57:16Z",
 	"aliases": [
 		"CVE-2016-7954"
@@ -288,7 +288,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://collectiveidea.com/blog/archives/2016/10/06/bundlers-multiple-source-security-vulnerability/"
+			"url": "http://collectiveidea.com/blog/archives/2016/10/06/bundlers-multiple-source-security-vulnerability"
 		},
 		{
 			"type": "WEB",

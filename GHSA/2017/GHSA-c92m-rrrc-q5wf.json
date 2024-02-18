@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c92m-rrrc-q5wf",
-	"modified": "2024-02-16T08:19:26.703252Z",
+	"modified": "2024-02-18T05:20:58.568225Z",
 	"published": "2017-10-24T18:33:35Z",
 	"aliases": [
 		"CVE-2016-3693"
@@ -77,7 +77,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://rubysec.com/advisories/CVE-2016-3693/"
+			"url": "http://rubysec.com/advisories/CVE-2016-3693"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5f9h-9pjv-v6j7",
-	"modified": "2024-02-16T08:10:50.799480Z",
+	"modified": "2024-02-18T05:43:06.611560Z",
 	"published": "2020-07-06T21:31:02Z",
 	"aliases": [
 		"CVE-2020-8161"
@@ -163,7 +163,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4561-1/"
+			"url": "https://usn.ubuntu.com/4561-1"
 		}
 	],
 	"database_specific": {

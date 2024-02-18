@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r74q-gxcg-73hx",
-	"modified": "2024-02-16T08:01:49.173727Z",
+	"modified": "2024-02-18T05:31:50.283788Z",
 	"published": "2019-09-30T19:41:15Z",
 	"aliases": [
 		"CVE-2019-16676"
@@ -125,7 +125,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://blog.plataformatec.com.br/2019/09/incorrect-access-control-in-simple-form-cve-2019-16676/"
+			"url": "http://blog.plataformatec.com.br/2019/09/incorrect-access-control-in-simple-form-cve-2019-16676"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-25f5-gc4h-hc22",
-	"modified": "2024-02-16T08:09:27.723480Z",
+	"modified": "2024-02-18T05:32:24.990602Z",
 	"published": "2021-12-08T19:55:30Z",
 	"aliases": [
 		"CVE-2021-28680"
@@ -100,7 +100,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://labanskoller.se/blog/2021/03/23/the-devise-extension-that-peeled-off-one-layer-of-the-security-onion-cve-2021-28680/"
+			"url": "https://labanskoller.se/blog/2021/03/23/the-devise-extension-that-peeled-off-one-layer-of-the-security-onion-cve-2021-28680"
 		}
 	],
 	"database_specific": {

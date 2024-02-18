@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5r2p-j47h-mhpg",
-	"modified": "2024-02-16T08:15:42.786741Z",
+	"modified": "2024-02-18T05:22:09.088480Z",
 	"published": "2018-11-15T15:59:08Z",
 	"aliases": [
 		"CVE-2018-16471"
@@ -165,7 +165,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4089-1/"
+			"url": "https://usn.ubuntu.com/4089-1"
 		},
 		{
 			"type": "WEB",

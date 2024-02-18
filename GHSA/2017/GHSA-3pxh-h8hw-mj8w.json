@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3pxh-h8hw-mj8w",
-	"modified": "2024-02-16T08:24:51.071563Z",
+	"modified": "2024-02-18T05:33:25.441201Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-0183"
@@ -126,7 +126,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://rack.github.com/"
+			"url": "http://rack.github.com"
 		},
 		{
 			"type": "WEB",

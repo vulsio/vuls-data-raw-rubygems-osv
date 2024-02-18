@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cr5j-953j-xw5p",
-	"modified": "2024-02-16T08:00:28.233079Z",
+	"modified": "2024-02-18T05:31:26.336802Z",
 	"published": "2019-08-19T19:27:23Z",
 	"aliases": [
 		"CVE-2019-5477"
@@ -239,7 +239,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4175-1/"
+			"url": "https://usn.ubuntu.com/4175-1"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mm33-5vfq-3mm3",
-	"modified": "2023-11-08T04:08:12.913053Z",
+	"modified": "2024-02-18T05:32:29.337471Z",
 	"published": "2022-04-27T22:28:59Z",
 	"aliases": [
 		"CVE-2022-22577"
@@ -241,7 +241,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20221118-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20221118-0002"
 		},
 		{
 			"type": "WEB",
