@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r7j3-vvh2-xrpj",
-	"modified": "2024-02-16T08:24:37.907373Z",
+	"modified": "2024-02-19T05:32:31.104648Z",
 	"published": "2019-07-18T13:19:22Z",
 	"aliases": [
 		"CVE-2019-13574"
@@ -114,7 +114,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://benjamin-bouchet.com/blog/vulnerabilite-dans-la-gem-mini_magick-version-4-9-4/"
+			"url": "https://benjamin-bouchet.com/blog/vulnerabilite-dans-la-gem-mini_magick-version-4-9-4"
 		},
 		{
 			"type": "PACKAGE",

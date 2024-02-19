@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5pm8-492c-92p5",
-	"modified": "2023-11-08T04:01:26.456404Z",
+	"modified": "2024-02-19T05:31:30.845346Z",
 	"published": "2019-12-02T18:04:11Z",
 	"aliases": [
 		"CVE-2019-18841"
@@ -148,7 +148,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://rubygems.org/gems/chartkick/"
+			"url": "https://rubygems.org/gems/chartkick"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jw9f-hh49-cvp9",
-	"modified": "2024-02-16T08:02:27.368153Z",
+	"modified": "2024-02-19T05:37:27.096992Z",
 	"published": "2022-05-24T19:02:48Z",
 	"aliases": [
 		"CVE-2021-3517"
@@ -208,11 +208,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/BZOMV5J4PMZAORVT64BKLV6YIZAFDGX6/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/BZOMV5J4PMZAORVT64BKLV6YIZAFDGX6"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/QVM4UJ3376I6ZVOYMHBNX4GY3NIV52WV/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/QVM4UJ3376I6ZVOYMHBNX4GY3NIV52WV"
 		},
 		{
 			"type": "WEB",
@@ -220,11 +220,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210625-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20210625-0002"
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20211022-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20211022-0004"
 		},
 		{
 			"type": "WEB",
