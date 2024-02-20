@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fwcm-636p-68r5",
-	"modified": "2023-11-08T04:04:40.170608Z",
+	"modified": "2024-02-20T05:33:40.794629Z",
 	"published": "2021-02-08T19:16:26Z",
 	"aliases": [
 		"CVE-2021-21288"
@@ -156,7 +156,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://rubygems.org/gems/carrierwave/"
+			"url": "https://rubygems.org/gems/carrierwave"
 		}
 	],
 	"database_specific": {

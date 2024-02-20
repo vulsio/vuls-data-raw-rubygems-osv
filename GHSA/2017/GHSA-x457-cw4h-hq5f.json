@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x457-cw4h-hq5f",
-	"modified": "2024-02-16T08:02:03.556812Z",
+	"modified": "2024-02-20T05:33:40.897229Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-0269"
@@ -204,7 +204,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://weblog.rubyonrails.org/2013/2/11/SEC-ANN-Rails-3-2-12-3-1-11-and-2-3-17-have-been-released/"
+			"url": "http://weblog.rubyonrails.org/2013/2/11/SEC-ANN-Rails-3-2-12-3-1-11-and-2-3-17-have-been-released"
 		},
 		{
 			"type": "WEB",

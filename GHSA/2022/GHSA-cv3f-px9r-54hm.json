@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cv3f-px9r-54hm",
-	"modified": "2023-11-08T03:59:12.811672Z",
+	"modified": "2024-02-20T05:34:09.630180Z",
 	"published": "2022-05-13T01:30:59Z",
 	"aliases": [
 		"CVE-2017-16355"
@@ -207,11 +207,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://blog.phusion.nl/2017/10/13/passenger-security-advisory-5-1-11/"
+			"url": "https://blog.phusion.nl/2017/10/13/passenger-security-advisory-5-1-11"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/phusion/passenger/"
+			"type": "WEB",
+			"url": "https://github.com/phusion/passenger"
 		},
 		{
 			"type": "WEB",

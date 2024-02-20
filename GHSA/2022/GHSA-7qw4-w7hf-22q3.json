@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7qw4-w7hf-22q3",
-	"modified": "2023-11-08T03:59:30.290058Z",
+	"modified": "2024-02-20T05:22:53.467392Z",
 	"published": "2022-05-14T03:03:56Z",
 	"aliases": [
 		"CVE-2018-0499"
@@ -66,7 +66,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3709-1/"
+			"url": "https://usn.ubuntu.com/3709-1"
 		}
 	],
 	"database_specific": {

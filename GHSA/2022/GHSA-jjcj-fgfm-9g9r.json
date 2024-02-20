@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jjcj-fgfm-9g9r",
-	"modified": "2024-02-16T08:15:47.776080Z",
+	"modified": "2024-02-20T05:28:37.711015Z",
 	"published": "2022-05-14T01:27:14Z",
 	"aliases": [
 		"CVE-2018-12029"
@@ -178,7 +178,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://blog.phusion.nl/2018/06/12/passenger-5-3-2-various-security-fixes/"
+			"url": "https://blog.phusion.nl/2018/06/12/passenger-5-3-2-various-security-fixes"
 		},
 		{
 			"type": "WEB",

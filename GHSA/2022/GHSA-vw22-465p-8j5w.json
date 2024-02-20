@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vw22-465p-8j5w",
-	"modified": "2023-11-08T03:58:48.497723Z",
+	"modified": "2024-02-20T05:32:16.784114Z",
 	"published": "2022-05-13T01:41:57Z",
 	"aliases": [
 		"CVE-2017-10689"
@@ -273,7 +273,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3567-1/"
+			"url": "https://usn.ubuntu.com/3567-1"
 		}
 	],
 	"database_specific": {

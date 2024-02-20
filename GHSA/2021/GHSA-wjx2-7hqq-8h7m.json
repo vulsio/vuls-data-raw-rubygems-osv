@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wjx2-7hqq-8h7m",
-	"modified": "2024-02-16T08:18:58.420194Z",
+	"modified": "2024-02-20T05:34:19.838808Z",
 	"published": "2021-01-14T19:17:16Z",
 	"aliases": [
 		"CVE-2020-36190"
@@ -119,8 +119,8 @@
 			"url": "https://github.com/sferik/rails_admin/commit/d72090ec6a07c3b9b7b48ab50f3d405f91ff4375"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/railsadminteam/rails_admin/"
+			"type": "WEB",
+			"url": "https://github.com/railsadminteam/rails_admin"
 		},
 		{
 			"type": "WEB",

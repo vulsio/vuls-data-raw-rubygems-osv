@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5m48-c37x-f792",
-	"modified": "2024-02-16T08:17:47.915822Z",
+	"modified": "2024-02-20T05:33:44.894917Z",
 	"published": "2022-07-01T00:01:11Z",
 	"aliases": [
 		"CVE-2013-4170"
@@ -212,7 +212,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://rubysec.com/advisories/CVE-2013-4170/"
+			"url": "https://rubysec.com/advisories/CVE-2013-4170"
 		},
 		{
 			"type": "WEB",

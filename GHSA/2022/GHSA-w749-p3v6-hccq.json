@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w749-p3v6-hccq",
-	"modified": "2023-11-08T04:08:11.061271Z",
+	"modified": "2024-02-20T05:34:32.510872Z",
 	"published": "2022-03-08T21:25:54Z",
 	"aliases": [
 		"CVE-2022-21831"
@@ -215,11 +215,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://rubysec.com/advisories/CVE-2022-21831/"
+			"url": "https://rubysec.com/advisories/CVE-2022-21831"
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20221118-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20221118-0001"
 		},
 		{
 			"type": "WEB",

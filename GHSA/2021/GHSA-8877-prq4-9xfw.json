@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8877-prq4-9xfw",
-	"modified": "2024-02-16T08:02:10.287078Z",
+	"modified": "2024-02-20T05:32:38.542795Z",
 	"published": "2021-03-02T03:44:17Z",
 	"aliases": [
 		"CVE-2021-22881"
@@ -100,15 +100,15 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://benjamin-bouchet.com/cve-2021-22881-faille-de-securite-dans-le-middleware-hostauthorization/"
+			"url": "https://benjamin-bouchet.com/cve-2021-22881-faille-de-securite-dans-le-middleware-hostauthorization"
 		},
 		{
 			"type": "WEB",
 			"url": "https://discuss.rubyonrails.org/t/cve-2021-22881-possible-open-redirect-in-host-authorization-middleware/77130"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/rails/rails/"
+			"type": "WEB",
+			"url": "https://github.com/rails/rails"
 		},
 		{
 			"type": "WEB",
@@ -124,7 +124,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XQ3NS4IBYE2I3MVMGAHFZBZBIZGHXHT3/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XQ3NS4IBYE2I3MVMGAHFZBZBIZGHXHT3"
 		},
 		{
 			"type": "WEB",

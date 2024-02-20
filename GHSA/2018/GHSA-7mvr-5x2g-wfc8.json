@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7mvr-5x2g-wfc8",
-	"modified": "2024-02-16T08:21:31.396842Z",
+	"modified": "2024-02-20T05:33:18.565768Z",
 	"published": "2018-09-13T15:50:32Z",
 	"aliases": [
 		"CVE-2018-14042"
@@ -144,7 +144,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/"
+			"url": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2"
 		},
 		{
 			"type": "WEB",

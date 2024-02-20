@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xc85-32mf-xpv8",
-	"modified": "2023-11-08T03:57:12.990926Z",
+	"modified": "2024-02-20T05:33:21.897219Z",
 	"published": "2022-05-05T02:48:42Z",
 	"aliases": [
 		"CVE-2013-0263"
@@ -189,8 +189,8 @@
 			"url": "https://gist.github.com/codahale/f9f3781f7b54985bee94"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/rack/rack/"
+			"type": "WEB",
+			"url": "https://github.com/rack/rack"
 		},
 		{
 			"type": "WEB",

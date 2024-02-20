@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-78rc-8c29-p45g",
-	"modified": "2024-02-16T08:07:33.025149Z",
+	"modified": "2024-02-20T05:23:27.150669Z",
 	"published": "2017-10-24T18:33:35Z",
 	"aliases": [
 		"CVE-2016-2098"
@@ -309,7 +309,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/40086/"
+			"url": "https://www.exploit-db.com/exploits/40086"
 		},
 		{
 			"type": "WEB",
@@ -337,7 +337,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://weblog.rubyonrails.org/2016/2/29/Rails-4-2-5-2-4-1-14-2-3-2-22-2-have-been-released/"
+			"url": "http://weblog.rubyonrails.org/2016/2/29/Rails-4-2-5-2-4-1-14-2-3-2-22-2-have-been-released"
 		},
 		{
 			"type": "WEB",

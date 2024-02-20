@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w9vv-fvw8-j6q3",
-	"modified": "2024-02-16T08:01:05.393083Z",
+	"modified": "2024-02-20T05:21:55.392343Z",
 	"published": "2022-05-14T03:48:04Z",
 	"aliases": [
 		"CVE-2014-4991"
@@ -65,7 +65,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20200229055915/https://www.securityfocus.com/bid/68733/"
+			"url": "https://web.archive.org/web/20200229055915/https://www.securityfocus.com/bid/68733"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hrqr-hxpp-chr3",
-	"modified": "2023-11-08T04:01:21.517948Z",
+	"modified": "2024-02-20T05:32:37.298857Z",
 	"published": "2019-12-18T19:01:31Z",
 	"aliases": [
 		"CVE-2019-16782"
@@ -164,7 +164,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/HZXMWILCICQLA2BYSP6I2CRMUG53YBLX/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/HZXMWILCICQLA2BYSP6I2CRMUG53YBLX"
 		},
 		{
 			"type": "WEB",

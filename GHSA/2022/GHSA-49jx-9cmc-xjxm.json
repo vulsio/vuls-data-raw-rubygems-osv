@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-49jx-9cmc-xjxm",
-	"modified": "2024-02-16T07:56:18.850499Z",
+	"modified": "2024-02-20T05:33:03.544623Z",
 	"published": "2022-05-05T02:48:48Z",
 	"aliases": [
 		"CVE-2013-0334"
@@ -204,7 +204,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20210122060358/https://www.securityfocus.com/bid/70099/"
+			"url": "https://web.archive.org/web/20210122060358/https://www.securityfocus.com/bid/70099"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3q49-h8f9-9fr9",
-	"modified": "2023-11-08T04:02:30.588037Z",
+	"modified": "2024-02-20T05:33:59.632969Z",
 	"published": "2020-07-31T17:39:42Z",
 	"aliases": [
 		"CVE-2020-15134"
@@ -127,7 +127,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://blog.jcoglan.com/2020/07/31/missing-tls-verification-in-faye/"
+			"url": "https://blog.jcoglan.com/2020/07/31/missing-tls-verification-in-faye"
 		},
 		{
 			"type": "PACKAGE",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g6wq-qcwm-j5g2",
-	"modified": "2023-11-08T04:04:03.487291Z",
+	"modified": "2024-02-20T05:27:28.278032Z",
 	"published": "2020-06-05T14:21:29Z",
 	"aliases": [
 		"CVE-2020-7663"
@@ -81,7 +81,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4502-1/"
+			"url": "https://usn.ubuntu.com/4502-1"
 		}
 	],
 	"database_specific": {

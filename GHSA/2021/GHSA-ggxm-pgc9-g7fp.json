@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ggxm-pgc9-g7fp",
-	"modified": "2024-02-16T08:15:45.062765Z",
+	"modified": "2024-02-20T05:22:15.313399Z",
 	"published": "2021-09-01T18:53:15Z",
 	"aliases": [
 		"CVE-2021-31799"
@@ -164,7 +164,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210902-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20210902-0004"
 		},
 		{
 			"type": "WEB",
@@ -172,7 +172,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.ruby-lang.org/en/news/2021/05/02/os-command-injection-in-rdoc/"
+			"url": "https://www.ruby-lang.org/en/news/2021/05/02/os-command-injection-in-rdoc"
 		}
 	],
 	"database_specific": {

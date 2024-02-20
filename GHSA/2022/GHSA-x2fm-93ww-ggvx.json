@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x2fm-93ww-ggvx",
-	"modified": "2024-02-16T08:06:57.116778Z",
+	"modified": "2024-02-20T05:41:56.164668Z",
 	"published": "2022-05-13T01:02:39Z",
 	"aliases": [
 		"CVE-2017-16932"
@@ -184,7 +184,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3739-1/"
+			"url": "https://usn.ubuntu.com/3739-1"
 		},
 		{
 			"type": "WEB",

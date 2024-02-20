@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7m2w-9gw7-c3xp",
-	"modified": "2024-02-16T08:13:48.558734Z",
+	"modified": "2024-02-20T05:32:37.867211Z",
 	"published": "2022-05-13T01:13:48Z",
 	"aliases": [
 		"CVE-2015-3649"
@@ -77,7 +77,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://www.benjaminfleischer.com/2013/03/20/yaml-and-security-in-ruby/"
+			"url": "http://www.benjaminfleischer.com/2013/03/20/yaml-and-security-in-ruby"
 		},
 		{
 			"type": "WEB",

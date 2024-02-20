@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pr3r-4wrp-r2pv",
-	"modified": "2024-02-16T08:23:19.693704Z",
+	"modified": "2024-02-20T05:32:36.742284Z",
 	"published": "2017-10-24T18:33:35Z",
 	"aliases": [
 		"CVE-2016-6317"
@@ -85,7 +85,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://weblog.rubyonrails.org/2016/8/11/Rails-5-0-0-1-4-2-7-2-and-3-2-22-3-have-been-released/"
+			"url": "http://weblog.rubyonrails.org/2016/8/11/Rails-5-0-0-1-4-2-7-2-and-3-2-22-3-have-been-released"
 		},
 		{
 			"type": "WEB",
