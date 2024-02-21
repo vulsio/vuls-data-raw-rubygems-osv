@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-95xq-v4m2-fq3r",
-	"modified": "2024-02-16T07:57:33.963437Z",
+	"modified": "2024-02-21T05:20:16.029201Z",
 	"published": "2022-05-17T04:43:33Z",
 	"aliases": [
 		"CVE-2013-4489"
@@ -63,7 +63,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.gitlab.com/2013/11/04/gitlab-ce-6-2-and-5-4-security-release/"
+			"url": "https://www.gitlab.com/2013/11/04/gitlab-ce-6-2-and-5-4-security-release"
 		}
 	],
 	"database_specific": {

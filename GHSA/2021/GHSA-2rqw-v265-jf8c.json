@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2rqw-v265-jf8c",
-	"modified": "2024-02-16T08:12:56.704295Z",
+	"modified": "2024-02-21T05:31:33.873268Z",
 	"published": "2021-08-26T20:36:51Z",
 	"aliases": [
 		"CVE-2021-22942"
@@ -121,11 +121,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20240202-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20240202-0005"
 		},
 		{
 			"type": "WEB",
-			"url": "https://weblog.rubyonrails.org/2021/8/19/Rails-6-0-4-1-and-6-1-4-1-have-been-released/"
+			"url": "https://weblog.rubyonrails.org/2021/8/19/Rails-6-0-4-1-and-6-1-4-1-have-been-released"
 		},
 		{
 			"type": "WEB",

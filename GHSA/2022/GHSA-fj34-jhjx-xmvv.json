@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fj34-jhjx-xmvv",
-	"modified": "2023-11-08T04:06:04.561168Z",
+	"modified": "2024-02-21T05:37:56.850662Z",
 	"published": "2022-06-03T00:00:33Z",
 	"aliases": [
 		"CVE-2021-33473"
@@ -144,7 +144,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220715-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20220715-0004"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rmxg-73gg-4p98",
-	"modified": "2024-02-16T08:11:05.111327Z",
+	"modified": "2024-02-21T05:32:57.368439Z",
 	"published": "2018-01-22T13:32:06Z",
 	"aliases": [
 		"CVE-2015-9251"
@@ -429,7 +429,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210108-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20210108-0004"
 		},
 		{
 			"type": "WEB",

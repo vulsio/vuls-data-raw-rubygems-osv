@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r364-2pj4-pf7f",
-	"modified": "2024-02-16T08:21:39.361551Z",
+	"modified": "2024-02-21T05:27:37.664047Z",
 	"published": "2023-05-27T21:30:15Z",
 	"aliases": [
 		"CVE-2015-20108"
@@ -125,7 +125,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230703-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20230703-0003"
 		},
 		{
 			"type": "WEB",

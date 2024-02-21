@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hq7p-j377-6v63",
-	"modified": "2024-02-16T08:24:28.846357Z",
+	"modified": "2024-02-21T05:41:43.535952Z",
 	"published": "2023-01-18T18:20:19Z",
 	"aliases": [
 		"CVE-2023-22794"
@@ -177,7 +177,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20240202-0008/"
+			"url": "https://security.netapp.com/advisory/ntap-20240202-0008"
 		},
 		{
 			"type": "WEB",
