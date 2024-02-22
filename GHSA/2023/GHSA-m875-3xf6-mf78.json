@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m875-3xf6-mf78",
-	"modified": "2023-11-08T04:12:15.068517Z",
+	"modified": "2024-02-22T05:33:05.460959Z",
 	"published": "2023-03-30T22:58:38Z",
 	"aliases": [
 		"CVE-2023-28846"
@@ -166,10 +166,6 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/unpoly/unpoly-rails"
-		},
-		{
-			"type": "WEB",
-			"url": "https://github.com/unpoly/unpoly-rails/"
 		},
 		{
 			"type": "WEB",

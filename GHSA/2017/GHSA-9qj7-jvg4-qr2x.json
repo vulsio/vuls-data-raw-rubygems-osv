@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9qj7-jvg4-qr2x",
-	"modified": "2024-02-16T08:12:03.694837Z",
+	"modified": "2024-02-22T05:33:24.511340Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-2119"
@@ -143,11 +143,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://blog.phusion.nl/2013/05/29/phusion-passenger-3-0-21-released/"
+			"url": "http://blog.phusion.nl/2013/05/29/phusion-passenger-3-0-21-released"
 		},
 		{
 			"type": "WEB",
-			"url": "http://blog.phusion.nl/2013/05/29/phusion-passenger-4-0-5-released/"
+			"url": "http://blog.phusion.nl/2013/05/29/phusion-passenger-4-0-5-released"
 		},
 		{
 			"type": "WEB",

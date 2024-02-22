@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gqvf-892r-vjm5",
-	"modified": "2024-02-16T08:02:21.062662Z",
+	"modified": "2024-02-22T05:39:45.872465Z",
 	"published": "2021-04-13T15:42:19Z",
 	"aliases": [
 		"CVE-2020-7942"
@@ -302,7 +302,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://puppet.com/security/cve/CVE-2020-7942/"
+			"url": "https://puppet.com/security/cve/CVE-2020-7942"
 		}
 	],
 	"database_specific": {

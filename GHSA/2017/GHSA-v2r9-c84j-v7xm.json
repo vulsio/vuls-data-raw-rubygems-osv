@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v2r9-c84j-v7xm",
-	"modified": "2024-02-16T07:59:47.691233Z",
+	"modified": "2024-02-22T05:31:49.064997Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-0256"
@@ -129,7 +129,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://www.ruby-lang.org/en/news/2013/02/06/rdoc-xss-cve-2013-0256/"
+			"url": "http://www.ruby-lang.org/en/news/2013/02/06/rdoc-xss-cve-2013-0256"
 		},
 		{
 			"type": "WEB",

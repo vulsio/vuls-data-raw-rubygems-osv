@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-977c-63xq-cgw3",
-	"modified": "2023-11-08T04:09:26.693756Z",
+	"modified": "2024-02-22T05:30:03.876682Z",
 	"published": "2022-07-05T20:41:26Z",
 	"aliases": [
 		"CVE-2022-31115"
@@ -74,7 +74,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://staaldraad.github.io/post/2021-01-09-universal-rce-ruby-yaml-load-updated/"
+			"url": "https://staaldraad.github.io/post/2021-01-09-universal-rce-ruby-yaml-load-updated"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xf96-32q2-9rw2",
-	"modified": "2024-02-16T08:22:33.262505Z",
+	"modified": "2024-02-22T05:31:51.457029Z",
 	"published": "2017-10-24T18:33:38Z",
 	"aliases": [
 		"CVE-2008-4094"
@@ -113,7 +113,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20081113122736/http://secunia.com/advisories/31875/"
+			"url": "https://web.archive.org/web/20081113122736/http://secunia.com/advisories/31875"
 		},
 		{
 			"type": "WEB",

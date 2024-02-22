@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fxwv-953p-7qpf",
-	"modified": "2024-02-16T08:19:57.768543Z",
+	"modified": "2024-02-22T05:33:44.982602Z",
 	"published": "2018-10-10T17:29:13Z",
 	"aliases": [
 		"CVE-2015-7519"
@@ -206,7 +206,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://blog.phusion.nl/2015/12/07/cve-2015-7519/"
+			"url": "https://blog.phusion.nl/2015/12/07/cve-2015-7519"
 		},
 		{
 			"type": "WEB",

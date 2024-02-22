@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g466-57gh-cqfw",
-	"modified": "2024-02-16T08:18:59.569847Z",
+	"modified": "2024-02-22T05:27:11.441384Z",
 	"published": "2022-05-17T05:30:58Z",
 	"aliases": [
 		"CVE-2008-7311"
@@ -68,11 +68,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20101128024939/http://spreecommerce.com/blog/2008/08/12/security-vulernability-session-cookie-store/"
+			"url": "https://web.archive.org/web/20101128024939/http://spreecommerce.com/blog/2008/08/12/security-vulernability-session-cookie-store"
 		},
 		{
 			"type": "WEB",
-			"url": "http://spreecommerce.com/blog/2008/08/12/security-vulernability-session-cookie-store/"
+			"url": "http://spreecommerce.com/blog/2008/08/12/security-vulernability-session-cookie-store"
 		}
 	],
 	"database_specific": {

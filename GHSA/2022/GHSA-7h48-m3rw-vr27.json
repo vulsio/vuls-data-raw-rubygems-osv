@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7h48-m3rw-vr27",
-	"modified": "2024-02-16T08:08:45.389500Z",
+	"modified": "2024-02-22T05:34:21.899058Z",
 	"published": "2022-05-17T05:31:08Z",
 	"aliases": [
 		"CVE-2008-7310"
@@ -64,7 +64,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20101128024717/http://spreecommerce.com/blog/2008/09/16/security-vulnerability-mass-assignment-of-order-params/"
+			"url": "https://web.archive.org/web/20101128024717/http://spreecommerce.com/blog/2008/09/16/security-vulnerability-mass-assignment-of-order-params"
 		},
 		{
 			"type": "WEB",
@@ -72,7 +72,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://spreecommerce.com/blog/2008/09/16/security-vulnerability-mass-assignment-of-order-params/"
+			"url": "http://spreecommerce.com/blog/2008/09/16/security-vulnerability-mass-assignment-of-order-params"
 		}
 	],
 	"database_specific": {

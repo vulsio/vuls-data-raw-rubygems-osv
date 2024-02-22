@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8mw8-j583-vqfg",
-	"modified": "2024-02-16T08:12:25.794850Z",
+	"modified": "2024-02-22T05:34:23.738720Z",
 	"published": "2022-04-23T00:40:14Z",
 	"aliases": [
 		"CVE-2012-6135"
@@ -127,7 +127,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20200918164919/https://old.blog.phusion.nl/2013/03/05/phusion-passenger-4-0-beta-1-and-2-arbitrary-file-deletion-vulnerability/"
+			"url": "https://web.archive.org/web/20200918164919/https://old.blog.phusion.nl/2013/03/05/phusion-passenger-4-0-beta-1-and-2-arbitrary-file-deletion-vulnerability"
 		},
 		{
 			"type": "WEB",

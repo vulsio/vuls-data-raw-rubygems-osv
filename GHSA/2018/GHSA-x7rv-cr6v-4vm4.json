@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x7rv-cr6v-4vm4",
-	"modified": "2024-02-16T08:25:15.279191Z",
+	"modified": "2024-02-22T05:21:17.045269Z",
 	"published": "2018-03-21T11:57:11Z",
 	"aliases": [
 		"CVE-2018-8048"
@@ -217,8 +217,8 @@
 			"url": "https://github.com/advisories/GHSA-x7rv-cr6v-4vm4"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/flavorjones/loofah/"
+			"type": "WEB",
+			"url": "https://github.com/flavorjones/loofah"
 		},
 		{
 			"type": "WEB",
@@ -230,7 +230,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20191122-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20191122-0003"
 		},
 		{
 			"type": "WEB",

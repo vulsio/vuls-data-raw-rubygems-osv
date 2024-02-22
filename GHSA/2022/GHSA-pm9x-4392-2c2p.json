@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pm9x-4392-2c2p",
-	"modified": "2023-11-08T03:58:40.674475Z",
+	"modified": "2024-02-22T05:34:28.892562Z",
 	"published": "2022-05-13T01:38:26Z",
 	"aliases": [
 		"CVE-2017-0901"
@@ -223,11 +223,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3553-1/"
+			"url": "https://usn.ubuntu.com/3553-1"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3685-1/"
+			"url": "https://usn.ubuntu.com/3685-1"
 		},
 		{
 			"type": "WEB",
@@ -243,7 +243,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/42611/"
+			"url": "https://www.exploit-db.com/exploits/42611"
 		},
 		{
 			"type": "WEB",

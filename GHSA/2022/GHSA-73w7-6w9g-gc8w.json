@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-73w7-6w9g-gc8w",
-	"modified": "2023-11-08T03:58:40.737932Z",
+	"modified": "2024-02-22T05:34:32.603978Z",
 	"published": "2022-05-13T01:38:25Z",
 	"aliases": [
 		"CVE-2017-0902"
@@ -223,11 +223,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3553-1/"
+			"url": "https://usn.ubuntu.com/3553-1"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3685-1/"
+			"url": "https://usn.ubuntu.com/3685-1"
 		},
 		{
 			"type": "WEB",

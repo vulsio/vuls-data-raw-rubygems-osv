@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8fqx-7pv4-3jwm",
-	"modified": "2023-11-08T03:56:52.104955Z",
+	"modified": "2024-02-22T05:28:38.639955Z",
 	"published": "2017-10-24T18:33:38Z",
 	"aliases": [
 		"CVE-2008-7248"
@@ -96,7 +96,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://pseudo-flaw.net/content/web-browsers/form-data-encoding-roundup/"
+			"url": "https://pseudo-flaw.net/content/web-browsers/form-data-encoding-roundup"
 		},
 		{
 			"type": "WEB",
@@ -128,7 +128,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://pseudo-flaw.net/content/web-browsers/form-data-encoding-roundup/"
+			"url": "http://pseudo-flaw.net/content/web-browsers/form-data-encoding-roundup"
 		},
 		{
 			"type": "WEB",

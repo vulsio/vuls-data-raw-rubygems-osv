@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x489-jjwm-52g7",
-	"modified": "2024-02-16T08:20:47.026259Z",
+	"modified": "2024-02-22T05:26:17.130877Z",
 	"published": "2018-08-28T22:34:15Z",
 	"aliases": [
 		"CVE-2015-7225"
@@ -76,7 +76,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20210122192452/https://www.securityfocus.com/bid/76789/"
+			"url": "https://web.archive.org/web/20210122192452/https://www.securityfocus.com/bid/76789"
 		},
 		{
 			"type": "WEB",

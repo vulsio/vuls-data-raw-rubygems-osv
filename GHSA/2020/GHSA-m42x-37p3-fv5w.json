@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m42x-37p3-fv5w",
-	"modified": "2024-02-16T08:10:03.763124Z",
+	"modified": "2024-02-22T05:37:26.373913Z",
 	"published": "2020-05-26T15:09:48Z",
 	"aliases": [
 		"CVE-2020-8162"
@@ -109,8 +109,8 @@
 			"url": "https://hackerone.com/reports/789579"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/aws/aws-sdk-ruby/"
+			"type": "WEB",
+			"url": "https://github.com/aws/aws-sdk-ruby"
 		},
 		{
 			"type": "WEB",

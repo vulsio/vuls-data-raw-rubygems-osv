@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mc6j-h948-v2p6",
-	"modified": "2023-11-08T03:59:33.852376Z",
+	"modified": "2024-02-22T05:34:24.401818Z",
 	"published": "2022-05-14T01:01:12Z",
 	"aliases": [
 		"CVE-2018-1000076"
@@ -247,7 +247,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3621-1/"
+			"url": "https://usn.ubuntu.com/3621-1"
 		},
 		{
 			"type": "WEB",

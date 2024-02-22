@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hpcf-8vf9-q4gj",
-	"modified": "2024-02-16T08:25:10.154363Z",
+	"modified": "2024-02-22T05:34:33.813763Z",
 	"published": "2017-10-24T18:33:35Z",
 	"aliases": [
 		"CVE-2016-7103"
@@ -214,7 +214,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://jqueryui.com/changelog/1.12.0/"
+			"url": "https://jqueryui.com/changelog/1.12.0"
 		},
 		{
 			"type": "WEB",
@@ -262,31 +262,31 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/E2I4UHPIW26FIALH7GGZ3IYUUA53VOOJ/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/E2I4UHPIW26FIALH7GGZ3IYUUA53VOOJ"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/HVKIOWSXL2RF2ULNAP7PHESYCFSZIJE3/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/HVKIOWSXL2RF2ULNAP7PHESYCFSZIJE3"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/SGSY236PYSFYIEBRGDERLA7OSY6D7XL4/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/SGSY236PYSFYIEBRGDERLA7OSY6D7XL4"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/E2I4UHPIW26FIALH7GGZ3IYUUA53VOOJ/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/E2I4UHPIW26FIALH7GGZ3IYUUA53VOOJ"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/HVKIOWSXL2RF2ULNAP7PHESYCFSZIJE3/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/HVKIOWSXL2RF2ULNAP7PHESYCFSZIJE3"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/SGSY236PYSFYIEBRGDERLA7OSY6D7XL4/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/SGSY236PYSFYIEBRGDERLA7OSY6D7XL4"
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190416-0007/"
+			"url": "https://security.netapp.com/advisory/ntap-20190416-0007"
 		},
 		{
 			"type": "WEB",

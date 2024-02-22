@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7rr7-rcjw-56vj",
-	"modified": "2024-02-16T08:03:44.954242Z",
+	"modified": "2024-02-22T05:37:23.778061Z",
 	"published": "2018-12-05T17:17:02Z",
 	"aliases": [
 		"CVE-2018-16477"
@@ -60,7 +60,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://weblog.rubyonrails.org/2018/11/27/Rails-4-2-5-0-5-1-5-2-have-been-released/"
+			"url": "https://weblog.rubyonrails.org/2018/11/27/Rails-4-2-5-0-5-1-5-2-have-been-released"
 		}
 	],
 	"database_specific": {
