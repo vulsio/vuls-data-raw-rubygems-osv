@@ -1,0 +1,84 @@
+{
+	"schema_version": "1.6.0",
+	"id": "GHSA-785g-282q-pwvx",
+	"modified": "2024-02-26T22:43:42.429076Z",
+	"published": "2024-02-26T18:30:31Z",
+	"aliases": [
+		"CVE-2024-27456"
+	],
+	"summary": "Rack CORS Middleware has Insecure File Permissions",
+	"details": "rack-cors (aka Rack CORS Middleware) 2.0.1 has 0666 permissions for the .rb files.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "rack-cors",
+				"purl": "pkg:gem/rack-cors"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"last_affected": "2.0.1"
+						}
+					]
+				}
+			],
+			"versions": [
+				"0.1.0",
+				"0.1.1",
+				"0.2.0",
+				"0.2.2",
+				"0.2.4",
+				"0.2.5",
+				"0.2.6",
+				"0.2.7",
+				"0.2.8",
+				"0.2.9",
+				"0.3.0",
+				"0.3.1",
+				"0.4.0",
+				"0.4.1",
+				"1.0.0",
+				"1.0.1",
+				"1.0.2",
+				"1.0.3",
+				"1.0.5",
+				"1.0.6",
+				"1.1.0",
+				"1.1.1",
+				"2.0.0",
+				"2.0.0.rc1",
+				"2.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/02/GHSA-785g-282q-pwvx/GHSA-785g-282q-pwvx.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27456"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/cyu/rack-cors/issues/274"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/cyu/rack-cors"
+		}
+	],
+	"database_specific": {
+		"cwe_ids": [],
+		"github_reviewed": true,
+		"github_reviewed_at": "2024-02-26T22:15:06Z",
+		"nvd_published_at": "2024-02-26T16:28:00Z",
+		"severity": "MODERATE"
+	}
+}
