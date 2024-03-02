@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jjhx-jhvp-74wq",
-	"modified": "2024-02-27T21:58:42.089065Z",
+	"modified": "2024-03-01T23:46:15.945535Z",
 	"published": "2024-02-27T21:41:09Z",
 	"aliases": [
 		"CVE-2024-26142"
@@ -12,8 +12,8 @@
 		{
 			"package": {
 				"ecosystem": "RubyGems",
-				"name": "rails",
-				"purl": "pkg:gem/rails"
+				"name": "actionpack",
+				"purl": "pkg:gem/actionpack"
 			},
 			"ranges": [
 				{

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9822-6m93-xqf4",
-	"modified": "2024-02-27T21:58:42.176746Z",
+	"modified": "2024-03-01T23:46:32.236892Z",
 	"published": "2024-02-27T21:41:12Z",
 	"aliases": [
 		"CVE-2024-26143"
@@ -18,8 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "RubyGems",
-				"name": "rails",
-				"purl": "pkg:gem/rails"
+				"name": "actionpack",
+				"purl": "pkg:gem/actionpack"
 			},
 			"ranges": [
 				{
@@ -63,8 +63,8 @@
 		{
 			"package": {
 				"ecosystem": "RubyGems",
-				"name": "rails",
-				"purl": "pkg:gem/rails"
+				"name": "actionpack",
+				"purl": "pkg:gem/actionpack"
 			},
 			"ranges": [
 				{
