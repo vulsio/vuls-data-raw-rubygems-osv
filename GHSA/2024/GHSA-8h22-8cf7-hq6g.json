@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8h22-8cf7-hq6g",
-	"modified": "2024-02-27T21:58:42.258138Z",
+	"modified": "2024-03-01T23:31:04.109658Z",
 	"published": "2024-02-27T21:41:16Z",
 	"aliases": [
 		"CVE-2024-26144"
@@ -18,8 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "RubyGems",
-				"name": "rails",
-				"purl": "pkg:gem/rails"
+				"name": "activestorage",
+				"purl": "pkg:gem/activestorage"
 			},
 			"ranges": [
 				{
@@ -132,8 +132,8 @@
 		{
 			"package": {
 				"ecosystem": "RubyGems",
-				"name": "rails",
-				"purl": "pkg:gem/rails"
+				"name": "activestorage",
+				"purl": "pkg:gem/activestorage"
 			},
 			"ranges": [
 				{
