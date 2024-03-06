@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qphc-hf5q-v8fc",
-	"modified": "2024-02-18T05:31:11.947141Z",
+	"modified": "2024-03-06T12:28:12.305219Z",
 	"published": "2021-12-14T21:19:08Z",
 	"aliases": [
+		"BIT-rails-2021-44528",
 		"CVE-2021-44528"
 	],
 	"summary": "actionpack Open Redirect in Host Authorization Middleware",
