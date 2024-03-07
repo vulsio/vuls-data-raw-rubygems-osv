@@ -1,14 +1,45 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c8v6-786g-vjx6",
-	"modified": "2024-03-04T20:31:04.237481Z",
+	"modified": "2024-03-07T00:04:14.048479Z",
 	"published": "2024-02-29T03:33:14Z",
 	"aliases": [
 		"CVE-2023-51774"
 	],
 	"summary": "json-jwt allows bypass of identity checks via a sign/encryption confusion attack",
-	"details": "The json-jwt (aka JSON::JWT) gem before 1.16.6 for Ruby sometimes allows bypass of identity checks via a sign/encryption confusion attack. For example, JWE can sometimes be used to bypass JSON::JWT.decode.",
+	"details": "The json-jwt (aka JSON::JWT) gem 1.16.x before 1.16.6, 1.15.x before 1.15.3.1 for Ruby sometimes allows bypass of identity checks via a sign/encryption confusion attack. For example, JWE can sometimes be used to bypass JSON::JWT.decode.",
 	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "json-jwt",
+				"purl": "pkg:gem/json-jwt"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "1.16.0"
+						},
+						{
+							"fixed": "1.16.6"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.16.0",
+				"1.16.1",
+				"1.16.2",
+				"1.16.3",
+				"1.16.4",
+				"1.16.5"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/02/GHSA-c8v6-786g-vjx6/GHSA-c8v6-786g-vjx6.json"
+			}
+		},
 		{
 			"package": {
 				"ecosystem": "RubyGems",
@@ -23,7 +54,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1.16.6"
+							"fixed": "1.15.3.1"
 						}
 					]
 				}
@@ -86,12 +117,6 @@
 				"1.15.1",
 				"1.15.2",
 				"1.15.3",
-				"1.16.0",
-				"1.16.1",
-				"1.16.2",
-				"1.16.3",
-				"1.16.4",
-				"1.16.5",
 				"1.2.0",
 				"1.2.1",
 				"1.2.2",
@@ -136,6 +161,14 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/nov/json-jwt/issues/120"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/nov/json-jwt/issues/121"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/nov/json-jwt/commit/593ea8bcaf2629048bad8c036191f2da0a2e713c"
 		},
 		{
 			"type": "WEB",
