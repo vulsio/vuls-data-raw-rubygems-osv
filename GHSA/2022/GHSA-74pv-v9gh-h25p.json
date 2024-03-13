@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-74pv-v9gh-h25p",
-	"modified": "2024-02-16T08:23:38.424353Z",
+	"modified": "2024-03-13T05:19:28.550250Z",
 	"published": "2022-05-13T01:48:31Z",
 	"aliases": [
 		"CVE-2018-1000075"
@@ -306,55 +306,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2018:3729"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2018:3730"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2018:3731"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:2028"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2020:0542"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2020:0591"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2020:0663"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.debian.org/debian-lts-announce/2018/04/msg00000.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.debian.org/debian-lts-announce/2018/04/msg00001.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.debian.org/debian-lts-announce/2018/04/msg00023.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.debian.org/debian-lts-announce/2018/07/msg00012.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.debian.org/debian-lts-announce/2019/05/msg00028.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3621-1"
+			"url": "https://www.debian.org/security/2018/dsa-4259"
 		},
 		{
 			"type": "WEB",
@@ -362,7 +314,55 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.debian.org/security/2018/dsa-4259"
+			"url": "https://usn.ubuntu.com/3621-1"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.debian.org/debian-lts-announce/2019/05/msg00028.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.debian.org/debian-lts-announce/2018/07/msg00012.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.debian.org/debian-lts-announce/2018/04/msg00023.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.debian.org/debian-lts-announce/2018/04/msg00001.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.debian.org/debian-lts-announce/2018/04/msg00000.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2020:0663"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2020:0591"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2020:0542"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:2028"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2018:3731"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2018:3730"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2018:3729"
 		},
 		{
 			"type": "WEB",
