@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hww2-5g85-429m",
-	"modified": "2024-02-18T05:33:30.810093Z",
+	"modified": "2024-03-14T22:31:34.390682Z",
 	"published": "2023-06-29T15:30:34Z",
 	"aliases": [
 		"CVE-2023-36617"
@@ -26,7 +26,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "0.10.1"
 						},
 						{
 							"fixed": "0.10.3"
@@ -35,12 +35,35 @@
 				}
 			],
 			"versions": [
-				"0.10.0",
-				"0.10.0.1",
-				"0.10.0.2",
-				"0.10.0.3",
 				"0.10.1",
 				"0.10.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/06/GHSA-hww2-5g85-429m/GHSA-hww2-5g85-429m.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "uri",
+				"purl": "pkg:gem/uri"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0.12.0"
+						},
+						{
+							"fixed": "0.12.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"0.12.0",
+				"0.12.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/06/GHSA-hww2-5g85-429m/GHSA-hww2-5g85-429m.json"
@@ -60,17 +83,42 @@
 							"introduced": "0.11.0"
 						},
 						{
-							"fixed": "0.12.2"
+							"fixed": "0.11.2"
 						}
 					]
 				}
 			],
 			"versions": [
 				"0.11.0",
-				"0.11.1",
-				"0.11.2",
-				"0.12.0",
-				"0.12.1"
+				"0.11.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/06/GHSA-hww2-5g85-429m/GHSA-hww2-5g85-429m.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "uri",
+				"purl": "pkg:gem/uri"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0.10.0.3"
+						}
+					]
+				}
+			],
+			"versions": [
+				"0.10.0",
+				"0.10.0.1",
+				"0.10.0.2"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/06/GHSA-hww2-5g85-429m/GHSA-hww2-5g85-429m.json"
@@ -84,6 +132,14 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/ruby/uri/commit/05b1e7d026b886e65a60ee35625229da9ec220bb"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/ruby/uri/commit/38bf797c488bcb4a37fb322bfa84977981863ec6"
+		},
+		{
+			"type": "WEB",
 			"url": "https://github.com/ruby/uri/commit/3cd938df20db26c9439e9f681aadfb9bbeb6d1c0"
 		},
 		{
@@ -92,7 +148,15 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/ruby/uri/commit/70794abc162bb15bb934713b5669713d6700d35c"
+		},
+		{
+			"type": "WEB",
 			"url": "https://github.com/ruby/uri/commit/7e33934c91b7f8f3ea7b7a4258b468e19f636bc3"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/ruby/uri/commit/9a8e0cc03da964054c2a4ea26b59c53c3bae4921"
 		},
 		{
 			"type": "WEB",
