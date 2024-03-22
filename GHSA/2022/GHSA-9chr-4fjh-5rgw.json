@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9chr-4fjh-5rgw",
-	"modified": "2023-04-11T01:43:37.406161Z",
+	"modified": "2024-03-21T17:46:56.239230Z",
 	"published": "2022-10-27T12:00:27Z",
 	"summary": "Cross-site Scripting in actionpack",
 	"details": "actionpack from the Ruby on Rails project is vulnerable to Cross-site Scripting in the Route Error Page. This issue has been patched with this [commit](https://github.com/rails/rails/commit/be177e4566747b73ff63fd5f529fab564e475ed4). \n\nThis vulnerability is disputed by the Rails security team. It requires that the developer is tricked into copy pasting a malicious javascript-containing string into a development-only error page accessible only via localhost.",
@@ -457,6 +457,10 @@
 				"6.1.7.1",
 				"6.1.7.2",
 				"6.1.7.3",
+				"6.1.7.4",
+				"6.1.7.5",
+				"6.1.7.6",
+				"6.1.7.7",
 				"7.0.0",
 				"7.0.0.alpha1",
 				"7.0.0.alpha2",
@@ -510,6 +514,7 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
+			"CWE-707",
 			"CWE-79"
 		],
 		"github_reviewed": true,
