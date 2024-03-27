@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vfmv-jfc5-pjjw",
-	"modified": "2024-03-25T19:58:33.026481Z",
+	"modified": "2024-03-27T13:16:23.485442Z",
 	"published": "2024-03-25T19:40:36Z",
 	"aliases": [
 		"CVE-2024-29034"
@@ -159,6 +159,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/carrierwaveuploader/carrierwave"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/carrierwave/CVE-2024-29034.yml"
 		}
 	],
 	"database_specific": {
