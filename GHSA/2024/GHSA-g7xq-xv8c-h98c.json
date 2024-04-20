@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g7xq-xv8c-h98c",
-	"modified": "2024-04-17T19:46:02.768713Z",
+	"modified": "2024-04-19T21:46:56.490872Z",
 	"published": "2024-04-17T00:20:23Z",
 	"aliases": [
 		"CVE-2024-32463"
@@ -256,6 +256,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/phlex-ruby/phlex"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/phlex/CVE-2024-32463.yml"
 		}
 	],
 	"database_specific": {
