@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jpcq-cgw6-v4j6",
-	"modified": "2024-03-10T05:16:52.161176Z",
+	"modified": "2024-05-15T20:01:05.124434Z",
 	"published": "2020-04-29T22:19:14Z",
 	"aliases": [
 		"BIT-drupal-2020-11023",
@@ -35,6 +35,11 @@
 					]
 				}
 			],
+			"ecosystem_specific": {
+				"affected_functions": [
+					"(jquery).htmlPrefilter"
+				]
+			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/04/GHSA-jpcq-cgw6-v4j6/GHSA-jpcq-cgw6-v4j6.json"
 			}
@@ -293,6 +298,10 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/jquery/jquery/commit/1d61fd9407e6fbe82fe55cb0b938307aa0791f77"
+		},
+		{
+			"type": "WEB",
 			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/SFP4UK4EGP4AFH2MWYJ5A5Z4I7XVFQ6B"
 		},
 		{
@@ -357,63 +366,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.gentoo.org/glsa/202007-03"
-		},
-		{
-			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200511-0006"
-		},
-		{
-			"type": "WEB",
-			"url": "https://security.snyk.io/vuln/SNYK-DOTNET-JQUERY-565440"
-		},
-		{
-			"type": "WEB",
-			"url": "https://www.debian.org/security/2020/dsa-4693"
-		},
-		{
-			"type": "WEB",
-			"url": "https://www.drupal.org/sa-core-2020-002"
-		},
-		{
-			"type": "WEB",
-			"url": "https://www.oracle.com//security-alerts/cpujul2021.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://www.oracle.com/security-alerts/cpuApr2021.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://www.oracle.com/security-alerts/cpuapr2022.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://www.oracle.com/security-alerts/cpujan2021.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://www.oracle.com/security-alerts/cpujan2022.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://www.oracle.com/security-alerts/cpujul2020.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://www.oracle.com/security-alerts/cpujul2022.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://www.oracle.com/security-alerts/cpuoct2020.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://www.oracle.com/security-alerts/cpuoct2021.html"
-		},
-		{
-			"type": "WEB",
-			"url": "https://www.tenable.com/security/tns-2021-02"
+			"url": "https://lists.apache.org/thread.html/rb25c3bc7418ae75cba07988dafe1b6912f76a9dd7d94757878320d61@%3Cgitbox.hive.apache.org%3E"
 		},
 		{
 			"type": "WEB",
@@ -421,15 +374,71 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/r54565a8f025c7c4f305355fdfd75b68eca442eebdb5f31c2e7d977ae@%3Cissues.flink.apache.org%3E"
+			"url": "https://www.tenable.com/security/tns-2021-02"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/r4dba67be3239b34861f1b9cfdf9dfb3a90272585dcce374112ed6e16@%3Cdev.felix.apache.org%3E"
+			"url": "https://www.oracle.com/security-alerts/cpuoct2021.html"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/r4aadb98086ca72ed75391f54167522d91489a0d0ae25b12baa8fc7c5@%3Cissues.hive.apache.org%3E"
+			"url": "https://www.oracle.com/security-alerts/cpuoct2020.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.oracle.com/security-alerts/cpujul2022.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.oracle.com/security-alerts/cpujul2020.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.oracle.com/security-alerts/cpujan2022.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.oracle.com/security-alerts/cpujan2021.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.oracle.com/security-alerts/cpuapr2022.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.oracle.com/security-alerts/cpuApr2021.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.oracle.com//security-alerts/cpujul2021.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.drupal.org/sa-core-2020-002"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.debian.org/security/2020/dsa-4693"
+		},
+		{
+			"type": "WEB",
+			"url": "https://snyk.io/vuln/SNYK-JS-JQUERY-565129"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.snyk.io/vuln/SNYK-DOTNET-JQUERY-565440"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20230725-0003"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20200511-0006"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202007-03"
 		},
 		{
 			"type": "WEB",
@@ -469,7 +478,27 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/jquery-rails/CVE-2020-23064.yml"
+		},
+		{
+			"type": "WEB",
 			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/jquery-rails/CVE-2020-11023.yml"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rails/jquery-rails/blob/v4.4.0/vendor/assets/javascripts/jquery3.js#L6162"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rails/jquery-rails/blob/v4.3.5/vendor/assets/javascripts/jquery3.js#L5979"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rails/jquery-rails/blob/master/CHANGELOG.md#440"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rails/jquery-rails/blob/master/CHANGELOG.md#410"
 		},
 		{
 			"type": "WEB",
@@ -482,10 +511,6 @@
 		{
 			"type": "WEB",
 			"url": "https://blog.jquery.com/2020/04/10/jquery-3-5-0-released"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/rb25c3bc7418ae75cba07988dafe1b6912f76a9dd7d94757878320d61@%3Cgitbox.hive.apache.org%3E"
 		},
 		{
 			"type": "WEB",
@@ -546,6 +571,18 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread.html/r55f5e066cc7301e3630ce90bbbf8d28c82212ae1f2d4871012141494@%3Cdev.felix.apache.org%3E"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/r54565a8f025c7c4f305355fdfd75b68eca442eebdb5f31c2e7d977ae@%3Cissues.flink.apache.org%3E"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/r4dba67be3239b34861f1b9cfdf9dfb3a90272585dcce374112ed6e16@%3Cdev.felix.apache.org%3E"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/r4aadb98086ca72ed75391f54167522d91489a0d0ae25b12baa8fc7c5@%3Cissues.hive.apache.org%3E"
 		},
 		{
 			"type": "WEB",
