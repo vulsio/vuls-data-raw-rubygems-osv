@@ -3,10 +3,6 @@
 	"id": "GHSA-257q-pv89-v3xv",
 	"modified": "2024-05-15T20:16:00.933954Z",
 	"published": "2023-06-26T21:30:58Z",
-	"aliases": [
-		"CVE-2020-23064",
-		"SNYK-JS-JQUERY-565129"
-	],
 	"summary": "Duplicate Advisory: jQuery Cross Site Scripting vulnerability",
 	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of [GHSA-jpcq-cgw6-v4j6](https://github.com/advisories/GHSA-jpcq-cgw6-v4j6). This link is maintained to preserve external references.\n\n## Original Description\n\nCross Site Scripting vulnerability in jQuery v.2.2.0 until v.3.5.0 allows a remote attacker to execute arbitrary code via the `<options>` element.",
 	"severity": [
