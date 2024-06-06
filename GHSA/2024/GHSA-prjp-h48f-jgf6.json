@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-prjp-h48f-jgf6",
-	"modified": "2024-06-04T22:42:03.077094Z",
+	"modified": "2024-06-05T22:00:43.209835Z",
 	"published": "2024-06-04T22:26:22Z",
 	"aliases": [
 		"CVE-2024-32464"
@@ -90,6 +90,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/rails/rails"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actiontext/CVE-2024-32464.yml"
 		}
 	],
 	"database_specific": {

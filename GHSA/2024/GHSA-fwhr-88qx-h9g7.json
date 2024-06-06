@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fwhr-88qx-h9g7",
-	"modified": "2024-06-04T22:42:02.979949Z",
+	"modified": "2024-06-05T22:01:00.135360Z",
 	"published": "2024-06-04T22:26:24Z",
 	"aliases": [
 		"CVE-2024-28103"
@@ -190,6 +190,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/rails/rails"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actionpack/CVE-2024-28103.yml"
 		}
 	],
 	"database_specific": {
