@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-592j-995h-p23j",
-	"modified": "2024-05-14T18:27:45.709579Z",
+	"modified": "2024-06-12T20:12:45.761192Z",
 	"published": "2024-03-25T19:36:59Z",
 	"aliases": [
+		"CGA-hr6r-398j-373c",
 		"CVE-2024-27281"
 	],
 	"summary": "RDoc RCE vulnerability with .rdoc_options",
