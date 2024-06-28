@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6657",
+	"modified": "2024-06-25T13:48:42Z",
+	"published": "2024-06-25T13:48:42Z",
+	"summary": "Malicious code in apress_documentation (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "apress_documentation",
+				"purl": "pkg:gem/apress_documentation"
+			},
+			"versions": [
+				"0.4.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/apress_documentation/MAL-2024-6657.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05463",
+				"import_time": "2024-06-28T02:52:03.603686266Z",
+				"modified_time": "2024-06-25T13:48:42Z",
+				"sha256": "38a5aab164d0e0cd5876207ca3f90524680d4783012d8eef15ca45300bb68e32",
+				"source": "reversing-labs",
+				"versions": [
+					"0.4.0"
+				]
+			}
+		]
+	}
+}

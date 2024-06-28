@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6630",
+	"modified": "2024-06-25T13:48:27Z",
+	"published": "2024-06-25T13:48:27Z",
+	"summary": "Malicious code in apns-polite (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "apns-polite",
+				"purl": "pkg:gem/apns-polite"
+			},
+			"versions": [
+				"0.9.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/apns-polite/MAL-2024-6630.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05436",
+				"import_time": "2024-06-28T02:52:00.68255607Z",
+				"modified_time": "2024-06-25T13:48:27Z",
+				"sha256": "196e284c2ffd27a817a8411f9ecf49d40b73bcba59c4fe79e4957169d1cfe06c",
+				"source": "reversing-labs",
+				"versions": [
+					"0.9.1"
+				]
+			}
+		]
+	}
+}

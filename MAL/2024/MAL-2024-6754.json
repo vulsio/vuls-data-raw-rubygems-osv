@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6754",
+	"modified": "2024-06-25T13:49:33Z",
+	"published": "2024-06-25T13:49:33Z",
+	"summary": "Malicious code in batali_wedge (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "batali_wedge",
+				"purl": "pkg:gem/batali_wedge"
+			},
+			"versions": [
+				"0.1.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/batali_wedge/MAL-2024-6754.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05560",
+				"import_time": "2024-06-28T02:52:15.108740887Z",
+				"modified_time": "2024-06-25T13:49:33Z",
+				"sha256": "46515d6d1779650324898a894a4cd4de5d8b3dddcbefd17bdd71a60186a8f69f",
+				"source": "reversing-labs",
+				"versions": [
+					"0.1.2"
+				]
+			}
+		]
+	}
+}

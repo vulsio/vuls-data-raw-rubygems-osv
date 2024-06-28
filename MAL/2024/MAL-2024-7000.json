@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7000",
+	"modified": "2024-06-25T13:51:57Z",
+	"published": "2024-06-25T13:51:57Z",
+	"summary": "Malicious code in omniauth_marvin (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "omniauth_marvin",
+				"purl": "pkg:gem/omniauth_marvin"
+			},
+			"versions": [
+				"1.1.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/omniauth_marvin/MAL-2024-7000.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05806",
+				"import_time": "2024-06-28T02:52:43.957503303Z",
+				"modified_time": "2024-06-25T13:51:57Z",
+				"sha256": "f2a355329cf905914daafdedc1b6840c2f74301c2af3398d78aaa237abda6c88",
+				"source": "reversing-labs",
+				"versions": [
+					"1.1.0"
+				]
+			}
+		]
+	}
+}

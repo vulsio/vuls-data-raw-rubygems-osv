@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6497",
+	"modified": "2024-06-25T13:47:10Z",
+	"published": "2024-06-25T13:47:10Z",
+	"summary": "Malicious code in acts-as_list_with_sti_support (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "acts-as_list_with_sti_support",
+				"purl": "pkg:gem/acts-as_list_with_sti_support"
+			},
+			"versions": [
+				"1.0.3"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/acts-as_list_with_sti_support/MAL-2024-6497.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05303",
+				"import_time": "2024-06-28T02:51:44.721185869Z",
+				"modified_time": "2024-06-25T13:47:10Z",
+				"sha256": "6c1126ab6b67d410a3c2fc0258ca74ca747871cfd5fe2d20d184a88bec45929f",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.3"
+				]
+			}
+		]
+	}
+}

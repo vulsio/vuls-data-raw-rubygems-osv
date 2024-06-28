@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6613",
+	"modified": "2024-06-25T13:48:18Z",
+	"published": "2024-06-25T13:48:18Z",
+	"summary": "Malicious code in any_validate (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "any_validate",
+				"purl": "pkg:gem/any_validate"
+			},
+			"versions": [
+				"0.0.4"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/any_validate/MAL-2024-6613.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05419",
+				"import_time": "2024-06-28T02:51:58.681040314Z",
+				"modified_time": "2024-06-25T13:48:18Z",
+				"sha256": "a7b34bf6565a9660e22aa94e1015f86f26b3e70fa2591748dcd32a53bce398f8",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.4"
+				]
+			}
+		]
+	}
+}

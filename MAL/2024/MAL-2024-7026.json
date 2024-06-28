@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7026",
+	"modified": "2024-06-25T13:52:12Z",
+	"published": "2024-06-25T13:52:12Z",
+	"summary": "Malicious code in spider-html (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "spider-html",
+				"purl": "pkg:gem/spider-html"
+			},
+			"versions": [
+				"0.1.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/spider-html/MAL-2024-7026.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05831",
+				"import_time": "2024-06-28T02:52:46.95285777Z",
+				"modified_time": "2024-06-25T13:52:12Z",
+				"sha256": "e7980e79e41ad71cb247c809cf52eed4ab4275c806f0c32c54045a407eef001b",
+				"source": "reversing-labs",
+				"versions": [
+					"0.1.9"
+				]
+			}
+		]
+	}
+}

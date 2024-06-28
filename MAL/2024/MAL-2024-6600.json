@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6600",
+	"modified": "2024-06-25T13:48:11Z",
+	"published": "2024-06-25T13:48:11Z",
+	"summary": "Malicious code in amplifypay-ruby (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "amplifypay-ruby",
+				"purl": "pkg:gem/amplifypay-ruby"
+			},
+			"versions": [
+				"1.0.11"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/amplifypay-ruby/MAL-2024-6600.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05406",
+				"import_time": "2024-06-28T02:51:57.248778417Z",
+				"modified_time": "2024-06-25T13:48:11Z",
+				"sha256": "b5d2c71c2639b52147045bc5ae92f83bc1244cb6abff243d3f27cf47453cb377",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.11"
+				]
+			}
+		]
+	}
+}

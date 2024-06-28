@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6778",
+	"modified": "2024-06-25T13:49:46Z",
+	"published": "2024-06-25T13:49:46Z",
+	"summary": "Malicious code in bin-search (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "bin-search",
+				"purl": "pkg:gem/bin-search"
+			},
+			"versions": [
+				"0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/bin-search/MAL-2024-6778.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05584",
+				"import_time": "2024-06-28T02:52:17.895061279Z",
+				"modified_time": "2024-06-25T13:49:46Z",
+				"sha256": "f3961e531fda0ad57c1185d2000989d20c2f9a37a12fb0e0daacec7dbd265fb5",
+				"source": "reversing-labs",
+				"versions": [
+					"0.1"
+				]
+			}
+		]
+	}
+}

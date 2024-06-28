@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6288",
+	"modified": "2024-06-25T13:44:54Z",
+	"published": "2024-06-25T13:44:54Z",
+	"summary": "Malicious code in a1447ll-hpbd (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "a1447ll-hpbd",
+				"purl": "pkg:gem/a1447ll-hpbd"
+			},
+			"versions": [
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/a1447ll-hpbd/MAL-2024-6288.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05095",
+				"import_time": "2024-06-28T02:51:19.847840922Z",
+				"modified_time": "2024-06-25T13:44:54Z",
+				"sha256": "8b94a13cbd6e718a5d4e3b18d041aa7ed74b069553d01bd6d49711abef5b4050",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.1"
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6440",
+	"modified": "2024-06-25T13:46:34Z",
+	"published": "2024-06-25T13:46:34Z",
+	"summary": "Malicious code in active-search (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "active-search",
+				"purl": "pkg:gem/active-search"
+			},
+			"versions": [
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/active-search/MAL-2024-6440.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05247",
+				"import_time": "2024-06-28T02:51:38.04090312Z",
+				"modified_time": "2024-06-25T13:46:34Z",
+				"sha256": "98587482ad3b0217a7d5d0aa9801997998abc44f40a4b08a3edfcb64b87c0fe4",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.1"
+				]
+			}
+		]
+	}
+}

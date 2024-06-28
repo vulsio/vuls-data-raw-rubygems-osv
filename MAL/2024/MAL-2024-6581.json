@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6581",
+	"modified": "2024-06-25T13:47:59Z",
+	"published": "2024-06-25T13:47:59Z",
+	"summary": "Malicious code in aliyun_mqs (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "aliyun_mqs",
+				"purl": "pkg:gem/aliyun_mqs"
+			},
+			"versions": [
+				"0.1.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/aliyun_mqs/MAL-2024-6581.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05387",
+				"import_time": "2024-06-28T02:51:54.796024316Z",
+				"modified_time": "2024-06-25T13:47:59Z",
+				"sha256": "11dfec32735fc8af9acfe59c66addb15b01ca897c44c8dd1a1f2c7954849dc26",
+				"source": "reversing-labs",
+				"versions": [
+					"0.1.1"
+				]
+			}
+		]
+	}
+}

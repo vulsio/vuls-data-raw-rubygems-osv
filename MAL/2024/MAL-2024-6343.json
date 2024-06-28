@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6343",
+	"modified": "2024-06-25T13:45:33Z",
+	"published": "2024-06-25T13:45:33Z",
+	"summary": "Malicious code in accredible_api-ruby (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "accredible_api-ruby",
+				"purl": "pkg:gem/accredible_api-ruby"
+			},
+			"versions": [
+				"0.1.50"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/accredible_api-ruby/MAL-2024-6343.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05150",
+				"import_time": "2024-06-28T02:51:26.244308082Z",
+				"modified_time": "2024-06-25T13:45:33Z",
+				"sha256": "0642480aac3e9c3b422512c364b1a940ae5a5a5953a562595f18d7b084222e88",
+				"source": "reversing-labs",
+				"versions": [
+					"0.1.50"
+				]
+			}
+		]
+	}
+}

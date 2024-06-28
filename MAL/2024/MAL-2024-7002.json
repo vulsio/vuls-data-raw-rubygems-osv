@@ -1,0 +1,48 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7002",
+	"modified": "2024-06-25T13:51:59Z",
+	"published": "2024-06-25T13:51:59Z",
+	"summary": "Malicious code in pagerbot (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "pagerbot",
+				"purl": "pkg:gem/pagerbot"
+			},
+			"versions": [
+				"5.9.9",
+				"4.9.9"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/pagerbot/MAL-2024-7002.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05808",
+				"import_time": "2024-06-28T02:52:44.179525804Z",
+				"modified_time": "2024-06-25T13:51:59Z",
+				"sha256": "c5c15b1828e2ee7b5cce908a66ca95de04e23128b2891036ccab9737e170d0a6",
+				"source": "reversing-labs",
+				"versions": [
+					"5.9.9",
+					"4.9.9"
+				]
+			}
+		]
+	}
+}

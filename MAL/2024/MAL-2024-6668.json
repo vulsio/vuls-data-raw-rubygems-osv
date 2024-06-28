@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6668",
+	"modified": "2024-06-25T13:48:48Z",
+	"published": "2024-06-25T13:48:48Z",
+	"summary": "Malicious code in ar_serialize-helpers (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "ar_serialize-helpers",
+				"purl": "pkg:gem/ar_serialize-helpers"
+			},
+			"versions": [
+				"1.2.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/ar_serialize-helpers/MAL-2024-6668.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05474",
+				"import_time": "2024-06-28T02:52:04.883547301Z",
+				"modified_time": "2024-06-25T13:48:48Z",
+				"sha256": "18c3a3e8b7f9de43bba97c193045acfcb291192f4edd28fdbfdcefa6050a494c",
+				"source": "reversing-labs",
+				"versions": [
+					"1.2.1"
+				]
+			}
+		]
+	}
+}

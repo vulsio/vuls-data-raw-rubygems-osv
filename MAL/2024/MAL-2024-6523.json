@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6523",
+	"modified": "2024-06-25T13:47:26Z",
+	"published": "2024-06-25T13:47:26Z",
+	"summary": "Malicious code in adwords-scraper (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "adwords-scraper",
+				"purl": "pkg:gem/adwords-scraper"
+			},
+			"versions": [
+				"0.0.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/adwords-scraper/MAL-2024-6523.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05329",
+				"import_time": "2024-06-28T02:51:47.86823535Z",
+				"modified_time": "2024-06-25T13:47:26Z",
+				"sha256": "b350b52cb6c5ebb856e27b03b1935c0314e78e8230ab4e194ea860b810248c7e",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.2"
+				]
+			}
+		]
+	}
+}

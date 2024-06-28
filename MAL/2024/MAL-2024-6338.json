@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6338",
+	"modified": "2024-06-25T13:45:29Z",
+	"published": "2024-06-25T13:45:29Z",
+	"summary": "Malicious code in access-policy (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "access-policy",
+				"purl": "pkg:gem/access-policy"
+			},
+			"versions": [
+				"0.0.7"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/access-policy/MAL-2024-6338.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05145",
+				"import_time": "2024-06-28T02:51:25.693697395Z",
+				"modified_time": "2024-06-25T13:45:29Z",
+				"sha256": "8e8e97edb6e14b38e629692de739584773fa0b50f4ae4b36dcf534a39b8ecfe5",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.7"
+				]
+			}
+		]
+	}
+}

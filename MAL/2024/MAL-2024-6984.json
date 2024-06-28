@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6984",
+	"modified": "2024-06-25T13:51:46Z",
+	"published": "2024-06-25T13:51:46Z",
+	"summary": "Malicious code in logstash_codec-bytes (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "logstash_codec-bytes",
+				"purl": "pkg:gem/logstash_codec-bytes"
+			},
+			"versions": [
+				"2.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/logstash_codec-bytes/MAL-2024-6984.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05790",
+				"import_time": "2024-06-28T02:52:41.862923202Z",
+				"modified_time": "2024-06-25T13:51:46Z",
+				"sha256": "691c89bb8fd98949a8d1632dc980e6eb6f605d28413a84a39efc9cbe86e04a7f",
+				"source": "reversing-labs",
+				"versions": [
+					"2.0.0"
+				]
+			}
+		]
+	}
+}

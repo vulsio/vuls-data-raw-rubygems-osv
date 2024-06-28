@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6764",
+	"modified": "2024-06-25T13:49:39Z",
+	"published": "2024-06-25T13:49:39Z",
+	"summary": "Malicious code in battering-ram (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "battering-ram",
+				"purl": "pkg:gem/battering-ram"
+			},
+			"versions": [
+				"0.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/battering-ram/MAL-2024-6764.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05570",
+				"import_time": "2024-06-28T02:52:16.230529503Z",
+				"modified_time": "2024-06-25T13:49:39Z",
+				"sha256": "16599eadbc865731d0ca4b88e5bca6356833cc2ff53f88620695883986a3c015",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.1"
+				]
+			}
+		]
+	}
+}

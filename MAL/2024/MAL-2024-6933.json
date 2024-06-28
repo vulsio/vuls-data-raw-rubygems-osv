@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6933",
+	"modified": "2024-06-25T13:51:14Z",
+	"published": "2024-06-25T13:51:14Z",
+	"summary": "Malicious code in git-team_stats (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "git-team_stats",
+				"purl": "pkg:gem/git-team_stats"
+			},
+			"versions": [
+				"0.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/git-team_stats/MAL-2024-6933.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05739",
+				"import_time": "2024-06-28T02:52:36.150730525Z",
+				"modified_time": "2024-06-25T13:51:14Z",
+				"sha256": "08e61344c50904eb00b39453973dfdd320f8e2c1250c16947a1d881c5cb80301",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.1"
+				]
+			}
+		]
+	}
+}

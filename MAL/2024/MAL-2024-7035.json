@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7035",
+	"modified": "2024-06-25T13:52:18Z",
+	"published": "2024-06-25T13:52:18Z",
+	"summary": "Malicious code in telegram-bot_ruby (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "telegram-bot_ruby",
+				"purl": "pkg:gem/telegram-bot_ruby"
+			},
+			"versions": [
+				"0.1.7"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/telegram-bot_ruby/MAL-2024-7035.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05840",
+				"import_time": "2024-06-28T02:52:47.967423726Z",
+				"modified_time": "2024-06-25T13:52:18Z",
+				"sha256": "526d0eefbb4c600dd35b945c809dd1cf3413cb66cdfcdb6562df946be84f8a01",
+				"source": "reversing-labs",
+				"versions": [
+					"0.1.7"
+				]
+			}
+		]
+	}
+}

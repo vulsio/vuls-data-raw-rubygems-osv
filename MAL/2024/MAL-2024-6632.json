@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6632",
+	"modified": "2024-06-25T13:48:28Z",
+	"published": "2024-06-25T13:48:28Z",
+	"summary": "Malicious code in apod_cli (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "apod_cli",
+				"purl": "pkg:gem/apod_cli"
+			},
+			"versions": [
+				"0.0.4"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/apod_cli/MAL-2024-6632.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05438",
+				"import_time": "2024-06-28T02:52:00.901960303Z",
+				"modified_time": "2024-06-25T13:48:28Z",
+				"sha256": "b6c40ae807f1ec24eea287465515c8ddb0c9300afe3969e73605f61e287e7977",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.4"
+				]
+			}
+		]
+	}
+}

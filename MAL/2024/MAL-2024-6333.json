@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6333",
+	"modified": "2024-06-25T13:45:26Z",
+	"published": "2024-06-25T13:45:26Z",
+	"summary": "Malicious code in acceptance-tests_support (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "acceptance-tests_support",
+				"purl": "pkg:gem/acceptance-tests_support"
+			},
+			"versions": [
+				"1.0.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/acceptance-tests_support/MAL-2024-6333.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05140",
+				"import_time": "2024-06-28T02:51:25.1359873Z",
+				"modified_time": "2024-06-25T13:45:26Z",
+				"sha256": "4c41e2d2b0d1d5f5c49c2a3f9d3bf4f59fb11c3cc17321f94c8be45e2c4ea940",
+				"source": "reversing-labs",
+				"versions": [
+					"1.0.2"
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6636",
+	"modified": "2024-06-25T13:48:30Z",
+	"published": "2024-06-25T13:48:30Z",
+	"summary": "Malicious code in appium-doc_lint (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "appium-doc_lint",
+				"purl": "pkg:gem/appium-doc_lint"
+			},
+			"versions": [
+				"0.0.11"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/appium-doc_lint/MAL-2024-6636.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05442",
+				"import_time": "2024-06-28T02:52:01.35058466Z",
+				"modified_time": "2024-06-25T13:48:30Z",
+				"sha256": "39863ad8f54aebc5f127d2638a1a1f4189730abce825e4e07f8e9ba7c11fe8ab",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.11"
+				]
+			}
+		]
+	}
+}

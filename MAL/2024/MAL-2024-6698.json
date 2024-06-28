@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6698",
+	"modified": "2024-06-25T13:49:04Z",
+	"published": "2024-06-25T13:49:04Z",
+	"summary": "Malicious code in assemblyline_ruby (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "assemblyline_ruby",
+				"purl": "pkg:gem/assemblyline_ruby"
+			},
+			"versions": [
+				"0.1.6"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/assemblyline_ruby/MAL-2024-6698.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05504",
+				"import_time": "2024-06-28T02:52:08.659668149Z",
+				"modified_time": "2024-06-25T13:49:04Z",
+				"sha256": "29523654ae7bf5910c1b39b4daf36683b6c746746fb04a840d2fb3d309b9087c",
+				"source": "reversing-labs",
+				"versions": [
+					"0.1.6"
+				]
+			}
+		]
+	}
+}

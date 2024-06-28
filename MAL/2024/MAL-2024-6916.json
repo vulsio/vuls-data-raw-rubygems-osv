@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6916",
+	"modified": "2024-06-25T13:51:05Z",
+	"published": "2024-06-25T13:51:05Z",
+	"summary": "Malicious code in font_awesome-sass-mixins (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "font_awesome-sass-mixins",
+				"purl": "pkg:gem/font_awesome-sass-mixins"
+			},
+			"versions": [
+				"4.7.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/font_awesome-sass-mixins/MAL-2024-6916.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05722",
+				"import_time": "2024-06-28T02:52:34.333639996Z",
+				"modified_time": "2024-06-25T13:51:05Z",
+				"sha256": "ce15b93f5d0ebceb828f30a089482e716ca4ca12f80b0e984cc9a1b2aed86c12",
+				"source": "reversing-labs",
+				"versions": [
+					"4.7.0"
+				]
+			}
+		]
+	}
+}

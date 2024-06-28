@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6514",
+	"modified": "2024-06-25T13:47:20Z",
+	"published": "2024-06-25T13:47:20Z",
+	"summary": "Malicious code in administrate-field-belongs-to_search (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "administrate-field-belongs-to_search",
+				"purl": "pkg:gem/administrate-field-belongs-to_search"
+			},
+			"versions": [
+				"0.7.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/administrate-field-belongs-to_search/MAL-2024-6514.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05320",
+				"import_time": "2024-06-28T02:51:46.777219271Z",
+				"modified_time": "2024-06-25T13:47:20Z",
+				"sha256": "b048ebd671bad8af4d0ec1a2d1b41be1101ef84fa040835929d57efea917740f",
+				"source": "reversing-labs",
+				"versions": [
+					"0.7.0"
+				]
+			}
+		]
+	}
+}

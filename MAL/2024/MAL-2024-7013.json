@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-7013",
+	"modified": "2024-06-25T13:52:04Z",
+	"published": "2024-06-25T13:52:04Z",
+	"summary": "Malicious code in rollbar-blanket (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "rollbar-blanket",
+				"purl": "pkg:gem/rollbar-blanket"
+			},
+			"versions": [
+				"22.55.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/rollbar-blanket/MAL-2024-7013.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05818",
+				"import_time": "2024-06-28T02:52:45.373908888Z",
+				"modified_time": "2024-06-25T13:52:04Z",
+				"sha256": "bae08038fc8fca975254b17168b1eac348191205ce7e92a16908ee8e34932b30",
+				"source": "reversing-labs",
+				"versions": [
+					"22.55.2"
+				]
+			}
+		]
+	}
+}

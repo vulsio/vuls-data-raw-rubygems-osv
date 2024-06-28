@@ -1,0 +1,52 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-6278",
+	"modified": "2024-06-25T13:44:47Z",
+	"published": "2024-06-25T13:44:47Z",
+	"summary": "Malicious code in a1330ks-bmi (RubyGems)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "a1330ks-bmi",
+				"purl": "pkg:gem/a1330ks-bmi"
+			},
+			"versions": [
+				"0.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/rubygems/a1330ks-bmi/MAL-2024-6278.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://blog.reversinglabs.com/blog/mining-for-malicious-ruby-gems"
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-05085",
+				"import_time": "2024-06-28T02:51:18.144981968Z",
+				"modified_time": "2024-06-25T13:44:47Z",
+				"sha256": "b70387c9f45cec7263485db5420010c1deec760659add041139b3ddc5b2c6edc",
+				"source": "reversing-labs",
+				"versions": [
+					"0.0.1"
+				]
+			}
+		]
+	}
+}
