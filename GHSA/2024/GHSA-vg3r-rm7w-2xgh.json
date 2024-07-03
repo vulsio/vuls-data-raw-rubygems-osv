@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vg3r-rm7w-2xgh",
-	"modified": "2024-05-19T02:24:47.204176Z",
+	"modified": "2024-07-03T00:44:40.211355Z",
 	"published": "2024-05-16T17:44:04Z",
 	"aliases": [
+		"CGA-wxwx-mfr5-9j7c",
 		"CVE-2024-35176"
 	],
 	"summary": "REXML contains a denial of service vulnerability",
