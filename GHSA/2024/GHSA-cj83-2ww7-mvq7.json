@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cj83-2ww7-mvq7",
-	"modified": "2024-07-03T17:29:26.392169Z",
+	"modified": "2024-07-05T18:03:44.535513Z",
 	"published": "2024-07-03T17:03:45Z",
 	"aliases": [
 		"CVE-2024-39316"
@@ -66,6 +66,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/rack/rack"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/rack/CVE-2024-39316.yml"
 		}
 	],
 	"database_specific": {
