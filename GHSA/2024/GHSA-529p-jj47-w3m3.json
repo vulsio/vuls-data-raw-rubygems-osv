@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-529p-jj47-w3m3",
-	"modified": "2024-07-10T21:45:50.985195Z",
+	"modified": "2024-07-11T21:46:27.610861Z",
 	"published": "2024-07-10T16:02:07Z",
 	"aliases": [
 		"CVE-2024-27095"
@@ -215,6 +215,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/decidim/decidim/releases/tag/v0.28.1"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/decidim-admin/CVE-2024-27095.yml"
 		}
 	],
 	"database_specific": {

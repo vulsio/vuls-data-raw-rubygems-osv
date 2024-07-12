@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qcj6-vxwx-4rqv",
-	"modified": "2024-07-10T21:46:32.891741Z",
+	"modified": "2024-07-11T21:45:48.725039Z",
 	"published": "2024-07-10T15:10:57Z",
 	"aliases": [
 		"CVE-2024-27090"
@@ -193,6 +193,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/decidim/decidim/releases/tag/v0.27.6"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/decidim/CVE-2024-27090.yml"
 		}
 	],
 	"database_specific": {
