@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-21647"
 	],
+	"related": [
+		"CGA-3h34-wg2f-6fhg"
+	],
 	"summary": "Puma HTTP Request/Response Smuggling vulnerability",
 	"details": "### Impact\nPrior to versions 6.4.2 and 5.6.8, puma exhibited dangerous behavior when parsing chunked transfer encoding bodies.\n\nFixed versions limit the size of chunk extensions. Without this limit, an attacker could cause unbounded resource (CPU, network bandwidth) consumption.\n\n### Patches\n\nThe vulnerability has been fixed in 6.4.2 and 5.6.8.\n\n### Workarounds\n\nNo known workarounds.\n\n### References\n\n* [HTTP Request Smuggling](https://portswigger.net/web-security/request-smuggling)\n* Open an issue in [Puma](https://github.com/puma/puma)\n* See our [security policy](https://github.com/puma/puma/security/policy)",
 	"severity": [

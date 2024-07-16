@@ -6,6 +6,11 @@
 	"aliases": [
 		"CVE-2023-28755"
 	],
+	"related": [
+		"CGA-2fhf-fhq2-xx66",
+		"CGA-5vvc-cg62-p43g",
+		"CGA-j43m-m6c2-5q29"
+	],
 	"summary": "Ruby URI component ReDoS issue",
 	"details": "A ReDoS issue was discovered in the URI component through 0.12.0 in Ruby through 3.2.1. The URI parser mishandles invalid URLs that have specific characters. It causes an increase in execution time for parsing strings to URI objects. The fixed versions are 0.12.1, 0.11.1, 0.10.2 and 0.10.0.1.",
 	"severity": [

@@ -7,6 +7,9 @@
 		"CVE-2018-25032",
 		"PSF-2022-3"
 	],
+	"related": [
+		"CGA-phgv-wf69-p9vc"
+	],
 	"summary": "Nokogiri affected by zlib's Out-of-bounds Write vulnerability",
 	"details": "zlib 1.2.11 allows memory corruption when deflating (i.e., when compressing) if the input has many distant matches.",
 	"severity": [
