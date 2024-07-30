@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3wqf-4x89-9g79",
-	"modified": "2024-03-09T05:17:17.300224Z",
+	"modified": "2024-07-30T17:30:49.722808Z",
 	"published": "2022-05-13T01:07:54Z",
 	"aliases": [
 		"CVE-2018-14040"
@@ -107,6 +107,88 @@
 						}
 					]
 				}
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.webjars:bootstrap",
+				"purl": "pkg:maven/org.webjars/bootstrap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "4.0.0"
+						},
+						{
+							"fixed": "4.1.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"4.0.0",
+				"4.0.0-1",
+				"4.0.0-2",
+				"4.1.0",
+				"4.1.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.webjars:bootstrap",
+				"purl": "pkg:maven/org.webjars/bootstrap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "2.3.0"
+						},
+						{
+							"fixed": "3.4.0"
+						}
+					]
+				}
+			],
+			"versions": [
+				"2.3.0",
+				"2.3.1",
+				"2.3.1-1",
+				"2.3.2",
+				"3.0.0",
+				"3.0.0-rc.2",
+				"3.0.0-rc1",
+				"3.0.1",
+				"3.0.2",
+				"3.0.3",
+				"3.1.0",
+				"3.1.1",
+				"3.1.1-1",
+				"3.1.1-2",
+				"3.2.0",
+				"3.2.0-1",
+				"3.2.0-2",
+				"3.3.0",
+				"3.3.1",
+				"3.3.2",
+				"3.3.2-1",
+				"3.3.2-2",
+				"3.3.4",
+				"3.3.5",
+				"3.3.6",
+				"3.3.7",
+				"3.3.7-1"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
