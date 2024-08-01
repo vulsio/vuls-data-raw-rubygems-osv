@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-54rr-7fvw-6x8f",
-	"modified": "2024-07-09T01:27:53.424768Z",
+	"modified": "2024-07-31T19:41:45.423916Z",
 	"published": "2024-02-28T22:57:03Z",
 	"aliases": [
-		"CVE-2024-26146",
-		"CVE-2024-39316",
-		"GHSA-cj83-2ww7-mvq7"
+		"CVE-2024-26146"
 	],
 	"related": [
 		"CGA-862g-ffq3-q4q4",

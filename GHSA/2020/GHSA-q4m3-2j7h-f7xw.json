@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q4m3-2j7h-f7xw",
-	"modified": "2024-02-22T05:24:50.260803Z",
+	"modified": "2024-07-31T19:11:58.878036Z",
 	"published": "2020-05-20T16:18:01Z",
 	"aliases": [
-		"CVE-2020-7656",
-		"SNYK-JS-JQUERY-569619"
+		"CVE-2020-7656"
 	],
 	"summary": "Cross-Site Scripting in jquery",
 	"details": "Versions of `jquery` prior to 1.9.0 are vulnerable to Cross-Site Scripting. The load method fails to recognize and remove `<script>` HTML tags that contain a whitespace character, i.e: `</script >`, which results in the enclosed script logic to be executed. This allows attackers to execute arbitrary JavaScript in a victim's browser.\n\n\n## Recommendation\n\nUpgrade to version 1.9.0 or later.",

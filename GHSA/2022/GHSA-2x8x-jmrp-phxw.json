@@ -1,14 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2x8x-jmrp-phxw",
-	"modified": "2023-12-06T01:02:30.144615Z",
+	"modified": "2024-07-31T19:42:20.684382Z",
 	"published": "2022-11-30T21:18:34Z",
 	"aliases": [
-		"BIT-django-2022-36359",
-		"CVE-2022-36359",
-		"CVE-2022-45442",
-		"GHSA-8x94-hmjh-97hq",
-		"PYSEC-2022-245"
+		"CVE-2022-45442"
 	],
 	"summary": "Sinatra vulnerable to Reflected File Download attack",
 	"details": "### Description\nAn issue was discovered in Sinatra 2.0 before 2.2.3 and 3.0 before 3.0.4. An application is vulnerable to a reflected file download (RFD) attack that sets the Content-Disposition header of a response when the filename is derived from user-supplied input.\n\n### References\n* https://www.blackhat.com/docs/eu-14/materials/eu-14-Hafif-Reflected-File-Download-A-New-Web-Attack-Vector.pdf\n* https://github.com/advisories/GHSA-8x94-hmjh-97hq",
