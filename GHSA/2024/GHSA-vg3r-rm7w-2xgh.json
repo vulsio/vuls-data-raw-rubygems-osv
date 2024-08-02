@@ -1,10 +1,14 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vg3r-rm7w-2xgh",
-	"modified": "2024-07-16T15:00:16.048497Z",
+	"modified": "2024-08-02T01:56:43.349882Z",
 	"published": "2024-05-16T17:44:04Z",
 	"aliases": [
-		"CVE-2024-35176"
+		"CVE-2024-35176",
+		"CVE-2024-39908",
+		"CVE-2024-41123",
+		"GHSA-4xqq-m2hx-25v8",
+		"GHSA-r55c-59qm-vjw6"
 	],
 	"related": [
 		"CGA-2583-v855-mmq2",
