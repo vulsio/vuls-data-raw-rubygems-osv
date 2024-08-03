@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3wqf-4x89-9g79",
-	"modified": "2024-07-30T17:30:49.722808Z",
+	"modified": "2024-08-02T19:38:24.969311Z",
 	"published": "2022-05-13T01:07:54Z",
 	"aliases": [
 		"CVE-2018-14040"
@@ -189,6 +189,237 @@
 				"3.3.6",
 				"3.3.7",
 				"3.3.7-1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "NuGet",
+				"name": "bootstrap",
+				"purl": "pkg:nuget/bootstrap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "2.3.0"
+						},
+						{
+							"fixed": "3.4.0"
+						}
+					]
+				}
+			],
+			"versions": [
+				"2.3.1",
+				"2.3.2",
+				"3.0.0",
+				"3.0.1",
+				"3.0.2",
+				"3.0.3",
+				"3.1.0",
+				"3.1.1",
+				"3.2.0",
+				"3.3.0",
+				"3.3.1",
+				"3.3.2",
+				"3.3.4",
+				"3.3.5",
+				"3.3.6",
+				"3.3.6-jQuery3",
+				"3.3.6.1",
+				"3.3.7"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "NuGet",
+				"name": "bootstrap",
+				"purl": "pkg:nuget/bootstrap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "4.0.0"
+						},
+						{
+							"fixed": "4.1.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"4.0.0",
+				"4.1.0",
+				"4.1.1",
+				"4.1.1-contentFiles"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "NuGet",
+				"name": "bootstrap.sass",
+				"purl": "pkg:nuget/bootstrap.sass"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "4.0.0"
+						},
+						{
+							"fixed": "4.1.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"4.0.0",
+				"4.1.0",
+				"4.1.1",
+				"4.1.1-contentFiles"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "RubyGems",
+				"name": "bootstrap-sass",
+				"purl": "pkg:gem/bootstrap-sass"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "2.3.0"
+						},
+						{
+							"fixed": "3.4.0"
+						}
+					]
+				}
+			],
+			"versions": [
+				"2.3.0.0",
+				"2.3.0.1",
+				"2.3.1.0",
+				"2.3.1.2",
+				"2.3.1.3",
+				"2.3.2.0",
+				"2.3.2.1",
+				"2.3.2.2",
+				"3.0.0.0",
+				"3.0.0.0.rc",
+				"3.0.0.0.rc2",
+				"3.0.1.0",
+				"3.0.1.0.rc",
+				"3.0.2.0",
+				"3.0.2.1",
+				"3.0.3.0",
+				"3.1.0.0",
+				"3.1.0.1",
+				"3.1.0.2",
+				"3.1.1.0",
+				"3.1.1.1",
+				"3.2.0.4",
+				"3.3.0.0",
+				"3.3.0.1",
+				"3.3.1.0",
+				"3.3.2.0",
+				"3.3.2.1",
+				"3.3.3",
+				"3.3.4.1",
+				"3.3.5",
+				"3.3.5.1",
+				"3.3.6",
+				"3.3.7"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Packagist",
+				"name": "twbs/bootstrap",
+				"purl": "pkg:composer/twbs/bootstrap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "2.3.0"
+						},
+						{
+							"fixed": "3.4.0"
+						}
+					]
+				}
+			],
+			"versions": [
+				"v2.3.0",
+				"v2.3.1",
+				"v2.3.2",
+				"v3.0.0",
+				"v3.0.0-rc.2",
+				"v3.0.0-rc1",
+				"v3.0.1",
+				"v3.0.2",
+				"v3.0.3",
+				"v3.1.0",
+				"v3.1.1",
+				"v3.2.0",
+				"v3.3.0",
+				"v3.3.1",
+				"v3.3.2",
+				"v3.3.4",
+				"v3.3.5",
+				"v3.3.6",
+				"v3.3.7"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Packagist",
+				"name": "twbs/bootstrap",
+				"purl": "pkg:composer/twbs/bootstrap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "4.0.0"
+						},
+						{
+							"fixed": "4.1.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"v4.0.0",
+				"v4.1.0",
+				"v4.1.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3wqf-4x89-9g79/GHSA-3wqf-4x89-9g79.json"
