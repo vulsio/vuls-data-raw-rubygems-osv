@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7mvr-5x2g-wfc8",
-	"modified": "2024-08-01T21:36:59.025638Z",
+	"modified": "2024-08-05T16:50:49.755012Z",
 	"published": "2018-09-13T15:50:32Z",
 	"aliases": [
 		"CVE-2018-14042"
@@ -521,6 +521,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/bootstrap/CVE-2018-14042.yml"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/bootstrap-sass/CVE-2018-14042.yml"
 		},
 		{
 			"type": "WEB",

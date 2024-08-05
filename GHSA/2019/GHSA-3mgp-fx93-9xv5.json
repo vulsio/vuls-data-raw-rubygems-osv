@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3mgp-fx93-9xv5",
-	"modified": "2024-08-01T21:40:31.864509Z",
+	"modified": "2024-08-05T16:50:33.924840Z",
 	"published": "2019-01-17T13:57:34Z",
 	"aliases": [
 		"CVE-2018-20676"
@@ -321,7 +321,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/twbs/bootstrap/issues/27044"
+			"url": "https://github.com/twbs/bootstrap/issues/27915#issuecomment-452196628"
 		},
 		{
 			"type": "WEB",
@@ -329,7 +329,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/twbs/bootstrap/issues/27915#issuecomment-452196628"
+			"url": "https://github.com/twbs/bootstrap/issues/27044"
 		},
 		{
 			"type": "WEB",
@@ -341,31 +341,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHBA-2019:1076"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHBA-2019:1570"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:1456"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:3023"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2020:0132"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2020:0133"
-		},
-		{
-			"type": "WEB",
-			"url": "https://blog.getbootstrap.com/2018/12/13/bootstrap-3-4-0"
+			"url": "https://lists.apache.org/thread.html/rd0e44e8ef71eeaaa3cf3d1b8b41eb25894372e2995ec908ce7624d26@%3Ccommits.pulsar.apache.org%3E"
 		},
 		{
 			"type": "PACKAGE",
@@ -373,7 +349,39 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/rd0e44e8ef71eeaaa3cf3d1b8b41eb25894372e2995ec908ce7624d26@%3Ccommits.pulsar.apache.org%3E"
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/bootstrap/CVE-2018-20676.yml"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/bootstrap-sass/CVE-2018-20676.yml"
+		},
+		{
+			"type": "WEB",
+			"url": "https://blog.getbootstrap.com/2018/12/13/bootstrap-3-4-0"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2020:0133"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2020:0132"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:3023"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:1456"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHBA-2019:1570"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHBA-2019:1076"
 		}
 	],
 	"database_specific": {
