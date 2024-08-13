@@ -11,6 +11,7 @@
 		"GHSA-vg3r-rm7w-2xgh"
 	],
 	"related": [
+		"CGA-4rmx-pppm-689j",
 		"CGA-m89m-48x8-362j"
 	],
 	"summary": "REXML denial of service vulnerability",
