@@ -11,6 +11,7 @@
 		"GHSA-vg3r-rm7w-2xgh"
 	],
 	"related": [
+		"CGA-gvjv-4f2q-v69c",
 		"CGA-jxrj-xh37-f583"
 	],
 	"summary": "REXML DoS vulnerability",
