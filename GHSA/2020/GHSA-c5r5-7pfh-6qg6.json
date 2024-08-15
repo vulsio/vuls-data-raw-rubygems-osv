@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c5r5-7pfh-6qg6",
-	"modified": "2024-02-16T08:16:32.616837Z",
+	"modified": "2024-08-15T06:44:01.332264Z",
 	"published": "2020-02-14T23:10:01Z",
 	"aliases": [
-		"CVE-2019-10780",
-		"SNYK-RUBY-BIBTEXRUBY-542602"
+		"CVE-2019-10780"
 	],
 	"summary": "BibTeX-Ruby vulnerable to OS command injection",
 	"details": "BibTeX-ruby before 5.1.0 allows shell command injection due to unsanitized user input being passed directly to the built-in Ruby `Kernel.open` method through BibTeX.open.",
