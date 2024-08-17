@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vc8w-jr9v-vj7f",
-	"modified": "2024-08-05T16:49:36.531461Z",
+	"modified": "2024-08-16T18:37:35.106623Z",
 	"published": "2024-07-11T18:31:14Z",
 	"aliases": [
 		"CVE-2024-6531"
@@ -251,6 +251,48 @@
 				"4.5.3",
 				"4.6.0",
 				"4.6.0-1",
+				"4.6.1",
+				"4.6.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/07/GHSA-vc8w-jr9v-vj7f/GHSA-vc8w-jr9v-vj7f.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.webjars.npm:bootstrap",
+				"purl": "pkg:maven/org.webjars.npm/bootstrap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "4.0.0"
+						},
+						{
+							"last_affected": "4.6.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"4.0.0",
+				"4.1.0",
+				"4.1.1",
+				"4.1.2",
+				"4.1.3",
+				"4.2.1",
+				"4.3.0",
+				"4.3.1",
+				"4.4.0",
+				"4.4.1",
+				"4.5.0",
+				"4.5.1",
+				"4.5.2",
+				"4.5.3",
+				"4.6.0",
 				"4.6.1",
 				"4.6.2"
 			],
