@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-592j-995h-p23j",
-	"modified": "2024-08-20T18:21:02.152543Z",
+	"modified": "2024-08-21T16:41:28.986237Z",
 	"published": "2024-03-25T19:36:59Z",
 	"aliases": [
 		"CVE-2024-27281"
@@ -39,7 +39,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "6.3.0"
+							"introduced": "6.3.3"
 						},
 						{
 							"fixed": "6.3.4.1"
@@ -48,9 +48,6 @@
 				}
 			],
 			"versions": [
-				"6.3.0",
-				"6.3.1",
-				"6.3.2",
 				"6.3.3"
 			],
 			"database_specific": {
