@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vmwr-mc7x-5vc3",
-	"modified": "2024-08-22T17:42:31.365993Z",
+	"modified": "2024-08-26T15:10:17.057200Z",
 	"published": "2024-08-22T16:40:46Z",
 	"aliases": [
 		"CVE-2024-43398"
@@ -85,6 +85,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/ruby/rexml/releases/tag/v3.3.6"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/rexml/CVE-2024-43398.yml"
 		}
 	],
 	"database_specific": {
