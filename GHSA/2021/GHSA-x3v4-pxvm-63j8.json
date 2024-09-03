@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x3v4-pxvm-63j8",
-	"modified": "2024-08-01T09:27:00.530525Z",
+	"modified": "2024-09-03T03:42:09.075172Z",
 	"published": "2021-05-24T18:13:36Z",
 	"aliases": [
 		"CVE-2020-7659",
