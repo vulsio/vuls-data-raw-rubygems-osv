@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jw9c-mfg7-9rx2",
-	"modified": "2024-09-10T21:48:48.694590Z",
+	"modified": "2024-09-11T21:05:36.378878Z",
 	"published": "2024-09-10T19:42:03Z",
 	"aliases": [
 		"CVE-2024-45409"
@@ -158,6 +158,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/SAML-Toolkits/ruby-saml/security/advisories/GHSA-jw9c-mfg7-9rx2"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/omniauth/omniauth-saml/security/advisories/GHSA-cvp8-5r8g-fhvq"
 		},
 		{
 			"type": "ADVISORY",
