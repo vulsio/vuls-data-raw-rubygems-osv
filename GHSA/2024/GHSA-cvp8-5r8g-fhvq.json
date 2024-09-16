@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cvp8-5r8g-fhvq",
-	"modified": "2024-09-12T14:26:01.099739Z",
+	"modified": "2024-09-16T15:45:52.692857Z",
 	"published": "2024-09-11T21:08:26Z",
 	"aliases": [
 		"CVE-2024-45409",
@@ -92,6 +92,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/omniauth/omniauth-saml"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/omniauth-saml/GHSA-cvp8-5r8g-fhvq.yml"
 		}
 	],
 	"database_specific": {
