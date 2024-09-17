@@ -8,7 +8,8 @@
 		"GHSA-jw9c-mfg7-9rx2"
 	],
 	"related": [
-		"CGA-48jw-3f9f-7vjw"
+		"CGA-48jw-3f9f-7vjw",
+		"CGA-5h9h-fw3m-9xqf"
 	],
 	"summary": "omniauth-saml vulnerable to Improper Verification of Cryptographic Signature",
 	"details": "ruby-saml, the dependent SAML gem of omniauth-saml has a signature wrapping vulnerability in <= v1.12.0 and v1.13.0 to v1.16.0 , see https://github.com/SAML-Toolkits/ruby-saml/security/advisories/GHSA-jw9c-mfg7-9rx2 \nAs a result, omniauth-saml created a [new release](https://github.com/omniauth/omniauth-saml/releases) by upgrading ruby-saml to the patched versions v1.17. \n",

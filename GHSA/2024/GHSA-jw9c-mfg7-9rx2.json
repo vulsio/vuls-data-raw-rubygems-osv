@@ -8,6 +8,7 @@
 		"GHSA-cvp8-5r8g-fhvq"
 	],
 	"related": [
+		"CGA-3qvq-cgm9-2fjm",
 		"CGA-xx54-4hxp-h89x"
 	],
 	"summary": "SAML authentication bypass via Incorrect XPath selector",
