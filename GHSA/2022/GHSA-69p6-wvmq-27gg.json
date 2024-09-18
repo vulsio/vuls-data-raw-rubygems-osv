@@ -1,11 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-69p6-wvmq-27gg",
-	"modified": "2024-02-20T05:26:58.635609Z",
+	"modified": "2024-09-18T03:13:24.873758Z",
 	"published": "2022-04-20T00:00:33Z",
 	"aliases": [
 		"BIT-git-2022-25648",
-		"CVE-2022-25648"
+		"CVE-2022-25648",
+		"SNYK-RUBY-GIT-2421270"
 	],
 	"summary": "Command injection in ruby-git",
 	"details": "The package prior to v1.11.0 is vulnerable to Command Injection via git argument injection. When calling the `fetch(remote = 'origin', opts = {})` function, the remote parameter is passed to the `git fetch` subcommand in a way such that additional flags can be set. The additional flags can be used to perform a command injection.",
