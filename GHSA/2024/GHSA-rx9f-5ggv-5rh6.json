@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rx9f-5ggv-5rh6",
-	"modified": "2024-09-16T22:46:17.667692Z",
+	"modified": "2024-09-17T22:34:09.207091Z",
 	"published": "2024-09-16T17:17:20Z",
 	"aliases": [
 		"CVE-2024-32034"
@@ -225,6 +225,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/decidim/decidim"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/decidim-admin/CVE-2024-32034.yml"
 		}
 	],
 	"database_specific": {

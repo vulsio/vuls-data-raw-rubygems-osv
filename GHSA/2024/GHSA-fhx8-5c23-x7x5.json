@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fhx8-5c23-x7x5",
-	"modified": "2024-09-16T22:42:36.452809Z",
+	"modified": "2024-09-17T22:35:05.553708Z",
 	"published": "2024-03-01T15:31:37Z",
 	"aliases": [
 		"CVE-2023-46950"
@@ -252,6 +252,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/mhenrixon/sidekiq-unique-jobs/releases/tag/v8.0.7"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/sidekiq-unique-jobs/CVE-2023-46950.yml"
 		},
 		{
 			"type": "WEB",
