@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-735f-pc8j-v9w8",
-	"modified": "2024-09-19T16:44:33.023977Z",
+	"modified": "2024-09-20T22:23:25.144635Z",
 	"published": "2024-09-19T16:06:03Z",
 	"aliases": [
 		"CVE-2024-7254"
@@ -1058,6 +1058,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/protocolbuffers/protobuf"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/google-protobuf/CVE-2024-7254.yml"
 		}
 	],
 	"database_specific": {
