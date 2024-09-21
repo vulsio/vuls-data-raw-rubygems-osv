@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jw9c-mfg7-9rx2",
-	"modified": "2024-09-20T22:24:05.826016Z",
+	"modified": "2024-09-21T08:12:06.074331Z",
 	"published": "2024-09-10T19:42:03Z",
 	"aliases": [
+		"BIT-gitlab-2024-45409",
 		"CVE-2024-45409",
 		"GHSA-cvp8-5r8g-fhvq"
 	],
