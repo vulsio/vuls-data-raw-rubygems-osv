@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-45614"
 	],
+	"related": [
+		"CGA-7qjr-6v4f-v99j"
+	],
 	"summary": "Puma's header normalization allows for client to clobber proxy set headers",
 	"details": "### Impact\n\nClients could clobber values set by intermediate proxies (such as X-Forwarded-For) by providing a underscore version of the same header (X-Forwarded_For). Any users trusting headers set by their proxy may be affected. Attackers may be able to downgrade connections to HTTP (non-SSL) or redirect responses, which could cause confidentiality leaks if combined with a separate MITM attack. \n\n### Patches\nv6.4.3/v5.6.9 now discards any headers using underscores if the non-underscore version also exists. Effectively, allowing the proxy defined headers to always win.\n\n### Workarounds\nNginx has a [underscores_in_headers](https://nginx.org/en/docs/http/ngx_http_core_module.html#underscores_in_headers) configuration variable to discard these headers at the proxy level.\n\nAny users that are implicitly trusting the proxy defined headers for security or availability should immediately cease doing so until upgraded to the fixed versions.",
 	"severity": [
