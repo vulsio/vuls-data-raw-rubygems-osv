@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6f62-3596-g6w7",
-	"modified": "2024-09-23T21:27:50.315686Z",
+	"modified": "2024-09-24T14:49:01.346702Z",
 	"published": "2024-09-22T03:30:30Z",
 	"aliases": [
 		"CVE-2024-47220"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "1.8.1"
+							"fixed": "1.8.2"
 						}
 					]
 				}
@@ -51,6 +51,7 @@
 				"1.8.1"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 1.8.1",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-6f62-3596-g6w7/GHSA-6f62-3596-g6w7.json"
 			}
 		}
@@ -75,6 +76,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/ruby/webrick"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/webrick/CVE-2024-47220.yml"
 		}
 	],
 	"database_specific": {
