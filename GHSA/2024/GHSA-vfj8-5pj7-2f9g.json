@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vfj8-5pj7-2f9g",
-	"modified": "2024-10-04T22:22:35.166846Z",
+	"modified": "2024-10-08T17:57:19.304148Z",
 	"published": "2024-10-02T19:29:23Z",
 	"aliases": [
-		"CVE-2024-43795"
+		"CVE-2024-43795",
+		"PYSEC-2024-100"
 	],
 	"summary": "OpenC3 Cross-site Scripting in Login functionality (`GHSL-2024-128`)",
 	"details": "### Summary\nThe login functionality contains a reflected cross-site scripting (XSS) vulnerability.\n\nNote: This CVE only affects Open Source Edition, and not OpenC3 COSMOS Enterprise Edition\n\n### Impact\nThis issue may lead up to Remote Code Execution (RCE).\n\n**NOTE:** The complete advisory with much more information is added as [comment](https://github.com/OpenC3/cosmos/security/advisories/GHSA-vfj8-5pj7-2f9g#advisory-comment-104904).",
