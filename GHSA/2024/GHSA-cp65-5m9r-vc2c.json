@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cp65-5m9r-vc2c",
-	"modified": "2024-09-18T19:36:20.500272Z",
+	"modified": "2024-10-09T19:33:00.643358Z",
 	"published": "2024-09-18T15:46:53Z",
 	"aliases": [
 		"CVE-2024-46987"
@@ -177,6 +177,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/owen2345/camaleon-cms"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/camaleon_cms/CVE-2024-46987.yml"
 		},
 		{
 			"type": "WEB",
