@@ -7,6 +7,7 @@
 		"CVE-2024-7254"
 	],
 	"related": [
+		"CGA-c87c-r7j2-6c2f",
 		"CGA-v5fx-59qm-4247"
 	],
 	"summary": "protobuf-java has potential Denial of Service issue",
