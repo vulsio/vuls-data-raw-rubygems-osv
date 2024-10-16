@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ggxm-pgc9-g7fp",
-	"modified": "2024-02-20T05:22:15.313399Z",
+	"modified": "2024-10-16T17:01:22.286245Z",
 	"published": "2021-09-01T18:53:15Z",
 	"aliases": [
 		"CVE-2021-31799"
