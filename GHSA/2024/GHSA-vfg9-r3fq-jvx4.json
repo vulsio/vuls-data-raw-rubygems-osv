@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vfg9-r3fq-jvx4",
-	"modified": "2024-10-16T19:47:07.550050Z",
+	"modified": "2024-10-22T12:41:58.656979Z",
 	"published": "2024-10-15T23:35:35Z",
 	"aliases": [
+		"BIT-rails-2024-47887",
 		"CVE-2024-47887"
 	],
 	"summary": "Possible ReDoS vulnerability in HTTP Token authentication in Action Controller",

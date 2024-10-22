@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h47h-mwp9-c6q6",
-	"modified": "2024-10-16T19:46:32.265928Z",
+	"modified": "2024-10-22T12:42:01.437315Z",
 	"published": "2024-10-15T23:35:38Z",
 	"aliases": [
+		"BIT-rails-2024-47889",
 		"CVE-2024-47889"
 	],
 	"summary": "Possible ReDoS vulnerability in block_format in Action Mailer",
