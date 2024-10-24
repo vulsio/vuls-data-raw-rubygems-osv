@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7006",
-	"modified": "2024-06-25T13:44:42Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:42Z",
 	"summary": "Malicious code in QubitSDK (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -52,6 +52,13 @@
 					"2.0.6",
 					"8.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09598",
+				"import_time": "2024-10-24T01:00:29.919656542Z",
+				"modified_time": "2024-10-16T14:54:49Z",
+				"sha256": "5b81f48c63d977aa7fcc995e2efa12d935011c5f6e85fcf07f72033f035c15c3",
+				"source": "reversing-labs"
 			}
 		]
 	}

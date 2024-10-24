@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6489",
-	"modified": "2024-06-25T13:47:04Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:04Z",
 	"summary": "Malicious code in acts-as_commentable_with_replies (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09814",
+				"import_time": "2024-10-24T01:00:45.675386685Z",
+				"modified_time": "2024-10-16T14:57:52Z",
+				"sha256": "cac231baf2ceb23883366adfed041994804332cf80fbc2b17dfbc09228abde9f",
+				"source": "reversing-labs"
 			}
 		]
 	}

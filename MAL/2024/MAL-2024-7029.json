@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7029",
-	"modified": "2024-06-25T13:52:14Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:52:14Z",
 	"summary": "Malicious code in spider_node (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10355",
+				"import_time": "2024-10-24T01:01:24.385175526Z",
+				"modified_time": "2024-10-16T15:04:53Z",
+				"sha256": "fbca0dd8b6c17db9e0d738325164badea76d7cdeb2eff261e45886c2bc1fc2ab",
+				"source": "reversing-labs"
 			}
 		]
 	}

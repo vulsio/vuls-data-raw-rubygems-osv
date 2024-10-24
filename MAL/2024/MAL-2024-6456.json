@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6456",
-	"modified": "2024-06-25T13:46:44Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:44Z",
 	"summary": "Malicious code in activemerchant-banklink (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.6"
 				]
+			},
+			{
+				"id": "RLUA-2024-09781",
+				"import_time": "2024-10-24T01:00:43.268169259Z",
+				"modified_time": "2024-10-16T14:57:23Z",
+				"sha256": "e2390d487144afd978e2921d29e8443bd68b80d8fef8f4c0c3c88dd763c60b41",
+				"source": "reversing-labs"
 			}
 		]
 	}

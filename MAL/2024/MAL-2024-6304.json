@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6304",
-	"modified": "2024-06-25T13:45:06Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:06Z",
 	"summary": "Malicious code in a15745105-ichinoki (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.4.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-09630",
+				"import_time": "2024-10-24T01:00:31.914394116Z",
+				"modified_time": "2024-10-16T14:55:20Z",
+				"sha256": "3a5f0345c66752e332e94051c30cb9b247d9cd0d584fed0a6804a19479e2b546",
+				"source": "reversing-labs"
 			}
 		]
 	}

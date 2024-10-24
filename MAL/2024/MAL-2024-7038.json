@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7038",
-	"modified": "2024-06-25T13:52:20Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:52:20Z",
 	"summary": "Malicious code in telegram_bot-ruby (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.12.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10364",
+				"import_time": "2024-10-24T01:01:25.126781174Z",
+				"modified_time": "2024-10-16T15:05:01Z",
+				"sha256": "319afbdc95389b7d55ad415ae74b502f95ca0752220109bcb11faec3f21ff295",
+				"source": "reversing-labs"
 			}
 		]
 	}

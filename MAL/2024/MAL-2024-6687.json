@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6687",
-	"modified": "2024-06-25T13:48:59Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:59Z",
 	"summary": "Malicious code in artisan_plugin (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10012",
+				"import_time": "2024-10-24T01:01:00.031674299Z",
+				"modified_time": "2024-10-16T15:00:27Z",
+				"sha256": "0efe6e4c78d2feed8201c29a54b6f428869cafd7d3754a8ec2af81ca7ee1184f",
+				"source": "reversing-labs"
 			}
 		]
 	}

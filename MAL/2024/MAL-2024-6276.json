@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6276",
-	"modified": "2024-06-25T13:44:44Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:44Z",
 	"summary": "Malicious code in a-stupid-test_gem (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-09602",
+				"import_time": "2024-10-24T01:00:30.134521848Z",
+				"modified_time": "2024-10-16T14:54:54Z",
+				"sha256": "4a5accd9859643287b161b1c42c19a53e0029bb5caa98db504e8131c0b7a6447",
+				"source": "reversing-labs"
 			}
 		]
 	}

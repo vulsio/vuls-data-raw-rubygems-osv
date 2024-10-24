@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6562",
-	"modified": "2024-06-25T13:47:48Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:48Z",
 	"summary": "Malicious code in alias-metrics (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-09887",
+				"import_time": "2024-10-24T01:00:50.908623215Z",
+				"modified_time": "2024-10-16T14:58:47Z",
+				"sha256": "6edb9252d84b624ac1489b3a5a5c4243107ea13082be61f9b9e83972de8e13e9",
+				"source": "reversing-labs"
 			}
 		]
 	}

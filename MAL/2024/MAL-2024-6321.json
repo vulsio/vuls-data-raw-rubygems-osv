@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6321",
-	"modified": "2024-06-25T13:45:17Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:17Z",
 	"summary": "Malicious code in abbish-sequel_plugins (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.6"
 				]
+			},
+			{
+				"id": "RLUA-2024-09647",
+				"import_time": "2024-10-24T01:00:33.202295139Z",
+				"modified_time": "2024-10-16T14:55:35Z",
+				"sha256": "6adace0d3ad301a9fd2195fb31303edf8851b88f4981857fb5bbc0e05b61f868",
+				"source": "reversing-labs"
 			}
 		]
 	}

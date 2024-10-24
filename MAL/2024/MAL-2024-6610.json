@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6610",
-	"modified": "2024-06-25T13:48:17Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:17Z",
 	"summary": "Malicious code in ansible-tower_client (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.21.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09935",
+				"import_time": "2024-10-24T01:00:54.379276568Z",
+				"modified_time": "2024-10-16T14:59:25Z",
+				"sha256": "ff8a924ffd1288a0b59156d545a76cb260a3233e69d597e98031b0d256ac0427",
+				"source": "reversing-labs"
 			}
 		]
 	}

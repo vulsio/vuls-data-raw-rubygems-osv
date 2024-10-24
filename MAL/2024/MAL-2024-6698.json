@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6698",
-	"modified": "2024-06-25T13:49:04Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:04Z",
 	"summary": "Malicious code in assemblyline_ruby (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.6"
 				]
+			},
+			{
+				"id": "RLUA-2024-10023",
+				"import_time": "2024-10-24T01:01:00.809482679Z",
+				"modified_time": "2024-10-16T15:00:35Z",
+				"sha256": "cba9e98e2a396a90534107645259ad87f04f29a62f7978e8b5732526e298fa8a",
+				"source": "reversing-labs"
 			}
 		]
 	}

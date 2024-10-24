@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6460",
-	"modified": "2024-06-25T13:46:46Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:46Z",
 	"summary": "Malicious code in activemodel-behavior-validator (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-09785",
+				"import_time": "2024-10-24T01:00:43.565994423Z",
+				"modified_time": "2024-10-16T14:57:28Z",
+				"sha256": "085a4bcea59c1d585a00796e896500d4b56524758705e4c8031fe4a1742b10f2",
+				"source": "reversing-labs"
 			}
 		]
 	}

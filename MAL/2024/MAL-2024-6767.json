@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6767",
-	"modified": "2024-06-25T13:49:40Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:40Z",
 	"summary": "Malicious code in bbs-uploader (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.6"
 				]
+			},
+			{
+				"id": "RLUA-2024-10092",
+				"import_time": "2024-10-24T01:01:06.085049004Z",
+				"modified_time": "2024-10-16T15:01:32Z",
+				"sha256": "7e55affa97b7c499e98ba3eae6451f087522ba42f753573d685d03b72fe6c054",
+				"source": "reversing-labs"
 			}
 		]
 	}

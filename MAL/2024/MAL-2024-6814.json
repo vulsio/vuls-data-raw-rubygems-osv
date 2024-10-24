@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6814",
-	"modified": "2024-06-25T13:50:06Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:06Z",
 	"summary": "Malicious code in capistrano_rake (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10139",
+				"import_time": "2024-10-24T01:01:09.459670079Z",
+				"modified_time": "2024-10-16T15:02:07Z",
+				"sha256": "b2506a84ba1a142355117d447730fa10d02836a435ff66d1929784fae08d73b4",
+				"source": "reversing-labs"
 			}
 		]
 	}

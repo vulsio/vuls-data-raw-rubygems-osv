@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6916",
-	"modified": "2024-06-25T13:51:05Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:05Z",
 	"summary": "Malicious code in font_awesome-sass-mixins (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"4.7.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10241",
+				"import_time": "2024-10-24T01:01:16.65527608Z",
+				"modified_time": "2024-10-16T15:03:26Z",
+				"sha256": "0fef7187fcdba981327485b2bf8fc5ca2ff3e85b5492716bb4f9467b522b5c42",
+				"source": "reversing-labs"
 			}
 		]
 	}

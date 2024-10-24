@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6834",
-	"modified": "2024-06-25T13:50:18Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:18Z",
 	"summary": "Malicious code in cocoapods_fixbugs-plugin (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10159",
+				"import_time": "2024-10-24T01:01:10.913774431Z",
+				"modified_time": "2024-10-16T15:02:24Z",
+				"sha256": "6cbebc92ebdee8b81fa9eccc2c3883b49dd9fb6a26aa6ed429331a045712a9ae",
+				"source": "reversing-labs"
 			}
 		]
 	}

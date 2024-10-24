@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6662",
-	"modified": "2024-06-25T13:48:45Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:45Z",
 	"summary": "Malicious code in ar-database_duplicator (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-09987",
+				"import_time": "2024-10-24T01:00:58.103702276Z",
+				"modified_time": "2024-10-16T15:00:08Z",
+				"sha256": "8cc4e8123adb92b955ff3edfcf18a764ac1ed6127749fd7b57c0fb26b86b304b",
+				"source": "reversing-labs"
 			}
 		]
 	}

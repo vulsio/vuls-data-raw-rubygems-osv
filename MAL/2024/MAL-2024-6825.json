@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6825",
-	"modified": "2024-06-25T13:50:12Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:12Z",
 	"summary": "Malicious code in chef-partial-search (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.7"
 				]
+			},
+			{
+				"id": "RLUA-2024-10150",
+				"import_time": "2024-10-24T01:01:10.289841686Z",
+				"modified_time": "2024-10-16T15:02:17Z",
+				"sha256": "5770a7fbfce7eea7a006130ce0883838af0eaec4b89b00e19ae6cda0c38238c0",
+				"source": "reversing-labs"
 			}
 		]
 	}

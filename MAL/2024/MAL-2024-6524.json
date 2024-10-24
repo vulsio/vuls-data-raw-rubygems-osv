@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6524",
-	"modified": "2024-06-25T13:47:26Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:26Z",
 	"summary": "Malicious code in adyen_ruby-api-library (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"4.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-09849",
+				"import_time": "2024-10-24T01:00:48.157492231Z",
+				"modified_time": "2024-10-16T14:58:17Z",
+				"sha256": "2e0b68787b26c09219fea1a9673bb4105921d459e10627569fb72a012b2b2e36",
+				"source": "reversing-labs"
 			}
 		]
 	}

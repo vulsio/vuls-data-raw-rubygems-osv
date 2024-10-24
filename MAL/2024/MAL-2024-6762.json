@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6762",
-	"modified": "2024-06-25T13:49:38Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:38Z",
 	"summary": "Malicious code in batman_rails (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.16.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10087",
+				"import_time": "2024-10-24T01:01:05.756950485Z",
+				"modified_time": "2024-10-16T15:01:29Z",
+				"sha256": "fcd23c42bad2de8a5a934ef2a1c932e9da54dc29133071bd05724c6ba2fbd722",
+				"source": "reversing-labs"
 			}
 		]
 	}

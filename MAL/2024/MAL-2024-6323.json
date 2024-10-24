@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6323",
-	"modified": "2024-06-25T13:45:19Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:19Z",
 	"summary": "Malicious code in abbyy_cloud (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.10"
 				]
+			},
+			{
+				"id": "RLUA-2024-09649",
+				"import_time": "2024-10-24T01:00:33.336678027Z",
+				"modified_time": "2024-10-16T14:55:37Z",
+				"sha256": "8e0cec307a7e79d5a0a2e1b94d2348402c02b9fd5f7e56a2dd2db705c0240137",
+				"source": "reversing-labs"
 			}
 		]
 	}

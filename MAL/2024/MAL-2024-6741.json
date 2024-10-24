@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6741",
-	"modified": "2024-06-25T13:49:26Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:26Z",
 	"summary": "Malicious code in aws_logs (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.3.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-10066",
+				"import_time": "2024-10-24T01:01:04.158062697Z",
+				"modified_time": "2024-10-16T15:01:12Z",
+				"sha256": "029bf67927f2ae1101e96648353efb1009355def4ebe32bcb598df2f5074f5c4",
+				"source": "reversing-labs"
 			}
 		]
 	}

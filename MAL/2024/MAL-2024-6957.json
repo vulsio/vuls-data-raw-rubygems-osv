@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6957",
-	"modified": "2024-06-25T13:51:29Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:29Z",
 	"summary": "Malicious code in lines-mixer (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10283",
+				"import_time": "2024-10-24T01:01:19.640235171Z",
+				"modified_time": "2024-10-16T15:03:59Z",
+				"sha256": "382fe79238acad4b4a9a714e1f70ae7ea1fbd79e6b797ca85112b10c2fd4e610",
+				"source": "reversing-labs"
 			}
 		]
 	}

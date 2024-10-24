@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6853",
-	"modified": "2024-06-25T13:50:28Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:28Z",
 	"summary": "Malicious code in danger_apkstats (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10178",
+				"import_time": "2024-10-24T01:01:12.080925796Z",
+				"modified_time": "2024-10-16T15:02:40Z",
+				"sha256": "a7d9bdcd08e8d3c20680aea591a7cc72a0b0b9f1066ba4d50a4ceef61784c934",
+				"source": "reversing-labs"
 			}
 		]
 	}

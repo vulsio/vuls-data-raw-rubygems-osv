@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6526",
-	"modified": "2024-06-25T13:47:27Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:27Z",
 	"summary": "Malicious code in aem_deploy (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.26"
 				]
+			},
+			{
+				"id": "RLUA-2024-09851",
+				"import_time": "2024-10-24T01:00:48.293502741Z",
+				"modified_time": "2024-10-16T14:58:19Z",
+				"sha256": "28503ef7acc8c0472622862ded716d09f7bab26930373b04345b0f59f8fe47c7",
+				"source": "reversing-labs"
 			}
 		]
 	}

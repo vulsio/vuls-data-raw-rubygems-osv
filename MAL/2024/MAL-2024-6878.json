@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6878",
-	"modified": "2024-06-25T13:50:42Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:42Z",
 	"summary": "Malicious code in dt_rake (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-10203",
+				"import_time": "2024-10-24T01:01:13.903402413Z",
+				"modified_time": "2024-10-16T15:03:00Z",
+				"sha256": "097e8560b3ffe89987b0af88c6618f925e2976e3f6b6fe00c474758c5e8a1ef8",
+				"source": "reversing-labs"
 			}
 		]
 	}

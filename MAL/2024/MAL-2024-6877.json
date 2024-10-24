@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6877",
-	"modified": "2024-06-25T13:50:42Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:42Z",
 	"summary": "Malicious code in drupal-fu (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10202",
+				"import_time": "2024-10-24T01:01:13.840860108Z",
+				"modified_time": "2024-10-16T15:02:59Z",
+				"sha256": "c8040ce6d7ecece4599a456766406eff2f0377f79e415476094d83c1a77f7106",
+				"source": "reversing-labs"
 			}
 		]
 	}

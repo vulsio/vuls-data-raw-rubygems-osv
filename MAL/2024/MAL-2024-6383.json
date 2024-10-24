@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6383",
-	"modified": "2024-06-25T13:45:58Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:58Z",
 	"summary": "Malicious code in action-subscriber (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"5.1.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-09709",
+				"import_time": "2024-10-24T01:00:37.805365124Z",
+				"modified_time": "2024-10-16T14:56:27Z",
+				"sha256": "1c4df986cb26bda5fd93a9d15e60f63dfdae7f572b1e5e0266dc4528519b1370",
+				"source": "reversing-labs"
 			}
 		]
 	}

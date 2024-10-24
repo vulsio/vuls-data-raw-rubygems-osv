@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6522",
-	"modified": "2024-06-25T13:47:25Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:25Z",
 	"summary": "Malicious code in advisors-command_client (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"2.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09847",
+				"import_time": "2024-10-24T01:00:48.025167121Z",
+				"modified_time": "2024-10-16T14:58:16Z",
+				"sha256": "387678171ed1b6c8c88c6574705d1d4a68e33c1056cfaeb002987c4fd30c7c8f",
+				"source": "reversing-labs"
 			}
 		]
 	}

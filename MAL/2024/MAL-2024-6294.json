@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6294",
-	"modified": "2024-06-25T13:44:58Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:58Z",
 	"summary": "Malicious code in a1508ki-ika (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09620",
+				"import_time": "2024-10-24T01:00:31.299161494Z",
+				"modified_time": "2024-10-16T14:55:10Z",
+				"sha256": "efcb3fcb18a006053828600fbb3972654a62621e382f7637563ade416e22817a",
+				"source": "reversing-labs"
 			}
 		]
 	}

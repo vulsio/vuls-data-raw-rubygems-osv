@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6882",
-	"modified": "2024-06-25T13:50:46Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:46Z",
 	"summary": "Malicious code in ebay_ysr (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.8"
 				]
+			},
+			{
+				"id": "RLUA-2024-10207",
+				"import_time": "2024-10-24T01:01:14.126379217Z",
+				"modified_time": "2024-10-16T15:03:03Z",
+				"sha256": "d6ce467b9873774f55cb9a632155db8c33c23a9589f2aecb661585a01f13652d",
+				"source": "reversing-labs"
 			}
 		]
 	}

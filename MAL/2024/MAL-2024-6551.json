@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6551",
-	"modified": "2024-06-25T13:47:41Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:41Z",
 	"summary": "Malicious code in alerty-plugin-datadog-event (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-09876",
+				"import_time": "2024-10-24T01:00:50.072135968Z",
+				"modified_time": "2024-10-16T14:58:40Z",
+				"sha256": "e483656ab27e49339f95700c52211f84677097f74cc1a4eb5d27fef3de165c1e",
+				"source": "reversing-labs"
 			}
 		]
 	}

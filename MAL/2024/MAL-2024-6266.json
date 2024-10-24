@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6266",
-	"modified": "2024-06-25T13:44:35Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:35Z",
 	"summary": "Malicious code in 1-as_identity_function (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09589",
+				"import_time": "2024-10-24T01:00:29.42488942Z",
+				"modified_time": "2024-10-16T14:54:41Z",
+				"sha256": "2c00c3fcb82e4138bc6766495cc42035411fb8e7be31f28290503bca0f711789",
+				"source": "reversing-labs"
 			}
 		]
 	}

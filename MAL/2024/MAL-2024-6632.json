@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6632",
-	"modified": "2024-06-25T13:48:28Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:28Z",
 	"summary": "Malicious code in apod_cli (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-09957",
+				"import_time": "2024-10-24T01:00:55.817269424Z",
+				"modified_time": "2024-10-16T14:59:42Z",
+				"sha256": "7ad063017cecc69f7b5159469a5bde63c37654957bcc5eb1c1f57ae7cc359458",
+				"source": "reversing-labs"
 			}
 		]
 	}

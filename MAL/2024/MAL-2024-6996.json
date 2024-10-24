@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6996",
-	"modified": "2024-06-25T13:51:55Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:55Z",
 	"summary": "Malicious code in nhtsa-vin (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.8"
 				]
+			},
+			{
+				"id": "RLUA-2024-10323",
+				"import_time": "2024-10-24T01:01:22.271896002Z",
+				"modified_time": "2024-10-16T15:04:28Z",
+				"sha256": "3f39dbc647af732fc5a86d8bcbdb48a449c6d96f4b3ffdd6359f65c1edbb6adb",
+				"source": "reversing-labs"
 			}
 		]
 	}

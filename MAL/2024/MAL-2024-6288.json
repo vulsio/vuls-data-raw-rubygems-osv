@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6288",
-	"modified": "2024-06-25T13:44:54Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:54Z",
 	"summary": "Malicious code in a1447ll-hpbd (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09614",
+				"import_time": "2024-10-24T01:00:30.860800713Z",
+				"modified_time": "2024-10-16T14:55:05Z",
+				"sha256": "6fa1d90d2ca1d56c53215addd6da703bba6052369a32e495c2b35780db4f6eb4",
+				"source": "reversing-labs"
 			}
 		]
 	}

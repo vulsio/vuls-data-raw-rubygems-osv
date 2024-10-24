@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6898",
-	"modified": "2024-06-25T13:50:55Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:55Z",
 	"summary": "Malicious code in fluent-plugin-haproxy-stats (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10223",
+				"import_time": "2024-10-24T01:01:15.417656535Z",
+				"modified_time": "2024-10-16T15:03:14Z",
+				"sha256": "1940ed5e048388e0174ac8907b0baca4f769c21c8f58916083504058eb4a0e27",
+				"source": "reversing-labs"
 			}
 		]
 	}

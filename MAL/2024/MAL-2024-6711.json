@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6711",
-	"modified": "2024-06-25T13:49:11Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:11Z",
 	"summary": "Malicious code in astroboa_cli (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.5.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10036",
+				"import_time": "2024-10-24T01:01:01.746084536Z",
+				"modified_time": "2024-10-16T15:00:45Z",
+				"sha256": "5b5b0d7a3101fbd6e55c9259dfaf95054711307be1c3a8d5bacbf7be61bb1fb7",
+				"source": "reversing-labs"
 			}
 		]
 	}

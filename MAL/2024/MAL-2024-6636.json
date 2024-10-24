@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6636",
-	"modified": "2024-06-25T13:48:30Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:30Z",
 	"summary": "Malicious code in appium-doc_lint (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.11"
 				]
+			},
+			{
+				"id": "RLUA-2024-09961",
+				"import_time": "2024-10-24T01:00:56.095335849Z",
+				"modified_time": "2024-10-16T14:59:46Z",
+				"sha256": "ca30fe6c1a9fb40f63b6fb9431a71f289b4e123e2970aaf42d8100fe5e56293c",
+				"source": "reversing-labs"
 			}
 		]
 	}

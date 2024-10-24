@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6542",
-	"modified": "2024-06-25T13:47:35Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:35Z",
 	"summary": "Malicious code in aker-cas-cli (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09867",
+				"import_time": "2024-10-24T01:00:49.3934103Z",
+				"modified_time": "2024-10-16T14:58:31Z",
+				"sha256": "55ec578c544e0f1e04244ccbd0b018d6fc88197e2052bd1b0e1a23e95cad03b4",
+				"source": "reversing-labs"
 			}
 		]
 	}

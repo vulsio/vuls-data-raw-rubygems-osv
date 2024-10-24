@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6455",
-	"modified": "2024-06-25T13:46:42Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:42Z",
 	"summary": "Malicious code in activeadmin_mongoid-localize (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09780",
+				"import_time": "2024-10-24T01:00:43.219783185Z",
+				"modified_time": "2024-10-16T14:57:22Z",
+				"sha256": "befd073a3e93d3a80383c5854a29ca9cf290468e18b423f172c60f0296c36be8",
+				"source": "reversing-labs"
 			}
 		]
 	}

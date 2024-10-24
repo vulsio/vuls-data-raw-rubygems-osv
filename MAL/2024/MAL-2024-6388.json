@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6388",
-	"modified": "2024-06-25T13:46:02Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:02Z",
 	"summary": "Malicious code in actionview-link-to_block (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-09714",
+				"import_time": "2024-10-24T01:00:38.143090019Z",
+				"modified_time": "2024-10-16T14:56:30Z",
+				"sha256": "a64760d3866d124d405c06ede2f53568294d01ad7c2d90495da5ec83ea64d1f8",
+				"source": "reversing-labs"
 			}
 		]
 	}

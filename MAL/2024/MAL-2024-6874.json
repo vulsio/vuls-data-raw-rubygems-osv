@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6874",
-	"modified": "2024-06-25T13:50:40Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:40Z",
 	"summary": "Malicious code in dragonfly_activerecord (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10199",
+				"import_time": "2024-10-24T01:01:13.592653832Z",
+				"modified_time": "2024-10-16T15:02:57Z",
+				"sha256": "daf7321b058d5c1746964eaaf6f565241d20c5ac3b9e926da84c5f641ff4dbf5",
+				"source": "reversing-labs"
 			}
 		]
 	}

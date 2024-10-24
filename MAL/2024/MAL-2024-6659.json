@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6659",
-	"modified": "2024-06-25T13:48:43Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:43Z",
 	"summary": "Malicious code in apress_validators (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09984",
+				"import_time": "2024-10-24T01:00:57.885063581Z",
+				"modified_time": "2024-10-16T15:00:05Z",
+				"sha256": "51f5b93e0aee25f2de5a2e327977436ada032ed19f4bd0a2b7dd6e3ea7e25ab5",
+				"source": "reversing-labs"
 			}
 		]
 	}

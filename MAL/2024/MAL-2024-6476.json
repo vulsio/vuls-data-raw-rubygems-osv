@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6476",
-	"modified": "2024-06-25T13:46:56Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:56Z",
 	"summary": "Malicious code in activerecord-strict_validations (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.3.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09801",
+				"import_time": "2024-10-24T01:00:44.885334715Z",
+				"modified_time": "2024-10-16T14:57:42Z",
+				"sha256": "c0a1348a19014ffa4edb8724baccb5f54349958d6bd0c853ab32dddd7e85957b",
+				"source": "reversing-labs"
 			}
 		]
 	}

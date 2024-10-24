@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6986",
-	"modified": "2024-06-25T13:51:47Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:47Z",
 	"summary": "Malicious code in logstash_codec-cloudfront (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"3.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-10312",
+				"import_time": "2024-10-24T01:01:21.658115514Z",
+				"modified_time": "2024-10-16T15:04:19Z",
+				"sha256": "0a759a4bfe88e20e9d612f5c490fb7ec85c433f8f6f1bc20cc90f64989e28e33",
+				"source": "reversing-labs"
 			}
 		]
 	}

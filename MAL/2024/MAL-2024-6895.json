@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6895",
-	"modified": "2024-06-25T13:50:53Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:53Z",
 	"summary": "Malicious code in first-gem_rakesh (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10220",
+				"import_time": "2024-10-24T01:01:15.153576174Z",
+				"modified_time": "2024-10-16T15:03:12Z",
+				"sha256": "d6d6ab50b93f15a2d1bdca1e43cff4f23dabaf72f0bdfec86fa3a73b70d34ed8",
+				"source": "reversing-labs"
 			}
 		]
 	}

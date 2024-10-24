@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6709",
-	"modified": "2024-06-25T13:49:10Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:10Z",
 	"summary": "Malicious code in association-validator (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.6.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10034",
+				"import_time": "2024-10-24T01:01:01.547806531Z",
+				"modified_time": "2024-10-16T15:00:43Z",
+				"sha256": "3cdc0d95d326e78934a9428e488403fa3bdf2f35df7e3dff3376f2a930a9be02",
+				"source": "reversing-labs"
 			}
 		]
 	}

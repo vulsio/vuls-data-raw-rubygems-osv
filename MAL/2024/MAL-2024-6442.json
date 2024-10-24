@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6442",
-	"modified": "2024-06-25T13:46:35Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:35Z",
 	"summary": "Malicious code in active-subset-validator (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09768",
+				"import_time": "2024-10-24T01:00:42.333432896Z",
+				"modified_time": "2024-10-16T14:57:13Z",
+				"sha256": "e8a5e2bf92fdfdc1f3502a776df7c41b8eb182463874146524cc478bc8e2eebe",
+				"source": "reversing-labs"
 			}
 		]
 	}

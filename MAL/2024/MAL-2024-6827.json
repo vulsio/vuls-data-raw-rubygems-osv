@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6827",
-	"modified": "2024-06-25T13:50:14Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:14Z",
 	"summary": "Malicious code in chef_handler-datadog-demo (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10152",
+				"import_time": "2024-10-24T01:01:10.494488716Z",
+				"modified_time": "2024-10-16T15:02:18Z",
+				"sha256": "ef78e1f10aa094df8af849dcdf5f8468e7d218f7daf2d3cdabd2c0dd31d20c94",
+				"source": "reversing-labs"
 			}
 		]
 	}

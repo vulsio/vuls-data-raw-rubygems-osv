@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6829",
-	"modified": "2024-06-25T13:50:15Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:15Z",
 	"summary": "Malicious code in cinch_logsearch (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10154",
+				"import_time": "2024-10-24T01:01:10.658920253Z",
+				"modified_time": "2024-10-16T15:02:20Z",
+				"sha256": "8092408b9e2c3124cd608fdacc719c776652d873146015a56ab517a3a171873e",
+				"source": "reversing-labs"
 			}
 		]
 	}

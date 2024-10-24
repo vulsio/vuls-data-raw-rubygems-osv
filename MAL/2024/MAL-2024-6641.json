@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6641",
-	"modified": "2024-06-25T13:48:33Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:33Z",
 	"summary": "Malicious code in apple_news-client (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.5.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-09966",
+				"import_time": "2024-10-24T01:00:56.529190227Z",
+				"modified_time": "2024-10-16T14:59:50Z",
+				"sha256": "66e330cd397fcb314fd0da617b35e02d76c7bd79feca674be6c0eb95f6184be5",
+				"source": "reversing-labs"
 			}
 		]
 	}

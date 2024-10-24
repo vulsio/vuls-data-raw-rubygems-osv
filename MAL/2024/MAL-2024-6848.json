@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6848",
-	"modified": "2024-06-25T13:50:26Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:26Z",
 	"summary": "Malicious code in custom-logs (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.7"
 				]
+			},
+			{
+				"id": "RLUA-2024-10173",
+				"import_time": "2024-10-24T01:01:11.783144811Z",
+				"modified_time": "2024-10-16T15:02:37Z",
+				"sha256": "f1ef4f34999b77a452d2f1c6758645312277717bc624b9921c4652834d80d394",
+				"source": "reversing-labs"
 			}
 		]
 	}

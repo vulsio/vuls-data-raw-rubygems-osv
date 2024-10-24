@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6959",
-	"modified": "2024-06-25T13:51:30Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:30Z",
 	"summary": "Malicious code in lita_onewheel-beer-abvpub (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10285",
+				"import_time": "2024-10-24T01:01:19.803578829Z",
+				"modified_time": "2024-10-16T15:04:00Z",
+				"sha256": "e1fce1b4c9fe4d0e7481b1b97e81f6fc5357a7e9f762c2980a9add93d7acc9f2",
+				"source": "reversing-labs"
 			}
 		]
 	}

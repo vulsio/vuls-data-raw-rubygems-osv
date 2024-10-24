@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6515",
-	"modified": "2024-06-25T13:47:21Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:21Z",
 	"summary": "Malicious code in administrate_field-mobility (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09840",
+				"import_time": "2024-10-24T01:00:47.528876609Z",
+				"modified_time": "2024-10-16T14:58:11Z",
+				"sha256": "f6428a301cfd73a2ba9facabac4df5ff96cd37b376fb3f9b31f0408675da8214",
+				"source": "reversing-labs"
 			}
 		]
 	}

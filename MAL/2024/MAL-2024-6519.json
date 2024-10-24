@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6519",
-	"modified": "2024-06-25T13:47:24Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:24Z",
 	"summary": "Malicious code in admob-site_stats (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09844",
+				"import_time": "2024-10-24T01:00:47.803969748Z",
+				"modified_time": "2024-10-16T14:58:14Z",
+				"sha256": "f496a7a3c7876541102c6a04cad984f20c01484b8d000d1c00ab34895744990a",
+				"source": "reversing-labs"
 			}
 		]
 	}

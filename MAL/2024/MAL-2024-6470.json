@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6470",
-	"modified": "2024-06-25T13:46:52Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:52Z",
 	"summary": "Malicious code in activerecord-json_validator (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.3.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09795",
+				"import_time": "2024-10-24T01:00:44.423750544Z",
+				"modified_time": "2024-10-16T14:57:36Z",
+				"sha256": "98b4431444ab4fce45f0ddc626d81e30311a798b11abaa7b1b854f35fc84b42b",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6919",
-	"modified": "2024-06-25T13:51:06Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:06Z",
 	"summary": "Malicious code in font_league (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10244",
+				"import_time": "2024-10-24T01:01:16.859549482Z",
+				"modified_time": "2024-10-16T15:03:29Z",
+				"sha256": "cf89db137093939068a90dca2ab87d9f40012c5574dfedd61c9d19b7ba210ac0",
+				"source": "reversing-labs"
 			}
 		]
 	}

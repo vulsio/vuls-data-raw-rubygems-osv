@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6343",
-	"modified": "2024-06-25T13:45:33Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:33Z",
 	"summary": "Malicious code in accredible_api-ruby (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.50"
 				]
+			},
+			{
+				"id": "RLUA-2024-09669",
+				"import_time": "2024-10-24T01:00:34.620920489Z",
+				"modified_time": "2024-10-16T14:55:53Z",
+				"sha256": "ff999dc755b5cd13e54c80bf75bd9327386e314963c98a14f35c1f639f4ef7e1",
+				"source": "reversing-labs"
 			}
 		]
 	}

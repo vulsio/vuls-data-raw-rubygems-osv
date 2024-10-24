@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6578",
-	"modified": "2024-06-25T13:47:57Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:57Z",
 	"summary": "Malicious code in aliyun-sls (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.7"
 				]
+			},
+			{
+				"id": "RLUA-2024-09903",
+				"import_time": "2024-10-24T01:00:52.004530019Z",
+				"modified_time": "2024-10-16T14:59:02Z",
+				"sha256": "9fbf742044f5d72f4aa0ada2d14d007b8803f10be1ac622602cfc15e3d5d549c",
+				"source": "reversing-labs"
 			}
 		]
 	}

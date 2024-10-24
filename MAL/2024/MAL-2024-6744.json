@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6744",
-	"modified": "2024-06-25T13:49:28Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:28Z",
 	"summary": "Malicious code in backbone_subroute-rails (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.4.6"
 				]
+			},
+			{
+				"id": "RLUA-2024-10069",
+				"import_time": "2024-10-24T01:01:04.343890392Z",
+				"modified_time": "2024-10-16T15:01:14Z",
+				"sha256": "f4b3a2729a2ed13d8015f6d7c00cbb607ae57e7e24564fec897017cfe3508369",
+				"source": "reversing-labs"
 			}
 		]
 	}

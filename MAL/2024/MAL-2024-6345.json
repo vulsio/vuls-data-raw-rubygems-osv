@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6345",
-	"modified": "2024-06-25T13:45:34Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:34Z",
 	"summary": "Malicious code in ace_client-ext (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.11"
 				]
+			},
+			{
+				"id": "RLUA-2024-09671",
+				"import_time": "2024-10-24T01:00:34.808145005Z",
+				"modified_time": "2024-10-16T14:55:54Z",
+				"sha256": "9bddbc45f3970a94d635249feb07c86ccbe15d8174f9305ff9805d7d0e0a1286",
+				"source": "reversing-labs"
 			}
 		]
 	}

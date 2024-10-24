@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6824",
-	"modified": "2024-06-25T13:50:12Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:12Z",
 	"summary": "Malicious code in chalk_rake (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-10149",
+				"import_time": "2024-10-24T01:01:10.214210932Z",
+				"modified_time": "2024-10-16T15:02:16Z",
+				"sha256": "8e49c2b7e1d66c60689a558560d04a87efda135776f5c1bca92262e5cff50fb9",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6807",
-	"modified": "2024-06-25T13:50:02Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:02Z",
 	"summary": "Malicious code in capistrano3_drupal (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10132",
+				"import_time": "2024-10-24T01:01:08.91254146Z",
+				"modified_time": "2024-10-16T15:02:02Z",
+				"sha256": "9cf0cb213d24ec830c62c7dbd9d62f5b868d698ac79ebb76772a5506b3a247c6",
+				"source": "reversing-labs"
 			}
 		]
 	}

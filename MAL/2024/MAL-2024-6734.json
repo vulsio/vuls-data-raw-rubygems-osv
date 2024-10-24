@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6734",
-	"modified": "2024-06-25T13:49:23Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:23Z",
 	"summary": "Malicious code in awesome-print_carrier_wave_uploader (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10059",
+				"import_time": "2024-10-24T01:01:03.496806276Z",
+				"modified_time": "2024-10-16T15:01:05Z",
+				"sha256": "a9cacb824e53a41ec8b8f80da5acd08f72bb68bf3265e6cc2db67ab72d507f6c",
+				"source": "reversing-labs"
 			}
 		]
 	}

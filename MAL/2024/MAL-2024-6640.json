@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6640",
-	"modified": "2024-06-25T13:48:32Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:32Z",
 	"summary": "Malicious code in apple-store_search (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-09965",
+				"import_time": "2024-10-24T01:00:56.484982214Z",
+				"modified_time": "2024-10-16T14:59:49Z",
+				"sha256": "2ceb4bbd0c59ed1422ce25b15220b1a71dc6424431fde2b4f260004989f93431",
+				"source": "reversing-labs"
 			}
 		]
 	}

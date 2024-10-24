@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6854",
-	"modified": "2024-06-25T13:50:29Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:29Z",
 	"summary": "Malicious code in danger_brakeman (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10179",
+				"import_time": "2024-10-24T01:01:12.21265998Z",
+				"modified_time": "2024-10-16T15:02:40Z",
+				"sha256": "74c7f4a4e5a084f09ec45b9d494f3fe9a1ac798e44fb5220fdb883e48c17ee06",
+				"source": "reversing-labs"
 			}
 		]
 	}

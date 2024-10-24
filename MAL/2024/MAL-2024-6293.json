@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6293",
-	"modified": "2024-06-25T13:44:58Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:58Z",
 	"summary": "Malicious code in a1501da-birthday (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09619",
+				"import_time": "2024-10-24T01:00:31.238200126Z",
+				"modified_time": "2024-10-16T14:55:10Z",
+				"sha256": "8255b1bb6f32093ed95c79d061c6efc6ce36d4058f6a7decb16417a8b5db9b8d",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6285",
-	"modified": "2024-06-25T13:44:52Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:52Z",
 	"summary": "Malicious code in a1436mm-age (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-09611",
+				"import_time": "2024-10-24T01:00:30.68965068Z",
+				"modified_time": "2024-10-16T14:55:02Z",
+				"sha256": "df6c9fd617912b69772df85852e9a19e23ff614a2eb12e90bee74b2d0a827abb",
+				"source": "reversing-labs"
 			}
 		]
 	}

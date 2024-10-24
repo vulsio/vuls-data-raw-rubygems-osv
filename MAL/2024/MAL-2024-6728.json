@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6728",
-	"modified": "2024-06-25T13:49:20Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:20Z",
 	"summary": "Malicious code in auto-localize (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10053",
+				"import_time": "2024-10-24T01:01:03.078189034Z",
+				"modified_time": "2024-10-16T15:01:00Z",
+				"sha256": "3bc372f732373720a901472fa2583f270aa19380b8072ef78c60a456a47702d2",
+				"source": "reversing-labs"
 			}
 		]
 	}

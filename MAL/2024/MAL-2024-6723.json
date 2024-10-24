@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6723",
-	"modified": "2024-06-25T13:49:17Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:17Z",
 	"summary": "Malicious code in auth_transis-client (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-10048",
+				"import_time": "2024-10-24T01:01:02.692473938Z",
+				"modified_time": "2024-10-16T15:00:55Z",
+				"sha256": "028c75042e982388e29893eb0c54b7ccf9310969321ac2bec0085c89fca3e958",
+				"source": "reversing-labs"
 			}
 		]
 	}

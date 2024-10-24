@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6755",
-	"modified": "2024-06-25T13:49:34Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:34Z",
 	"summary": "Malicious code in batch-actions (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10080",
+				"import_time": "2024-10-24T01:01:05.191154617Z",
+				"modified_time": "2024-10-16T15:01:24Z",
+				"sha256": "f0b82c619a7924d4797969e48f2cc4b066191a9cfbded2e748fb203776b0123c",
+				"source": "reversing-labs"
 			}
 		]
 	}

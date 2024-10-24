@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6602",
-	"modified": "2024-06-25T13:48:12Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:12Z",
 	"summary": "Malicious code in android-lint_translate_checkstyle_format (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09927",
+				"import_time": "2024-10-24T01:00:53.878460665Z",
+				"modified_time": "2024-10-16T14:59:18Z",
+				"sha256": "4a20951001be592fc514c1f3d001a9223961536916d3ad2a4f018291e1a55bf4",
+				"source": "reversing-labs"
 			}
 		]
 	}

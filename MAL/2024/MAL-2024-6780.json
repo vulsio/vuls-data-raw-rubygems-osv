@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6780",
-	"modified": "2024-06-25T13:49:47Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:47Z",
 	"summary": "Malicious code in binary-search_tree (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"2.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10105",
+				"import_time": "2024-10-24T01:01:06.877814422Z",
+				"modified_time": "2024-10-16T15:01:42Z",
+				"sha256": "9c19b5a74267c02a786e0ecd034149da69c12b29444948be16674ef1b2d8dd0f",
+				"source": "reversing-labs"
 			}
 		]
 	}

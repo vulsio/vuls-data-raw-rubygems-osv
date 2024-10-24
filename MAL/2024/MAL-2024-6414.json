@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6414",
-	"modified": "2024-06-25T13:46:19Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:19Z",
 	"summary": "Malicious code in active-model_serializers-matchers (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09740",
+				"import_time": "2024-10-24T01:00:40.076420121Z",
+				"modified_time": "2024-10-16T14:56:50Z",
+				"sha256": "eab3e0fd74dc4a215da8f7ef1189159fc68f2aafd0af0a3814dd18b7e3d853f5",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6371",
-	"modified": "2024-06-25T13:45:51Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:51Z",
 	"summary": "Malicious code in act-as_importable (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.11"
 				]
+			},
+			{
+				"id": "RLUA-2024-09697",
+				"import_time": "2024-10-24T01:00:36.826307862Z",
+				"modified_time": "2024-10-16T14:56:18Z",
+				"sha256": "07432d52b06f9b04ce8f51ee1508689828db31a8d0fb6a9a32b980ac63259439",
+				"source": "reversing-labs"
 			}
 		]
 	}

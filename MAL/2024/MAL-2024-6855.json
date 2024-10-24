@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6855",
-	"modified": "2024-06-25T13:50:30Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:30Z",
 	"summary": "Malicious code in dark-sky_weather (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10180",
+				"import_time": "2024-10-24T01:01:12.36484321Z",
+				"modified_time": "2024-10-16T15:02:41Z",
+				"sha256": "95e8edf211e6d339b14abe630c6a46a86c549930b3afe5f7d0c7bd4321f4826e",
+				"source": "reversing-labs"
 			}
 		]
 	}

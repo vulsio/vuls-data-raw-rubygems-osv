@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6890",
-	"modified": "2024-06-25T13:50:51Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:51Z",
 	"summary": "Malicious code in endosome (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"22.55.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10215",
+				"import_time": "2024-10-24T01:01:14.873861686Z",
+				"modified_time": "2024-10-16T15:03:08Z",
+				"sha256": "53f0536e7b5e90c66baa6b1afc4f52b0673914cb5bb10c1e78847db9f03a3208",
+				"source": "reversing-labs"
 			}
 		]
 	}

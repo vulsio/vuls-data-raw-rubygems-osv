@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7034",
-	"modified": "2024-06-25T13:52:17Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:52:17Z",
 	"summary": "Malicious code in telegram-bot_middleware (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.3.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10360",
+				"import_time": "2024-10-24T01:01:24.914933532Z",
+				"modified_time": "2024-10-16T15:04:57Z",
+				"sha256": "e5f1dba35082ea3c89b63e465d3812f87b14d2f9060acb511331b6a4a45bb0b1",
+				"source": "reversing-labs"
 			}
 		]
 	}

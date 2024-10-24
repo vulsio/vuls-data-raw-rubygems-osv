@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6932",
-	"modified": "2024-06-25T13:51:14Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:14Z",
 	"summary": "Malicious code in gimme-vins (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-10257",
+				"import_time": "2024-10-24T01:01:17.837532869Z",
+				"modified_time": "2024-10-16T15:03:39Z",
+				"sha256": "fa0861227a00922a02ccc15cf0b4405329a14f4e9e2d67fb45b78443a524e7bc",
+				"source": "reversing-labs"
 			}
 		]
 	}

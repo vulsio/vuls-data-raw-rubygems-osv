@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6804",
-	"modified": "2024-06-25T13:50:00Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:00Z",
 	"summary": "Malicious code in cap_drupal-multisite (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.3.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10129",
+				"import_time": "2024-10-24T01:01:08.699401902Z",
+				"modified_time": "2024-10-16T15:02:00Z",
+				"sha256": "d1260596e1418c97db6cf3aa4faf185bd51a52140ef57faa2059523c1737ab9b",
+				"source": "reversing-labs"
 			}
 		]
 	}

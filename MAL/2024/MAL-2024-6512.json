@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6512",
-	"modified": "2024-06-25T13:47:19Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:19Z",
 	"summary": "Malicious code in addy-caddy_client (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09837",
+				"import_time": "2024-10-24T01:00:47.217739416Z",
+				"modified_time": "2024-10-16T14:58:09Z",
+				"sha256": "addece39690cce1da4a3761845ddc62fa730a7d69e04707e41230f81978cbced",
+				"source": "reversing-labs"
 			}
 		]
 	}

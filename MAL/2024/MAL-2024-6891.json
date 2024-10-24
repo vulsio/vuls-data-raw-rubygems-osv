@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6891",
-	"modified": "2024-06-25T13:50:51Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:51Z",
 	"summary": "Malicious code in enpit-weather (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10216",
+				"import_time": "2024-10-24T01:01:14.944640818Z",
+				"modified_time": "2024-10-16T15:03:09Z",
+				"sha256": "880fb933bcd3a29d3e3f7e3711c437bab3d2b3a5519cc405f8eff991c751db19",
+				"source": "reversing-labs"
 			}
 		]
 	}

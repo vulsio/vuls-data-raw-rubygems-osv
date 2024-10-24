@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6401",
-	"modified": "2024-06-25T13:46:11Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:11Z",
 	"summary": "Malicious code in active-merchant-mollie (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09727",
+				"import_time": "2024-10-24T01:00:39.07712847Z",
+				"modified_time": "2024-10-16T14:56:39Z",
+				"sha256": "043cd6cd793ac87b4938b8a28444509aef9b7643906d0e80224c89413010a9fa",
+				"source": "reversing-labs"
 			}
 		]
 	}

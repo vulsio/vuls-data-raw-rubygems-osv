@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6995",
-	"modified": "2024-06-25T13:51:54Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:54Z",
 	"summary": "Malicious code in murmuring-spider (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10322",
+				"import_time": "2024-10-24T01:01:22.172949641Z",
+				"modified_time": "2024-10-16T15:04:27Z",
+				"sha256": "85076e78b19b556389bd1b23349c7b9920170c5e4532284f4438bcce09770203",
+				"source": "reversing-labs"
 			}
 		]
 	}

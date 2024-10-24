@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6679",
-	"modified": "2024-06-25T13:48:55Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:55Z",
 	"summary": "Malicious code in arel-search (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-10004",
+				"import_time": "2024-10-24T01:00:59.465916926Z",
+				"modified_time": "2024-10-16T15:00:21Z",
+				"sha256": "ecd05548d6fb120f9a544918504e66e820e9b1e4a98603fc07191cacf3c07ce4",
+				"source": "reversing-labs"
 			}
 		]
 	}

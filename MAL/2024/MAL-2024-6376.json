@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6376",
-	"modified": "2024-06-25T13:45:54Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:54Z",
 	"summary": "Malicious code in action-cable_subscription_adapter (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.2.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-09702",
+				"import_time": "2024-10-24T01:00:37.178664698Z",
+				"modified_time": "2024-10-16T14:56:21Z",
+				"sha256": "5be7900dbf648d17b1b109026d3c50e7d14117af92224cfaa2c8ac237f443f74",
+				"source": "reversing-labs"
 			}
 		]
 	}

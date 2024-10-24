@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6535",
-	"modified": "2024-06-25T13:47:32Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:32Z",
 	"summary": "Malicious code in airbrake-user_attributes (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.6"
 				]
+			},
+			{
+				"id": "RLUA-2024-09860",
+				"import_time": "2024-10-24T01:00:48.818894448Z",
+				"modified_time": "2024-10-16T14:58:25Z",
+				"sha256": "b0457ae18d25e1c5dec102e694730b7f69e907fcc37e27d818b09a81846c0903",
+				"source": "reversing-labs"
 			}
 		]
 	}

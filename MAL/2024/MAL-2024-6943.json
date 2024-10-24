@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6943",
-	"modified": "2024-06-25T13:51:21Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:21Z",
 	"summary": "Malicious code in hfc (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"2.9.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10268",
+				"import_time": "2024-10-24T01:01:18.646461314Z",
+				"modified_time": "2024-10-16T15:03:48Z",
+				"sha256": "b3a2a73acad3fc787487d2b288db14e7fc9c695e80c1518e9b0a86957c92fda3",
+				"source": "reversing-labs"
 			}
 		]
 	}

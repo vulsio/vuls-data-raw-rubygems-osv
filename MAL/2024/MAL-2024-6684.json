@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6684",
-	"modified": "2024-06-25T13:48:57Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:57Z",
 	"summary": "Malicious code in arproxy-plugin-mysql-casual_log (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10009",
+				"import_time": "2024-10-24T01:00:59.856227694Z",
+				"modified_time": "2024-10-16T15:00:25Z",
+				"sha256": "50c44e84e47bcdfaff3a497f2f1b7c388dd33b30317025c1b665519967ea7d22",
+				"source": "reversing-labs"
 			}
 		]
 	}

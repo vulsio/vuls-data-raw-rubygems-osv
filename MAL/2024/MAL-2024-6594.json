@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6594",
-	"modified": "2024-06-25T13:48:07Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:07Z",
 	"summary": "Malicious code in alphabetical-paginate_uk (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09919",
+				"import_time": "2024-10-24T01:00:53.261259122Z",
+				"modified_time": "2024-10-16T14:59:13Z",
+				"sha256": "42b0a552bf5efff814814de5c5a83578a43f1b2673e49b129554bc9c61c8d8eb",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6339",
-	"modified": "2024-06-25T13:45:30Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:30Z",
 	"summary": "Malicious code in access-policy-rails (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-09665",
+				"import_time": "2024-10-24T01:00:34.307806502Z",
+				"modified_time": "2024-10-16T14:55:49Z",
+				"sha256": "086769a7a34172391f1fdde677587092ff296c7c87eac308cce7667fa33181f8",
+				"source": "reversing-labs"
 			}
 		]
 	}

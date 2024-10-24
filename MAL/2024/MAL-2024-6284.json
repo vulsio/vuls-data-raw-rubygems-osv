@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6284",
-	"modified": "2024-06-25T13:44:51Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:51Z",
 	"summary": "Malicious code in a1426kt-prime_number (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.7"
 				]
+			},
+			{
+				"id": "RLUA-2024-09610",
+				"import_time": "2024-10-24T01:00:30.62763486Z",
+				"modified_time": "2024-10-16T14:55:01Z",
+				"sha256": "7b9514fee25fdaae99ce47ba77d1d34bfaad0b304fb6834aa12ee7809d8b6490",
+				"source": "reversing-labs"
 			}
 		]
 	}

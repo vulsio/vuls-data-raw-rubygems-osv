@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6352",
-	"modified": "2024-06-25T13:45:39Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:39Z",
 	"summary": "Malicious code in acme_heisenberg (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09678",
+				"import_time": "2024-10-24T01:00:35.231393087Z",
+				"modified_time": "2024-10-16T14:56:01Z",
+				"sha256": "3e7a4d9fdea068d2a0e57c12119f2293a704a7d95c408d8acb3d1fb66c32ecd6",
+				"source": "reversing-labs"
 			}
 		]
 	}

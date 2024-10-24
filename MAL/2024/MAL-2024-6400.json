@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6400",
-	"modified": "2024-06-25T13:46:11Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:11Z",
 	"summary": "Malicious code in active-link_to (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-09726",
+				"import_time": "2024-10-24T01:00:38.9929555Z",
+				"modified_time": "2024-10-16T14:56:39Z",
+				"sha256": "b52fc741d45fab8abf44ac76c421e5ae7cd2c2dd4dc96a7dfb5d0e23d230e563",
+				"source": "reversing-labs"
 			}
 		]
 	}

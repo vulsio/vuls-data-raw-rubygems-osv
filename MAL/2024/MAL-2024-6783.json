@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6783",
-	"modified": "2024-06-25T13:49:49Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:49Z",
 	"summary": "Malicious code in blacklight-advanced_search (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"7.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10108",
+				"import_time": "2024-10-24T01:01:07.17443668Z",
+				"modified_time": "2024-10-16T15:01:44Z",
+				"sha256": "330b87372c021552e44bf8b910ec59da70bfe3b9176e98590b4f1e874c5a251e",
+				"source": "reversing-labs"
 			}
 		]
 	}

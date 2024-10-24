@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6472",
-	"modified": "2024-06-25T13:46:53Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:53Z",
 	"summary": "Malicious code in activerecord-pluck-in_batches (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.2.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09797",
+				"import_time": "2024-10-24T01:00:44.587407997Z",
+				"modified_time": "2024-10-16T14:57:38Z",
+				"sha256": "b581366df38e4cf0f29a8a36d077c86a7e860c4b8ac400281d41a30cdb35d8ea",
+				"source": "reversing-labs"
 			}
 		]
 	}

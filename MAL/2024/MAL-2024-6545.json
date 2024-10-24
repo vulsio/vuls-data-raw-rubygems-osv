@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6545",
-	"modified": "2024-06-25T13:47:38Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:38Z",
 	"summary": "Malicious code in alchemy-pg-search (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09870",
+				"import_time": "2024-10-24T01:00:49.62175689Z",
+				"modified_time": "2024-10-16T14:58:35Z",
+				"sha256": "9badbe96e79394756739b4cfae0f1448d77223a0150f5ac14538e1262200cd65",
+				"source": "reversing-labs"
 			}
 		]
 	}

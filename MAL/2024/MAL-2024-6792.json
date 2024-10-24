@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6792",
-	"modified": "2024-06-25T13:49:53Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:53Z",
 	"summary": "Malicious code in brakeman-translate_checkstyle_format (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10117",
+				"import_time": "2024-10-24T01:01:07.692402864Z",
+				"modified_time": "2024-10-16T15:01:50Z",
+				"sha256": "1983e9809af4b221fb268f3642453c030be4c2e982a6d2a15b87ac164ecc64b9",
+				"source": "reversing-labs"
 			}
 		]
 	}

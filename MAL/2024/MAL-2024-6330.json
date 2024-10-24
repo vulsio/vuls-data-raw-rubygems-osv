@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6330",
-	"modified": "2024-06-25T13:45:24Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:24Z",
 	"summary": "Malicious code in absa_notify-me (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.7"
 				]
+			},
+			{
+				"id": "RLUA-2024-09656",
+				"import_time": "2024-10-24T01:00:33.820998577Z",
+				"modified_time": "2024-10-16T14:55:41Z",
+				"sha256": "e08135f0eed610a0e6a335c1a3b8e8ebf6c38a81baa452c6a8f8311696b85566",
+				"source": "reversing-labs"
 			}
 		]
 	}

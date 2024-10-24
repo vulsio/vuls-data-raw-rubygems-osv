@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7040",
-	"modified": "2024-06-25T13:44:42Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:42Z",
 	"summary": "Malicious code in Testpranay (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -44,6 +44,13 @@
 					"2.0.2",
 					"2.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09599",
+				"import_time": "2024-10-24T01:00:29.973503437Z",
+				"modified_time": "2024-10-16T14:54:51Z",
+				"sha256": "609c37b67b446e14708fc100a30f990d22d6193e6fce38a848386e58cf3ec64c",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6779",
-	"modified": "2024-06-25T13:49:46Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:46Z",
 	"summary": "Malicious code in binary-search_frequency (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-10104",
+				"import_time": "2024-10-24T01:01:06.816105874Z",
+				"modified_time": "2024-10-16T15:01:41Z",
+				"sha256": "86aa6a314fe0c7ff913290fd7eff5085733918a5ef8aca714627f56301751e4b",
+				"source": "reversing-labs"
 			}
 		]
 	}

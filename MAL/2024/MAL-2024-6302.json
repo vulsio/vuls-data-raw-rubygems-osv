@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6302",
-	"modified": "2024-06-25T13:45:04Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:04Z",
 	"summary": "Malicious code in a1548sy-yamamoto (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09628",
+				"import_time": "2024-10-24T01:00:31.82187085Z",
+				"modified_time": "2024-10-16T14:55:18Z",
+				"sha256": "64c68b623d3da5d1acef44f33357f69769eff29bf98a6448938610d3571b3f22",
+				"source": "reversing-labs"
 			}
 		]
 	}

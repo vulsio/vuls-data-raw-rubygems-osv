@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6369",
-	"modified": "2024-06-25T13:45:50Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:50Z",
 	"summary": "Malicious code in acquia-toolbelt (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"2.4.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09695",
+				"import_time": "2024-10-24T01:00:36.695518786Z",
+				"modified_time": "2024-10-16T14:56:17Z",
+				"sha256": "a080ffb136add7101678e96e0d9f2ae6c9fbe9157dd4ebdf740d1949a39d01e5",
+				"source": "reversing-labs"
 			}
 		]
 	}

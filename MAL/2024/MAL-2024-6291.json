@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6291",
-	"modified": "2024-06-25T13:44:56Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:56Z",
 	"summary": "Malicious code in a14z6ch-elapsed-days (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.5"
 				]
+			},
+			{
+				"id": "RLUA-2024-09617",
+				"import_time": "2024-10-24T01:00:31.064770094Z",
+				"modified_time": "2024-10-16T14:55:07Z",
+				"sha256": "0c580691035aea812459b2f790e2440e0d84b1b601296bb8cd16ef076f8ad301",
+				"source": "reversing-labs"
 			}
 		]
 	}

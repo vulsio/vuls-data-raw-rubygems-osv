@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6633",
-	"modified": "2024-06-25T13:48:29Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:29Z",
 	"summary": "Malicious code in app_cli (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09958",
+				"import_time": "2024-10-24T01:00:55.89628055Z",
+				"modified_time": "2024-10-16T14:59:43Z",
+				"sha256": "e19702a4cb2716add309611c49e2b807a819ea2581436ab2f87da536a1c2ca78",
+				"source": "reversing-labs"
 			}
 		]
 	}

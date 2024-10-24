@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6511",
-	"modified": "2024-06-25T13:47:18Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:18Z",
 	"summary": "Malicious code in address-validator (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09836",
+				"import_time": "2024-10-24T01:00:47.153072876Z",
+				"modified_time": "2024-10-16T14:58:08Z",
+				"sha256": "a3c870e2b4b6869e1e1050ec40481a29220ae3b598f1dc77f45a1c72618eb67c",
+				"source": "reversing-labs"
 			}
 		]
 	}

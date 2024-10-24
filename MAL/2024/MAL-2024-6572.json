@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6572",
-	"modified": "2024-06-25T13:47:54Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:54Z",
 	"summary": "Malicious code in alive-state (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09897",
+				"import_time": "2024-10-24T01:00:51.61463414Z",
+				"modified_time": "2024-10-16T14:58:56Z",
+				"sha256": "d1cb5c23ef065fa9e10e9f1b7c863f5417b9d89fc4f6e70ae07b673fdb6d0bf3",
+				"source": "reversing-labs"
 			}
 		]
 	}

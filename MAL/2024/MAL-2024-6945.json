@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6945",
-	"modified": "2024-06-25T13:51:22Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:22Z",
 	"summary": "Malicious code in http-statsd (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10270",
+				"import_time": "2024-10-24T01:01:18.761488244Z",
+				"modified_time": "2024-10-16T15:03:49Z",
+				"sha256": "1a6f071bf6932f9c8343dea55750f28b2fdfb7640a008f299423f9af1163c05e",
+				"source": "reversing-labs"
 			}
 		]
 	}

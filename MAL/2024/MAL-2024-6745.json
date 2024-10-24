@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6745",
-	"modified": "2024-06-25T13:49:28Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:28Z",
 	"summary": "Malicious code in backstop_deploys (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.6"
 				]
+			},
+			{
+				"id": "RLUA-2024-10070",
+				"import_time": "2024-10-24T01:01:04.40304261Z",
+				"modified_time": "2024-10-16T15:01:15Z",
+				"sha256": "ea070b645b6a00040148763b6ba9e16176329e6a1f1bb5c6f1607310a3f732fb",
+				"source": "reversing-labs"
 			}
 		]
 	}

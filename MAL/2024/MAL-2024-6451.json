@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6451",
-	"modified": "2024-06-25T13:46:41Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:41Z",
 	"summary": "Malicious code in activeadmin-jfu_upload (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.8"
 				]
+			},
+			{
+				"id": "RLUA-2024-09777",
+				"import_time": "2024-10-24T01:00:42.987744738Z",
+				"modified_time": "2024-10-16T14:57:20Z",
+				"sha256": "e4af4bdcaf926ffaa1b7129d15690249d3ef039670c5961a634437c157724038",
+				"source": "reversing-labs"
 			}
 		]
 	}

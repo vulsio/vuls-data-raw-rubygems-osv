@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6448",
-	"modified": "2024-06-25T13:46:38Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:38Z",
 	"summary": "Malicious code in active_model-email-validator (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-09774",
+				"import_time": "2024-10-24T01:00:42.791938419Z",
+				"modified_time": "2024-10-16T14:57:17Z",
+				"sha256": "aab5fc6c588d724d1519797396df22df27deb34aa94a1598abbda1231450d429",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6660",
-	"modified": "2024-06-25T13:48:44Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:44Z",
 	"summary": "Malicious code in aptible_cli (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.16.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-09985",
+				"import_time": "2024-10-24T01:00:57.994845664Z",
+				"modified_time": "2024-10-16T15:00:06Z",
+				"sha256": "26461c06c192cccd01f687534f398b6e991f1e81cab095f8b9c0edc019cadccf",
+				"source": "reversing-labs"
 			}
 		]
 	}

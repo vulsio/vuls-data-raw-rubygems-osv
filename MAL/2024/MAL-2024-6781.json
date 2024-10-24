@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6781",
-	"modified": "2024-06-25T13:49:48Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:48Z",
 	"summary": "Malicious code in bisearch-enzim_hu (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-10106",
+				"import_time": "2024-10-24T01:01:07.056107321Z",
+				"modified_time": "2024-10-16T15:01:42Z",
+				"sha256": "f173c35ea4c1c654f7eedea7e0992223fc5824e776c49e33a146033112c486d4",
+				"source": "reversing-labs"
 			}
 		]
 	}

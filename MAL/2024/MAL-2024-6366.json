@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6366",
-	"modified": "2024-06-25T13:45:48Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:48Z",
 	"summary": "Malicious code in acpc-poker_match_state (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"2.2.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09692",
+				"import_time": "2024-10-24T01:00:36.423575452Z",
+				"modified_time": "2024-10-16T14:56:13Z",
+				"sha256": "43d08a727f8bee1758cf07d8ec57da44c7735952780124095a9f361e14389dfb",
+				"source": "reversing-labs"
 			}
 		]
 	}

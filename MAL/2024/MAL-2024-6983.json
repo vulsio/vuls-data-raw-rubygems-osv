@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6983",
-	"modified": "2024-06-25T13:51:45Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:45Z",
 	"summary": "Malicious code in logstash_codec-avro (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"2.0.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-10309",
+				"import_time": "2024-10-24T01:01:21.468078637Z",
+				"modified_time": "2024-10-16T15:04:17Z",
+				"sha256": "4af58fb3d71ec7a33011bfc9669492c770c41945236ec2e4695987a9750ac436",
+				"source": "reversing-labs"
 			}
 		]
 	}

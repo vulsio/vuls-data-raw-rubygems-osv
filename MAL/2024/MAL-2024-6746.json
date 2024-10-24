@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6746",
-	"modified": "2024-06-25T13:49:29Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:29Z",
 	"summary": "Malicious code in bankgiro-inbetalningar (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10071",
+				"import_time": "2024-10-24T01:01:04.647796723Z",
+				"modified_time": "2024-10-16T15:01:16Z",
+				"sha256": "84a1e25656f53e0be1bf1d958d352367a9947475007f2b5b0c0f6e84e497f963",
+				"source": "reversing-labs"
 			}
 		]
 	}

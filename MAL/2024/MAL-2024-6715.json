@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6715",
-	"modified": "2024-06-25T13:49:13Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:13Z",
 	"summary": "Malicious code in atlas-client (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10040",
+				"import_time": "2024-10-24T01:01:01.99461248Z",
+				"modified_time": "2024-10-16T15:00:49Z",
+				"sha256": "4e404af1c12959a18dcd5cb5fd3cc7730e0861be01535acaacef1155e18c0267",
+				"source": "reversing-labs"
 			}
 		]
 	}

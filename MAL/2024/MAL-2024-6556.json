@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6556",
-	"modified": "2024-06-25T13:47:45Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:45Z",
 	"summary": "Malicious code in alexa-plugin_generator (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09881",
+				"import_time": "2024-10-24T01:00:50.4363524Z",
+				"modified_time": "2024-10-16T14:58:43Z",
+				"sha256": "9e0744ae66ec83774cdde7e69664b26c1526da7a8b4bb7afb3a6e8ef1cf31e0e",
+				"source": "reversing-labs"
 			}
 		]
 	}

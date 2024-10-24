@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6699",
-	"modified": "2024-06-25T13:49:05Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:05Z",
 	"summary": "Malicious code in asset-host_client (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.2.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10024",
+				"import_time": "2024-10-24T01:01:00.853570679Z",
+				"modified_time": "2024-10-16T15:00:36Z",
+				"sha256": "52e93bfe656339d622f622256f430b9f4129cbf12d4e01014f73d13c3bba1666",
+				"source": "reversing-labs"
 			}
 		]
 	}

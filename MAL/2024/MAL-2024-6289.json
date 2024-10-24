@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6289",
-	"modified": "2024-06-25T13:44:54Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:54Z",
 	"summary": "Malicious code in a1447ll-mini_test (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09615",
+				"import_time": "2024-10-24T01:00:30.946271638Z",
+				"modified_time": "2024-10-16T14:55:06Z",
+				"sha256": "a36e3a579fcdc40e9509e0c92ec11fede22475c4f83976101fdcca4f73ffb208",
+				"source": "reversing-labs"
 			}
 		]
 	}

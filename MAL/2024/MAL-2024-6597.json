@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6597",
-	"modified": "2024-06-25T13:48:09Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:09Z",
 	"summary": "Malicious code in amazon_kinesis-client-ruby (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09922",
+				"import_time": "2024-10-24T01:00:53.544741517Z",
+				"modified_time": "2024-10-16T14:59:15Z",
+				"sha256": "fe9a54c5e061f5d6a54476989dd103c87d165c05ac9a80f189370b6a6c68659a",
+				"source": "reversing-labs"
 			}
 		]
 	}

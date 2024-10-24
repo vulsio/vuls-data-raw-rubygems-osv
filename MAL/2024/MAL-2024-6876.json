@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6876",
-	"modified": "2024-06-25T13:50:41Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:41Z",
 	"summary": "Malicious code in dragonfly_cloudinary-datastore (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10201",
+				"import_time": "2024-10-24T01:01:13.730598639Z",
+				"modified_time": "2024-10-16T15:02:58Z",
+				"sha256": "91895f24e60b2ada6eaaffa9e9d9e4e7a0a41a850447617be47313f462dc8530",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6776",
-	"modified": "2024-06-25T13:49:45Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:45Z",
 	"summary": "Malicious code in beta_pod (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.3.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10101",
+				"import_time": "2024-10-24T01:01:06.622647534Z",
+				"modified_time": "2024-10-16T15:01:38Z",
+				"sha256": "e67f1be39bd6307bfc28ed20d0f64e95f7d988bd4e20b8e2674d2511450b05bc",
+				"source": "reversing-labs"
 			}
 		]
 	}

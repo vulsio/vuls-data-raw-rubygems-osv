@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6272",
-	"modified": "2024-06-25T13:44:40Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:40Z",
 	"summary": "Malicious code in 3scale-time_range (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.3.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09595",
+				"import_time": "2024-10-24T01:00:29.774868129Z",
+				"modified_time": "2024-10-16T14:54:46Z",
+				"sha256": "451864b04e71fda5201d16b90bec2b37550f9316559d5ff0e0ab6f451bf40508",
+				"source": "reversing-labs"
 			}
 		]
 	}

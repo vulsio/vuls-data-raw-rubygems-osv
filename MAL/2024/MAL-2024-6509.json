@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6509",
-	"modified": "2024-06-25T13:47:17Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:17Z",
 	"summary": "Malicious code in addons_client (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.10"
 				]
+			},
+			{
+				"id": "RLUA-2024-09834",
+				"import_time": "2024-10-24T01:00:47.067161937Z",
+				"modified_time": "2024-10-16T14:58:06Z",
+				"sha256": "3cbc1c253e4e7ea2d20c18ce944b4360c8a3497bc4085b1b85db4627ae0f559f",
+				"source": "reversing-labs"
 			}
 		]
 	}

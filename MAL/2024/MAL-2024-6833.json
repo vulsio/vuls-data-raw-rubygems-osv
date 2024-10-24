@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6833",
-	"modified": "2024-06-25T13:50:17Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:17Z",
 	"summary": "Malicious code in cloud-search (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10158",
+				"import_time": "2024-10-24T01:01:10.867114305Z",
+				"modified_time": "2024-10-16T15:02:23Z",
+				"sha256": "460a8db1b9bff73bdbabe33f5bc3e07e810e82607a0ac108492b9ef2ff4dbd41",
+				"source": "reversing-labs"
 			}
 		]
 	}

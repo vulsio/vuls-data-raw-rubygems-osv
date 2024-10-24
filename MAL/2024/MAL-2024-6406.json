@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6406",
-	"modified": "2024-06-25T13:46:14Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:14Z",
 	"summary": "Malicious code in active-model-password_reset (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-09732",
+				"import_time": "2024-10-24T01:00:39.484837307Z",
+				"modified_time": "2024-10-16T14:56:43Z",
+				"sha256": "d47c49d86c267b504eecc7e7076f36403cdf39873f42ac0e08b30618ee6de9ea",
+				"source": "reversing-labs"
 			}
 		]
 	}

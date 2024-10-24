@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6805",
-	"modified": "2024-06-25T13:50:01Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:01Z",
 	"summary": "Malicious code in capistrano-scm-git-with_submodule_and_resolv_symlinks (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.3.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10130",
+				"import_time": "2024-10-24T01:01:08.743888487Z",
+				"modified_time": "2024-10-16T15:02:00Z",
+				"sha256": "e67770a4964bb9126a13175b3e6cb66d9e86571fc8748985f42843e4c1ae553d",
+				"source": "reversing-labs"
 			}
 		]
 	}

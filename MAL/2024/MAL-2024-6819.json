@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6819",
-	"modified": "2024-06-25T13:50:09Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:09Z",
 	"summary": "Malicious code in capistrano_telegram-notification (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10144",
+				"import_time": "2024-10-24T01:01:09.824852198Z",
+				"modified_time": "2024-10-16T15:02:11Z",
+				"sha256": "68f76322996a4fba9c3f13bfccc2fbe5f4f80606dd2b3874b8beeea315744c0b",
+				"source": "reversing-labs"
 			}
 		]
 	}

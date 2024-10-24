@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6867",
-	"modified": "2024-06-25T13:50:37Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:37Z",
 	"summary": "Malicious code in doge-linguist (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10192",
+				"import_time": "2024-10-24T01:01:13.136898126Z",
+				"modified_time": "2024-10-16T15:02:52Z",
+				"sha256": "498df0696c6d4c4852f7c683677536701bd0ac4a39c560f23c6c51708e3cc57a",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6826",
-	"modified": "2024-06-25T13:50:14Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:14Z",
 	"summary": "Malicious code in chef_cloudsearch (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10151",
+				"import_time": "2024-10-24T01:01:10.345898818Z",
+				"modified_time": "2024-10-16T15:02:18Z",
+				"sha256": "e5f6b2b09961ee49f173d000a3787ffd6bcf692142ea11a5d654b5470d507304",
+				"source": "reversing-labs"
 			}
 		]
 	}

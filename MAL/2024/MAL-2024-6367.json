@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6367",
-	"modified": "2024-06-25T13:45:48Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:48Z",
 	"summary": "Malicious code in acpc-poker_player_proxy (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.6.7"
 				]
+			},
+			{
+				"id": "RLUA-2024-09693",
+				"import_time": "2024-10-24T01:00:36.549856116Z",
+				"modified_time": "2024-10-16T14:56:15Z",
+				"sha256": "1398f466057865f387444e2cbcf3f727e4e857eb3a1fc0e6cb46db1ea5c7db99",
+				"source": "reversing-labs"
 			}
 		]
 	}

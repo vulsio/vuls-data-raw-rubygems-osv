@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6774",
-	"modified": "2024-06-25T13:49:44Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:44Z",
 	"summary": "Malicious code in beta-invites (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10099",
+				"import_time": "2024-10-24T01:01:06.478287007Z",
+				"modified_time": "2024-10-16T15:01:37Z",
+				"sha256": "d924f09d27890febd942e9a282f08e80e376e05aaede948fb7126022809b1a31",
+				"source": "reversing-labs"
 			}
 		]
 	}

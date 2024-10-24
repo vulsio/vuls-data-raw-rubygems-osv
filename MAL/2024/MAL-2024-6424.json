@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6424",
-	"modified": "2024-06-25T13:46:24Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:24Z",
 	"summary": "Malicious code in active-press (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09750",
+				"import_time": "2024-10-24T01:00:40.839449913Z",
+				"modified_time": "2024-10-16T14:56:58Z",
+				"sha256": "dde25e3c27a05c166b6d1bd782a7af7f162e0c4e9650b03d63bce0ba48d49af5",
+				"source": "reversing-labs"
 			}
 		]
 	}

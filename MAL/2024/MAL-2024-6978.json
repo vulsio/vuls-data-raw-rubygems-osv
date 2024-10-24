@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6978",
-	"modified": "2024-06-25T13:51:42Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:42Z",
 	"summary": "Malicious code in logs-viewer (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10304",
+				"import_time": "2024-10-24T01:01:21.036651265Z",
+				"modified_time": "2024-10-16T15:04:13Z",
+				"sha256": "bf7f6ad6a23ce11c6e5d765a31efeffd016cc53c92ed0d8d6591481c269de43f",
+				"source": "reversing-labs"
 			}
 		]
 	}

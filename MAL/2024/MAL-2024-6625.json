@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6625",
-	"modified": "2024-06-25T13:48:25Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:25Z",
 	"summary": "Malicious code in apigee-cli (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-09950",
+				"import_time": "2024-10-24T01:00:55.349046357Z",
+				"modified_time": "2024-10-16T14:59:37Z",
+				"sha256": "4a097e76f90e251957a4e986ec3d1445894204218cc12e8592738fffb6c433ce",
+				"source": "reversing-labs"
 			}
 		]
 	}

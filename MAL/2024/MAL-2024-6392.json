@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6392",
-	"modified": "2024-06-25T13:46:05Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:05Z",
 	"summary": "Malicious code in active-admin_globalize3_locale_selector (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09718",
+				"import_time": "2024-10-24T01:00:38.39317387Z",
+				"modified_time": "2024-10-16T14:56:33Z",
+				"sha256": "f980edf0f69fccf58699c1a35b165f9e644a227101d25fc91772954be343be34",
+				"source": "reversing-labs"
 			}
 		]
 	}

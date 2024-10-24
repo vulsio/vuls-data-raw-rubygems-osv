@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6270",
-	"modified": "2024-06-25T13:44:38Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:38Z",
 	"summary": "Malicious code in 3scale-client (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"2.11.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09593",
+				"import_time": "2024-10-24T01:00:29.668808084Z",
+				"modified_time": "2024-10-16T14:54:44Z",
+				"sha256": "2e4e3121e5f43daa25a4287f753106aff0cf87dc541bf0ea1fa418c300b63ac9",
+				"source": "reversing-labs"
 			}
 		]
 	}

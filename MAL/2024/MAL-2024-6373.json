@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6373",
-	"modified": "2024-06-25T13:45:52Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:52Z",
 	"summary": "Malicious code in act-as_serializable (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09699",
+				"import_time": "2024-10-24T01:00:36.968773921Z",
+				"modified_time": "2024-10-16T14:56:19Z",
+				"sha256": "971af8eac3b4fe69b2e01c52bcf4be2a1d7e8e629113bfd951d5e07fc27cebd3",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6881",
-	"modified": "2024-06-25T13:50:45Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:45Z",
 	"summary": "Malicious code in ebay-trading (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10206",
+				"import_time": "2024-10-24T01:01:14.081130822Z",
+				"modified_time": "2024-10-16T15:03:02Z",
+				"sha256": "39d8d0aec14439e5bda6180166e2f160436f8baa5f21b83768b7e2ce9f71ca00",
+				"source": "reversing-labs"
 			}
 		]
 	}

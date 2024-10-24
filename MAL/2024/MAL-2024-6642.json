@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6642",
-	"modified": "2024-06-25T13:48:33Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:33Z",
 	"summary": "Malicious code in applicant-tracking_api (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09967",
+				"import_time": "2024-10-24T01:00:56.641545775Z",
+				"modified_time": "2024-10-16T14:59:51Z",
+				"sha256": "662f70e83aa247949d027dee44f4b6b3362529d9af3e34cec0e4d9b4855a8f7b",
+				"source": "reversing-labs"
 			}
 		]
 	}

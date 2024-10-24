@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6483",
-	"modified": "2024-06-25T13:47:01Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:01Z",
 	"summary": "Malicious code in activerecord_jdbcsplice-adapter (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-09808",
+				"import_time": "2024-10-24T01:00:45.317433574Z",
+				"modified_time": "2024-10-16T14:57:48Z",
+				"sha256": "80ff8ad62268cf3405588262ef60641e8c4125134ae95026e6f7e22c5484d8e5",
+				"source": "reversing-labs"
 			}
 		]
 	}

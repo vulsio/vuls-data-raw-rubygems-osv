@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6444",
-	"modified": "2024-06-25T13:46:36Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:36Z",
 	"summary": "Malicious code in active-support_alias_class_method (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09770",
+				"import_time": "2024-10-24T01:00:42.478034747Z",
+				"modified_time": "2024-10-16T14:57:14Z",
+				"sha256": "0931497257a871fd2a7c8ae2a640d93666d65e6babf2c07e6d135e34ee12b57b",
+				"source": "reversing-labs"
 			}
 		]
 	}

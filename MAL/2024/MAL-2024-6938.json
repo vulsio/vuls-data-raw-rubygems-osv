@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6938",
-	"modified": "2024-06-25T13:51:18Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:18Z",
 	"summary": "Malicious code in hack-cards (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-10263",
+				"import_time": "2024-10-24T01:01:18.323820363Z",
+				"modified_time": "2024-10-16T15:03:44Z",
+				"sha256": "b43979caef418691752805bd69373a108f8410c0715b2937a993da9b88e55a3a",
+				"source": "reversing-labs"
 			}
 		]
 	}

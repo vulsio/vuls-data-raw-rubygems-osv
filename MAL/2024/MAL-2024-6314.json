@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6314",
-	"modified": "2024-06-25T13:45:13Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:13Z",
 	"summary": "Malicious code in aasm-active-fedora (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-09640",
+				"import_time": "2024-10-24T01:00:32.686456834Z",
+				"modified_time": "2024-10-16T14:55:29Z",
+				"sha256": "240ee9cdd28dd0358bd8ed4d96829553ffcb148f2dcea714fea47ce4944db409",
+				"source": "reversing-labs"
 			}
 		]
 	}

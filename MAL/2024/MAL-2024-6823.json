@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6823",
-	"modified": "2024-06-25T13:50:11Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:11Z",
 	"summary": "Malicious code in ceedling_autorake (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10148",
+				"import_time": "2024-10-24T01:01:10.117184891Z",
+				"modified_time": "2024-10-16T15:02:15Z",
+				"sha256": "9d328e46408c515e3a726076235852bb9370b5e25b8c57ed014ab249bf2d232f",
+				"source": "reversing-labs"
 			}
 		]
 	}

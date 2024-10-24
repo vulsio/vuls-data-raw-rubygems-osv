@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6765",
-	"modified": "2024-06-25T13:49:39Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:39Z",
 	"summary": "Malicious code in battery-growl (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10090",
+				"import_time": "2024-10-24T01:01:05.948926533Z",
+				"modified_time": "2024-10-16T15:01:31Z",
+				"sha256": "5cd3347cd6bc7e2db7b2a8bc91c0a890e01ff59645898cabed78420290580bc5",
+				"source": "reversing-labs"
 			}
 		]
 	}

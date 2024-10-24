@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6689",
-	"modified": "2024-06-25T13:49:00Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:00Z",
 	"summary": "Malicious code in asana_cli (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10014",
+				"import_time": "2024-10-24T01:01:00.135994789Z",
+				"modified_time": "2024-10-16T15:00:29Z",
+				"sha256": "9ce999b9e668f4797c0cc4dd48249c50007f19ed207a675ebb754cf53a30f249",
+				"source": "reversing-labs"
 			}
 		]
 	}

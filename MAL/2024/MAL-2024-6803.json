@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6803",
-	"modified": "2024-06-25T13:50:00Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:00Z",
 	"summary": "Malicious code in candy_-sql (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10128",
+				"import_time": "2024-10-24T01:01:08.593000433Z",
+				"modified_time": "2024-10-16T15:01:59Z",
+				"sha256": "81a5185cde09ce6d7d43591f3e90d8b081a153a0acc98860530c5079dfd2c142",
+				"source": "reversing-labs"
 			}
 		]
 	}

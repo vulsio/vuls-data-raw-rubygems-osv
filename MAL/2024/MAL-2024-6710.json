@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6710",
-	"modified": "2024-06-25T13:49:10Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:10Z",
 	"summary": "Malicious code in asterisk_ari-client (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.8"
 				]
+			},
+			{
+				"id": "RLUA-2024-10035",
+				"import_time": "2024-10-24T01:01:01.688579575Z",
+				"modified_time": "2024-10-16T15:00:44Z",
+				"sha256": "5a4b4507000590c018df3cadd8ef8ca49ac7d39afc6f6756055679d2b0bedf4d",
+				"source": "reversing-labs"
 			}
 		]
 	}

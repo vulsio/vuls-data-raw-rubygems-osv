@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6873",
-	"modified": "2024-06-25T13:50:40Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:50:40Z",
 	"summary": "Malicious code in dradis_ntospider (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"3.15.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10198",
+				"import_time": "2024-10-24T01:01:13.547002278Z",
+				"modified_time": "2024-10-16T15:02:56Z",
+				"sha256": "6a9e9794ede7c10770575e7b33c43016b520f1c1c9528599f1d7a3f1b591c8ed",
+				"source": "reversing-labs"
 			}
 		]
 	}

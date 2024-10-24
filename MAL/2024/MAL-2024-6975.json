@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6975",
-	"modified": "2024-06-25T13:51:40Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:40Z",
 	"summary": "Malicious code in log4r_logstash (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10301",
+				"import_time": "2024-10-24T01:01:20.78510079Z",
+				"modified_time": "2024-10-16T15:04:11Z",
+				"sha256": "6d119847532c9cfe7aa92ca78002d374c1022ae8ba5ac6377776a4ee261cb148",
+				"source": "reversing-labs"
 			}
 		]
 	}

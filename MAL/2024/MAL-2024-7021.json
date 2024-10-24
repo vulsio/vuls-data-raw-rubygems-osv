@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7021",
-	"modified": "2024-06-25T13:52:10Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:52:10Z",
 	"summary": "Malicious code in seeing-is_believing (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"3.6.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10347",
+				"import_time": "2024-10-24T01:01:23.86869339Z",
+				"modified_time": "2024-10-16T15:04:46Z",
+				"sha256": "fd836cfffce1f24a85fcb3a2d0a6cfd3be37f1d8d201c2aac0f288bc0acba2bd",
+				"source": "reversing-labs"
 			}
 		]
 	}

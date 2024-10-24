@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6520",
-	"modified": "2024-06-25T13:47:24Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:24Z",
 	"summary": "Malicious code in adn_cli (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.6"
 				]
+			},
+			{
+				"id": "RLUA-2024-09845",
+				"import_time": "2024-10-24T01:00:47.870819627Z",
+				"modified_time": "2024-10-16T14:58:15Z",
+				"sha256": "fa79491aa8fa2695af6c1cdbf466b7b80bb41e86c7fbf03908c9bb87e94ab76e",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6477",
-	"modified": "2024-06-25T13:46:57Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:57Z",
 	"summary": "Malicious code in activerecord-suppress-range_error (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09802",
+				"import_time": "2024-10-24T01:00:44.937275966Z",
+				"modified_time": "2024-10-16T14:57:43Z",
+				"sha256": "40d470a3235c8c951cc9aa8aace1a47e5a7e5ce8656195cf80d7c8a2650c8456",
+				"source": "reversing-labs"
 			}
 		]
 	}

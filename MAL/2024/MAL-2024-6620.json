@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6620",
-	"modified": "2024-06-25T13:48:22Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:22Z",
 	"summary": "Malicious code in api-client_builder (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09945",
+				"import_time": "2024-10-24T01:00:55.073472351Z",
+				"modified_time": "2024-10-16T14:59:33Z",
+				"sha256": "4bb8fa56c83de9cf7ddcca9d542a0357e806259511f1646f4ee6f01cd926fc8c",
+				"source": "reversing-labs"
 			}
 		]
 	}

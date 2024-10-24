@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6789",
-	"modified": "2024-06-25T13:49:52Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:52Z",
 	"summary": "Malicious code in bosh-lastpass_plugin (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-10114",
+				"import_time": "2024-10-24T01:01:07.53092023Z",
+				"modified_time": "2024-10-16T15:01:48Z",
+				"sha256": "f62d8c9483a2e71da38b8d4fa7d2e872592654272183da736bff38058f37bef5",
+				"source": "reversing-labs"
 			}
 		]
 	}

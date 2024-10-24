@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7018",
-	"modified": "2024-06-25T13:52:08Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:52:08Z",
 	"summary": "Malicious code in ruby-playing_cards (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-10344",
+				"import_time": "2024-10-24T01:01:23.635457278Z",
+				"modified_time": "2024-10-16T15:04:44Z",
+				"sha256": "6293a4bc05f2d4593012d0cf841d64692e896c7d99617f5c16175b9f48f665ca",
+				"source": "reversing-labs"
 			}
 		]
 	}

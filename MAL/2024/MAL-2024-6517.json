@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6517",
-	"modified": "2024-06-25T13:47:22Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:22Z",
 	"summary": "Malicious code in administrate_field-password (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-09842",
+				"import_time": "2024-10-24T01:00:47.671642097Z",
+				"modified_time": "2024-10-16T14:58:13Z",
+				"sha256": "c9657f7ea39df2d4b4e1bac4a56178775ce1abb102c736580e0ecd9b5929bab9",
+				"source": "reversing-labs"
 			}
 		]
 	}

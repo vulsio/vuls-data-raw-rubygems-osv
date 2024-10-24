@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6409",
-	"modified": "2024-06-25T13:46:16Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:16Z",
 	"summary": "Malicious code in active-model_policy (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09735",
+				"import_time": "2024-10-24T01:00:39.64655597Z",
+				"modified_time": "2024-10-16T14:56:46Z",
+				"sha256": "0856a59556f811937087a1f92884ec18a99d99a5bd9b32f686bd0fd756c111fd",
+				"source": "reversing-labs"
 			}
 		]
 	}

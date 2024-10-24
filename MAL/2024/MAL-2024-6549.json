@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6549",
-	"modified": "2024-06-25T13:47:40Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:40Z",
 	"summary": "Malicious code in alephant_publisher-request (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.3.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09874",
+				"import_time": "2024-10-24T01:00:49.839411094Z",
+				"modified_time": "2024-10-16T14:58:38Z",
+				"sha256": "95809b8b52172a1623a7f4c05882d131db2323e96492e47232f3f7557b8a7f7f",
+				"source": "reversing-labs"
 			}
 		]
 	}

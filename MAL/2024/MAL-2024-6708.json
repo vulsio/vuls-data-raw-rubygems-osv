@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6708",
-	"modified": "2024-06-25T13:49:09Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:09Z",
 	"summary": "Malicious code in assets_publisher-for-hanami (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"2.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10033",
+				"import_time": "2024-10-24T01:01:01.470504871Z",
+				"modified_time": "2024-10-16T15:00:42Z",
+				"sha256": "4406d7c0f8f6a6b52ed71282533fb8ea5025ebd5d10813244a158debb9c010da",
+				"source": "reversing-labs"
 			}
 		]
 	}

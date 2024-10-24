@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6471",
-	"modified": "2024-06-25T13:46:53Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:53Z",
 	"summary": "Malicious code in activerecord-msgpack-serializer (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09796",
+				"import_time": "2024-10-24T01:00:44.524300599Z",
+				"modified_time": "2024-10-16T14:57:38Z",
+				"sha256": "476bbe1cb8e40c670bb39ad48af15cb562232b37d5582b0cc599930602d236bb",
+				"source": "reversing-labs"
 			}
 		]
 	}

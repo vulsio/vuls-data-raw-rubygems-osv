@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6280",
-	"modified": "2024-06-25T13:44:48Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:44:48Z",
 	"summary": "Malicious code in a1409yo-health (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-09606",
+				"import_time": "2024-10-24T01:00:30.375884333Z",
+				"modified_time": "2024-10-16T14:54:58Z",
+				"sha256": "2ec068399f669232a7bf1e46d7546c45b7ebd3b669dc1b28643fe4fd73eb70bb",
+				"source": "reversing-labs"
 			}
 		]
 	}

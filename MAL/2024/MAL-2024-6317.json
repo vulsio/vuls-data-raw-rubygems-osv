@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6317",
-	"modified": "2024-06-25T13:45:15Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:15Z",
 	"summary": "Malicious code in aastra-xml-api (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.1.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-09643",
+				"import_time": "2024-10-24T01:00:32.898705051Z",
+				"modified_time": "2024-10-16T14:55:31Z",
+				"sha256": "0c151fc9081dd39a15a191245eac202991d4e657788c25f794a3a97068207aad",
+				"source": "reversing-labs"
 			}
 		]
 	}

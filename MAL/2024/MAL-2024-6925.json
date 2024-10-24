@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6925",
-	"modified": "2024-06-25T13:51:10Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:10Z",
 	"summary": "Malicious code in fossa-curl-test (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"0.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-10250",
+				"import_time": "2024-10-24T01:01:17.312687793Z",
+				"modified_time": "2024-10-16T15:03:33Z",
+				"sha256": "4efc806b36320884b63a575101af3bdaff0755c20de8e16aeb9b95f57933e8b0",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6680",
-	"modified": "2024-06-25T13:48:55Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:55Z",
 	"summary": "Malicious code in arethusa-plugin_generator (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10005",
+				"import_time": "2024-10-24T01:00:59.532388256Z",
+				"modified_time": "2024-10-16T15:00:21Z",
+				"sha256": "c2aab5c10467db51d5ff7ee3f4a629871089507b551bd0fc3ab95acfc06bf660",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7016",
-	"modified": "2024-06-25T13:52:05Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:52:05Z",
 	"summary": "Malicious code in rspec-candy (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.5.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10342",
+				"import_time": "2024-10-24T01:01:23.485560692Z",
+				"modified_time": "2024-10-16T15:04:42Z",
+				"sha256": "a7ff7dacff74cede6ed1215c605316f2a40081f8db616012751a8e5720808b40",
+				"source": "reversing-labs"
 			}
 		]
 	}

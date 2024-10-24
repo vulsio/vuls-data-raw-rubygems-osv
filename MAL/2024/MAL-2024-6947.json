@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6947",
-	"modified": "2024-06-25T13:51:24Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:24Z",
 	"summary": "Malicious code in irs_data (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -52,6 +52,13 @@
 					"9.9.999991",
 					"9.9.99"
 				]
+			},
+			{
+				"id": "RLUA-2024-10272",
+				"import_time": "2024-10-24T01:01:18.905091699Z",
+				"modified_time": "2024-10-16T15:03:51Z",
+				"sha256": "37eccfbf7ebc7cfa61c28d7b89ff69cc48a1ac6afffa4920a25d552141a71354",
+				"source": "reversing-labs"
 			}
 		]
 	}

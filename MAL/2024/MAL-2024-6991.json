@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6991",
-	"modified": "2024-06-25T13:51:51Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:51Z",
 	"summary": "Malicious code in moving-images (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10318",
+				"import_time": "2024-10-24T01:01:21.976878136Z",
+				"modified_time": "2024-10-16T15:04:24Z",
+				"sha256": "20b84b20865d2810d574cc962ac736c627186b2edeabfa8eeb43a9b86b7521d9",
+				"source": "reversing-labs"
 			}
 		]
 	}

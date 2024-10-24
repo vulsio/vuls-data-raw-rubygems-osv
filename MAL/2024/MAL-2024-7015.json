@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-7015",
-	"modified": "2024-06-25T13:52:05Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:52:05Z",
 	"summary": "Malicious code in royal-mail_scraper (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10341",
+				"import_time": "2024-10-24T01:01:23.438115509Z",
+				"modified_time": "2024-10-16T15:04:42Z",
+				"sha256": "07a31c8a786f65e267f8384c4ebe01eb681a589e33bffa0417830fd6abde75d8",
+				"source": "reversing-labs"
 			}
 		]
 	}

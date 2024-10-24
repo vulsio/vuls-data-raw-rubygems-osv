@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6922",
-	"modified": "2024-06-25T13:51:08Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:08Z",
 	"summary": "Malicious code in foot-stats (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10247",
+				"import_time": "2024-10-24T01:01:17.111910852Z",
+				"modified_time": "2024-10-16T15:03:31Z",
+				"sha256": "99628555f7b0a4ee6be6f7db45452b3cabaee9831d42eb5386a7e3cd4cdb1afb",
+				"source": "reversing-labs"
 			}
 		]
 	}

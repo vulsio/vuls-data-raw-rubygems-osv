@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6920",
-	"modified": "2024-06-25T13:51:07Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:07Z",
 	"summary": "Malicious code in font_roboto-rails (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-10245",
+				"import_time": "2024-10-24T01:01:16.92375196Z",
+				"modified_time": "2024-10-16T15:03:29Z",
+				"sha256": "280c26772dfe4090a13debc71c0cde14e9c3b04b8b4dc273f5326e27037478cf",
+				"source": "reversing-labs"
 			}
 		]
 	}

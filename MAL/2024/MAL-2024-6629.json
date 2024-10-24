@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6629",
-	"modified": "2024-06-25T13:48:27Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:27Z",
 	"summary": "Malicious code in apn-client (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-09954",
+				"import_time": "2024-10-24T01:00:55.620538709Z",
+				"modified_time": "2024-10-16T14:59:40Z",
+				"sha256": "e22611442c5cea0f92b4cf0ef7073d5ccc84721d3e81e2bccd12387f48e4116d",
+				"source": "reversing-labs"
 			}
 		]
 	}

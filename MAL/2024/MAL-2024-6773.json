@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6773",
-	"modified": "2024-06-25T13:49:43Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:43Z",
 	"summary": "Malicious code in benchmark_plot (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10098",
+				"import_time": "2024-10-24T01:01:06.426222669Z",
+				"modified_time": "2024-10-16T15:01:36Z",
+				"sha256": "93a9db9aab3d553d7d8a0c2387bb5fec6ce3486ce29dc4837a134924b10a5133",
+				"source": "reversing-labs"
 			}
 		]
 	}

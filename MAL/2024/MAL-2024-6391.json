@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6391",
-	"modified": "2024-06-25T13:46:04Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:04Z",
 	"summary": "Malicious code in active-admin_filters_visibility (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09717",
+				"import_time": "2024-10-24T01:00:38.320412177Z",
+				"modified_time": "2024-10-16T14:56:32Z",
+				"sha256": "4d72ba87fd45eff52a936502e0c84b86ad0b70fd01360df898640f69cfbc011a",
+				"source": "reversing-labs"
 			}
 		]
 	}

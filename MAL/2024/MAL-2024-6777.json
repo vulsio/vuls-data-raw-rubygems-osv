@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6777",
-	"modified": "2024-06-25T13:49:45Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:45Z",
 	"summary": "Malicious code in biblesearch_api (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.2.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10102",
+				"import_time": "2024-10-24T01:01:06.69621836Z",
+				"modified_time": "2024-10-16T15:01:39Z",
+				"sha256": "e0ad4b3dd6825152c793742739aaeb8a89fac0d181df182ba6209ea0e46986e3",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6568",
-	"modified": "2024-06-25T13:47:52Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:52Z",
 	"summary": "Malicious code in alipay-dualfun (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-09893",
+				"import_time": "2024-10-24T01:00:51.346803869Z",
+				"modified_time": "2024-10-16T14:58:53Z",
+				"sha256": "93fffbdb7091fc66076a3f89911a1cd9cea4745b9e8d67989dced02d39654656",
+				"source": "reversing-labs"
 			}
 		]
 	}

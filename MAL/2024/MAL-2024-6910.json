@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6910",
-	"modified": "2024-06-25T13:51:01Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:01Z",
 	"summary": "Malicious code in fluent_plugin-statsd-event (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-10235",
+				"import_time": "2024-10-24T01:01:16.187462596Z",
+				"modified_time": "2024-10-16T15:03:22Z",
+				"sha256": "eb2b6e5fa0bad80468160ae7baf09c8e473169d13f1bf09517412eb472d56810",
+				"source": "reversing-labs"
 			}
 		]
 	}

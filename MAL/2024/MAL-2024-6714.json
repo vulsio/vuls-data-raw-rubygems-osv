@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6714",
-	"modified": "2024-06-25T13:49:13Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:13Z",
 	"summary": "Malicious code in atacama-client (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-10039",
+				"import_time": "2024-10-24T01:01:01.929612171Z",
+				"modified_time": "2024-10-16T15:00:48Z",
+				"sha256": "c362ece0a535da1cc9d49b5d66acb8825185a5f6e2538eab53a10c4689b08609",
+				"source": "reversing-labs"
 			}
 		]
 	}

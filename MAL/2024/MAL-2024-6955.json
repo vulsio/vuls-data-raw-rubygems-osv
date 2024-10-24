@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6955",
-	"modified": "2024-06-25T13:51:28Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:28Z",
 	"summary": "Malicious code in lang-cards (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10281",
+				"import_time": "2024-10-24T01:01:19.500876363Z",
+				"modified_time": "2024-10-16T15:03:57Z",
+				"sha256": "e26284899391dee7a2a763bf169a8bb6cbe2b9308a44d8f1b79f5e4f0bf2b464",
+				"source": "reversing-labs"
 			}
 		]
 	}

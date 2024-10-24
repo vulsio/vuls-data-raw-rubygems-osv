@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6502",
-	"modified": "2024-06-25T13:47:13Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:13Z",
 	"summary": "Malicious code in acts-as_read_only_i18n_localised (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-09827",
+				"import_time": "2024-10-24T01:00:46.69375081Z",
+				"modified_time": "2024-10-16T14:58:01Z",
+				"sha256": "11d15d9768876cd28793d3f3f1e0215ecf06da81eba01edf3fcc354c4151fd4b",
+				"source": "reversing-labs"
 			}
 		]
 	}

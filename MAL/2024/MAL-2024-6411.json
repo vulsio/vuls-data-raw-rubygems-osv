@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6411",
-	"modified": "2024-06-25T13:46:17Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:17Z",
 	"summary": "Malicious code in active-model_serializers-cancan (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-09737",
+				"import_time": "2024-10-24T01:00:39.905590047Z",
+				"modified_time": "2024-10-16T14:56:47Z",
+				"sha256": "859f622e4ef6f27c2f06a13efe0c18cf0c9275817c191bdb31b35f3916a046a5",
+				"source": "reversing-labs"
 			}
 		]
 	}

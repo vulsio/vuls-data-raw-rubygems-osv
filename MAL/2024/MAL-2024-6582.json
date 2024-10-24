@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6582",
-	"modified": "2024-06-25T13:48:00Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:00Z",
 	"summary": "Malicious code in aliyun_mts (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09907",
+				"import_time": "2024-10-24T01:00:52.255972258Z",
+				"modified_time": "2024-10-16T14:59:05Z",
+				"sha256": "d12c06c5707dcd4f511de834e0e3f33a148ce51da084cbbf229cb41b6f9196b5",
+				"source": "reversing-labs"
 			}
 		]
 	}

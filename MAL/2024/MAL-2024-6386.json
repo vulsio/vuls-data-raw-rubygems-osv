@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6386",
-	"modified": "2024-06-25T13:46:00Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:00Z",
 	"summary": "Malicious code in actionmailer-localized-preview (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-09712",
+				"import_time": "2024-10-24T01:00:37.987003854Z",
+				"modified_time": "2024-10-16T14:56:29Z",
+				"sha256": "c666b03af613ac8d3d517f1012e3801f10a22a18b279ae3bc1632e159d49b105",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6992",
-	"modified": "2024-06-25T13:51:52Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:51:52Z",
 	"summary": "Malicious code in moving-words (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.3"
 				]
+			},
+			{
+				"id": "RLUA-2024-10319",
+				"import_time": "2024-10-24T01:01:22.017947679Z",
+				"modified_time": "2024-10-16T15:04:25Z",
+				"sha256": "01f7a6de0a2baa067dd88722a08d23454cb5e3528850da9661f274f026d53126",
+				"source": "reversing-labs"
 			}
 		]
 	}

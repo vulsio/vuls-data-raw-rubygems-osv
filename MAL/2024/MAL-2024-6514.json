@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6514",
-	"modified": "2024-06-25T13:47:20Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:47:20Z",
 	"summary": "Malicious code in administrate-field-belongs-to_search (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.7.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-09839",
+				"import_time": "2024-10-24T01:00:47.427812667Z",
+				"modified_time": "2024-10-16T14:58:11Z",
+				"sha256": "f426c6c4018961fa0cb6b3d091357bfc74d62f2539fe0cd994ceb1b3f04dc94f",
+				"source": "reversing-labs"
 			}
 		]
 	}

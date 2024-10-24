@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6797",
-	"modified": "2024-06-25T13:49:56Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:49:56Z",
 	"summary": "Malicious code in bunto-test_plugin_malicious (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"1.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-10122",
+				"import_time": "2024-10-24T01:01:08.06483448Z",
+				"modified_time": "2024-10-16T15:01:54Z",
+				"sha256": "5c160906663c8ed6d34d33a47b2b1db94bc042573a441ddf47d3754e4fd49623",
+				"source": "reversing-labs"
 			}
 		]
 	}

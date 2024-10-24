@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6353",
-	"modified": "2024-06-25T13:45:40Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:45:40Z",
 	"summary": "Malicious code in acme_leeway (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-09679",
+				"import_time": "2024-10-24T01:00:35.269754915Z",
+				"modified_time": "2024-10-16T14:56:01Z",
+				"sha256": "0bd581cbd7c58d70fbc837f2738d43dd198c42891958d426286eccfa9c8ce257",
+				"source": "reversing-labs"
 			}
 		]
 	}

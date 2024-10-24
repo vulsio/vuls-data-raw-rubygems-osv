@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6438",
-	"modified": "2024-06-25T13:46:32Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:46:32Z",
 	"summary": "Malicious code in active-scaffold_batch_vho (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"3.1.7"
 				]
+			},
+			{
+				"id": "RLUA-2024-09764",
+				"import_time": "2024-10-24T01:00:42.081845402Z",
+				"modified_time": "2024-10-16T14:57:10Z",
+				"sha256": "8fdbdd55f9dc1d76276716bf17c1fc6a304b49a8e1b19be53995fc620e4183d3",
+				"source": "reversing-labs"
 			}
 		]
 	}

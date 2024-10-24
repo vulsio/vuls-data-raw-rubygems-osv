@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-6665",
-	"modified": "2024-06-25T13:48:47Z",
+	"modified": "2024-10-24T01:02:00Z",
 	"published": "2024-06-25T13:48:47Z",
 	"summary": "Malicious code in ar-publish_control (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -46,6 +46,13 @@
 				"versions": [
 					"0.0.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-09990",
+				"import_time": "2024-10-24T01:00:58.316205578Z",
+				"modified_time": "2024-10-16T15:00:10Z",
+				"sha256": "c6c9be3e331dafd83cb8b714df94526fa24a4f22deaa1524d8bd6a4202ef64ad",
+				"source": "reversing-labs"
 			}
 		]
 	}
