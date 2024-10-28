@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9mg6-x45v-hcfm",
-	"modified": "2024-06-03T19:15:44.956086Z",
+	"modified": "2024-10-28T12:49:08.561149Z",
 	"published": "2024-06-02T22:32:24Z",
 	"aliases": [
 		"CVE-2024-37031"
@@ -172,7 +172,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-79"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-06-02T22:32:24Z",
 		"nvd_published_at": "2024-06-03T06:15:10Z",
