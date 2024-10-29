@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h6gj-6jjq-h8g9",
-	"modified": "2024-02-16T08:12:04.595054Z",
+	"modified": "2024-10-28T18:33:36.265771Z",
 	"published": "2022-07-18T17:07:36Z",
 	"aliases": [
 		"CVE-2022-31160"
@@ -86,7 +86,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "7.0.0"
+							"last_affected": "7.0.0"
 						}
 					]
 				}
@@ -128,7 +128,8 @@
 				"5.0.4",
 				"5.0.5",
 				"6.0.0",
-				"6.0.1"
+				"6.0.1",
+				"7.0.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/07/GHSA-h6gj-6jjq-h8g9/GHSA-h6gj-6jjq-h8g9.json"
@@ -211,6 +212,10 @@
 		{
 			"type": "WEB",
 			"url": "https://blog.jqueryui.com/2022/07/jquery-ui-1-13-2-released"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jquery-ui-rails/jquery-ui-rails/blob/master/VERSIONS.md"
 		},
 		{
 			"type": "PACKAGE",
