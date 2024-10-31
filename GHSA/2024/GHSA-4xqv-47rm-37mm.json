@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4xqv-47rm-37mm",
-	"modified": "2024-10-14T20:23:11.881082Z",
+	"modified": "2024-10-31T14:01:26.735695Z",
 	"published": "2024-10-02T19:29:35Z",
 	"aliases": [
 		"CVE-2024-47529"
@@ -131,6 +131,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/OpenC3/cosmos"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://securitylab.github.com/advisories/GHSL-2024-127_GHSL-2024-129_OpenC3_COSMOS"
 		}
 	],
 	"database_specific": {
