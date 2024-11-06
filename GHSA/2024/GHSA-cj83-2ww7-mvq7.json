@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cj83-2ww7-mvq7",
-	"modified": "2024-10-08T04:26:55.089303Z",
+	"modified": "2024-11-05T18:23:32.690679Z",
 	"published": "2024-07-03T17:03:45Z",
 	"aliases": [
 		"CVE-2024-26146",
@@ -64,6 +64,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/rack/rack/commit/412c980450ca729ee37f90a2661f166a9665e058"
+		},
+		{
+			"type": "WEB",
+			"url": "https://advisory.dw1.io/61"
 		},
 		{
 			"type": "PACKAGE",
