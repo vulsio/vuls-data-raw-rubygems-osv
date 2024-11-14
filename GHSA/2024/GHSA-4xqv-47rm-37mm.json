@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4xqv-47rm-37mm",
-	"modified": "2024-10-31T14:01:26.735695Z",
+	"modified": "2024-11-13T20:57:18.144693Z",
 	"published": "2024-10-02T19:29:35Z",
 	"aliases": [
-		"CVE-2024-47529"
+		"CVE-2024-47529",
+		"PYSEC-2024-121"
 	],
 	"summary": "OpenC3 stores passwords in clear text (`GHSL-2024-129`)",
 	"details": "### Summary\nOpenC3 COSMOS stores the password of a user unencrypted in the LocalStorage of a web browser. This makes the user password susceptible to exfiltration via Cross-site scripting (see GHSL-2024-128).\n\nNote: This CVE only affects Open Source edition, and not OpenC3 COSMOS Enterprise Edition\n\n### Impact\nThis issue may lead to Information Disclosure.",
