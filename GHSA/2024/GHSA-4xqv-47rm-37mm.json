@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4xqv-47rm-37mm",
-	"modified": "2024-11-13T20:57:18.144693Z",
+	"modified": "2024-11-13T23:33:20.009925Z",
 	"published": "2024-10-02T19:29:35Z",
 	"aliases": [
 		"CVE-2024-47529",
@@ -114,6 +114,53 @@
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/10/GHSA-4xqv-47rm-37mm/GHSA-4xqv-47rm-37mm.json"
 			}
+		},
+		{
+			"package": {
+				"ecosystem": "PyPI",
+				"name": "openc3",
+				"purl": "pkg:pypi/openc3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.19.0"
+						}
+					]
+				}
+			],
+			"versions": [
+				"0.1.0",
+				"5.10.0",
+				"5.10.1",
+				"5.11.0",
+				"5.11.1",
+				"5.11.2",
+				"5.11.3",
+				"5.12.0",
+				"5.13.0",
+				"5.14.0",
+				"5.14.1",
+				"5.14.2",
+				"5.15.0",
+				"5.15.1",
+				"5.15.2",
+				"5.16.0",
+				"5.16.1",
+				"5.16.2",
+				"5.17.0",
+				"5.17.1",
+				"5.18.0",
+				"5.9.2b0"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/10/GHSA-4xqv-47rm-37mm/GHSA-4xqv-47rm-37mm.json"
+			}
 		}
 	],
 	"references": [
@@ -132,6 +179,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/OpenC3/cosmos"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/pypa/advisory-database/tree/main/vulns/openc3/PYSEC-2024-121.yaml"
 		},
 		{
 			"type": "ADVISORY",
