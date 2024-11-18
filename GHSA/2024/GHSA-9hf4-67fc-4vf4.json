@@ -7,6 +7,7 @@
 		"CVE-2024-45614"
 	],
 	"related": [
+		"CGA-2r2f-jcxj-hqjf",
 		"CGA-7qjr-6v4f-v99j"
 	],
 	"summary": "Puma's header normalization allows for client to clobber proxy set headers",
