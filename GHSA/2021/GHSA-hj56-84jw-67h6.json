@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hj56-84jw-67h6",
-	"modified": "2024-08-21T16:50:40.053072Z",
+	"modified": "2024-11-21T05:24:40.410364Z",
 	"published": "2021-06-23T23:42:04Z",
 	"aliases": [
 		"BIT-gitlab-2021-32823",
@@ -138,6 +138,6 @@
 		"github_reviewed": true,
 		"github_reviewed_at": "2021-06-23T23:41:30Z",
 		"nvd_published_at": "2021-06-24T00:15:00Z",
-		"severity": "LOW"
+		"severity": "MODERATE"
 	}
 }
