@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fjfg-q662-gm6j",
-	"modified": "2024-02-16T08:20:59.422520Z",
+	"modified": "2024-11-28T05:40:13.221685Z",
 	"published": "2017-10-24T18:33:38Z",
 	"aliases": [
 		"CVE-2007-5379"

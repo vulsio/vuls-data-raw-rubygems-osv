@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rvpq-5xqx-pfpp",
-	"modified": "2024-02-16T08:20:18.107789Z",
+	"modified": "2024-11-28T05:45:08.147552Z",
 	"published": "2017-10-24T18:33:38Z",
 	"aliases": [
 		"CVE-2006-4111"

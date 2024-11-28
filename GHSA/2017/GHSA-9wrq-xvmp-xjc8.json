@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9wrq-xvmp-xjc8",
-	"modified": "2024-02-16T08:14:02.037632Z",
+	"modified": "2024-11-28T05:34:08.735730Z",
 	"published": "2017-10-24T18:33:38Z",
 	"aliases": [
 		"CVE-2006-4112"
