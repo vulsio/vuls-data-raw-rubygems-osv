@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ffpv-c4hm-3x6v",
-	"modified": "2024-02-16T08:08:16.114002Z",
+	"modified": "2024-11-29T05:50:00.093043Z",
 	"published": "2017-10-24T18:33:35Z",
 	"aliases": [
 		"CVE-2016-0751"

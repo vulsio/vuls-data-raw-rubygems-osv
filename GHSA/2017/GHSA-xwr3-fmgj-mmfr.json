@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xwr3-fmgj-mmfr",
-	"modified": "2024-02-16T08:21:31.816771Z",
+	"modified": "2024-11-29T05:40:24.165288Z",
 	"published": "2017-10-24T18:33:36Z",
 	"aliases": [
 		"CVE-2013-7111"

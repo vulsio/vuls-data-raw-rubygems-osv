@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cvp8-5r8g-fhvq",
-	"modified": "2024-09-19T18:32:58.648245Z",
+	"modified": "2024-11-29T05:40:41.757646Z",
 	"published": "2024-09-11T21:08:26Z",
 	"related": [
 		"CGA-262q-gvxw-gjj6",

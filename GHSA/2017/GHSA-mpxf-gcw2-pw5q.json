@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mpxf-gcw2-pw5q",
-	"modified": "2024-02-16T08:07:20.905569Z",
+	"modified": "2024-11-29T05:41:37.664367Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-6414"

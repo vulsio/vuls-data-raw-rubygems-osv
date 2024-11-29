@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wpw7-wxjm-cw8r",
-	"modified": "2024-02-16T08:08:37.775595Z",
+	"modified": "2024-11-29T05:26:54.390209Z",
 	"published": "2017-10-24T18:33:36Z",
 	"aliases": [
 		"CVE-2013-6417"
