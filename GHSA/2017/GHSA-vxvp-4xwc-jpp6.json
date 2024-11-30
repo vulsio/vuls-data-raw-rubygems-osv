@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vxvp-4xwc-jpp6",
-	"modified": "2024-02-16T08:05:43.910375Z",
+	"modified": "2024-11-30T05:28:41.984741Z",
 	"published": "2017-10-24T18:33:36Z",
 	"aliases": [
 		"CVE-2015-3226"
