@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v543-gqhh-6gww",
-	"modified": "2023-04-11T01:40:56.232794Z",
+	"modified": "2024-12-01T05:39:05.379248Z",
 	"published": "2018-09-17T21:55:43Z",
 	"summary": "Duplicate Advisory: Moderate severity vulnerability that affects activemodel",
 	"details": "## Duplicate advisory\nThis advisory has been withdrawn because it is a duplicate of [GHSA-543v-gj2c-r3ch](https://github.com/advisories/GHSA-543v-gj2c-r3ch). This link is maintained to preserve external references.\n\n## Original Description\nActive Model in Ruby on Rails 4.1.x before 4.1.14.1, 4.2.x before 4.2.5.1, and 5.x before 5.0.0.beta1.1 supports the use of instance-level writers for class accessors, which allows remote attackers to bypass intended validation steps via crafted parameters.",
