@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m8h6-m9p5-p2f8",
-	"modified": "2023-04-11T01:45:56.802227Z",
+	"modified": "2024-12-02T05:54:35.730521Z",
 	"published": "2018-08-13T20:49:01Z",
 	"summary": "Moderate severity vulnerability that affects activerecord",
 	"details": "Withdrawn, accidental duplicate publish.\n\nActive Record in Ruby on Rails 4.2.x before 4.2.7.1 does not properly consider differences in parameter handling between the Active Record component and the JSON implementation, which allows remote attackers to bypass intended database-query restrictions and perform NULL checks or trigger missing WHERE clauses via a crafted request, as demonstrated by certain \"[nil]\" values, a related issue to CVE-2012-2660, CVE-2012-2694, and CVE-2013-0155.",

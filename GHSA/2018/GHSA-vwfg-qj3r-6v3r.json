@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vwfg-qj3r-6v3r",
-	"modified": "2023-04-11T01:36:57.904585Z",
+	"modified": "2024-12-02T05:46:39.593376Z",
 	"published": "2018-09-17T21:57:47Z",
 	"summary": "Moderate severity vulnerability that affects actionpack",
 	"details": "Withdrawn, accidental duplicate publish.\n\nThe http_basic_authenticate_with method in actionpack/lib/action_controller/metal/http_authentication.rb in the Basic Authentication implementation in Action Controller in Ruby on Rails before 3.2.22.1, 4.0.x and 4.1.x before 4.1.14.1, 4.2.x before 4.2.5.1, and 5.x before 5.0.0.beta1.1 does not use a constant-time algorithm for verifying credentials, which makes it easier for remote attackers to bypass authentication by measuring timing differences.",

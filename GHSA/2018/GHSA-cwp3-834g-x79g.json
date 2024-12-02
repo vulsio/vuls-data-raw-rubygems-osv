@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cwp3-834g-x79g",
-	"modified": "2023-04-11T01:32:10.008039Z",
+	"modified": "2024-12-02T05:40:22.666427Z",
 	"published": "2018-08-21T17:07:36Z",
 	"summary": "Moderate severity vulnerability that affects archive-tar-minitar and minitar",
 	"details": "Withdrawn, accidental duplicate publish.\n\nDirectory traversal vulnerability in the minitar before 0.6 and archive-tar-minitar 0.5.2 gems for Ruby allows remote attackers to write to arbitrary files via a .. (dot dot) in a TAR archive entry.",

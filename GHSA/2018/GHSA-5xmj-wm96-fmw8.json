@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5xmj-wm96-fmw8",
-	"modified": "2023-04-11T01:39:11.583530Z",
+	"modified": "2024-12-02T05:37:59.994591Z",
 	"published": "2018-09-17T21:54:37Z",
 	"summary": "Moderate severity vulnerability that affects actionpack",
 	"details": "Withdrawn, accidental duplicate publish.\n\nDirectory traversal vulnerability in actionpack/lib/action_dispatch/middleware/static.rb in Action Pack in Ruby on Rails 3.x before 3.2.21, 4.0.x before 4.0.12, 4.1.x before 4.1.8, and 4.2.x before 4.2.0.beta4, when serve_static_assets is enabled, allows remote attackers to determine the existence of files outside the application root via vectors involving a \\ (backslash) character, a similar issue to CVE-2014-7818.",

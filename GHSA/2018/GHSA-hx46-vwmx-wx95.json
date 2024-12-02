@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hx46-vwmx-wx95",
-	"modified": "2023-04-11T01:27:35.911157Z",
+	"modified": "2024-12-02T05:43:20.729900Z",
 	"published": "2018-08-13T20:48:25Z",
 	"summary": "High severity vulnerability that affects actionpack",
 	"details": "Withdrawn, accidental duplicate publish.\n\nAction Pack in Ruby on Rails before 3.2.22.2, 4.x before 4.1.14.2, and 4.2.x before 4.2.5.2 allows remote attackers to execute arbitrary Ruby code by leveraging an application's unrestricted use of the render method.",

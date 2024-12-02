@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-544j-77x9-h938",
-	"modified": "2023-04-11T01:31:19.541700Z",
+	"modified": "2024-12-02T05:43:05.756881Z",
 	"published": "2018-09-17T21:53:30Z",
 	"summary": "Moderate severity vulnerability that affects actionpack",
 	"details": "Withdrawn, accidental duplicate publish.\n\nactionpack/lib/action_dispatch/routing/route_set.rb in Action Pack in Ruby on Rails 4.x before 4.2.5.1 and 5.x before 5.0.0.beta1.1 allows remote attackers to cause a denial of service (superfluous caching and memory consumption) by leveraging an application's use of a wildcard controller route.",

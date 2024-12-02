@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m53f-rhq8-q6hf",
-	"modified": "2023-04-11T01:42:36.989291Z",
+	"modified": "2024-12-02T05:37:20.583070Z",
 	"published": "2018-09-17T21:55:03Z",
 	"summary": "Moderate severity vulnerability that affects actionpack",
 	"details": "Withdrawn, accidental duplicate publish.\n\nactionpack/lib/action_dispatch/http/mime_type.rb in Action Pack in Ruby on Rails before 3.2.22.1, 4.0.x and 4.1.x before 4.1.14.1, 4.2.x before 4.2.5.1, and 5.x before 5.0.0.beta1.1 does not properly restrict use of the MIME type cache, which allows remote attackers to cause a denial of service (memory consumption) via a crafted HTTP Accept header.",

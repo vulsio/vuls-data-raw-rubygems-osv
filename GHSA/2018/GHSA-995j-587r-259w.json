@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-995j-587r-259w",
-	"modified": "2023-04-11T01:43:58.225234Z",
+	"modified": "2024-12-02T05:27:01.090882Z",
 	"published": "2018-08-13T20:46:58Z",
 	"summary": "Moderate severity vulnerability that affects rack-mini-profiler",
 	"details": "Withdrawn, accidental duplicate publish.\n\nThe rack-mini-profiler gem before 0.10.1 for Ruby allows remote attackers to obtain sensitive information about allocated strings and objects by leveraging incorrect ordering of security checks.",

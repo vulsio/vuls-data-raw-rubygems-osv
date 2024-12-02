@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-phmw-pv3f-vvx7",
-	"modified": "2023-04-11T01:47:13.679140Z",
+	"modified": "2024-12-02T05:47:04.282354Z",
 	"published": "2018-08-13T20:47:44Z",
 	"summary": "Moderate severity vulnerability that affects paperclip",
 	"details": "Withdrawn, accidental duplicate publish.\n\nThe thoughtbot paperclip gem before 4.2.2 for Ruby does not consider the content-type value during media-type validation, which allows remote attackers to upload HTML documents and conduct cross-site scripting (XSS) attacks via a spoofed value, as demonstrated by image/jpeg.",

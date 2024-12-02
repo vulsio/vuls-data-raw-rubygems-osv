@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6834-r92f-jj42",
-	"modified": "2023-04-11T01:42:40.629696Z",
+	"modified": "2024-12-02T05:44:16.618720Z",
 	"published": "2018-09-17T21:55:54Z",
 	"summary": "Moderate severity vulnerability that affects actionview",
 	"details": "Withdrawn, accidental duplicate publish.\n\nDirectory traversal vulnerability in Action View in Ruby on Rails before 3.2.22.1, 4.0.x and 4.1.x before 4.1.14.1, 4.2.x before 4.2.5.1, and 5.x before 5.0.0.beta1.1 allows remote attackers to read arbitrary files by leveraging an application's unrestricted use of the render method and providing a .. (dot dot) in a pathname.",

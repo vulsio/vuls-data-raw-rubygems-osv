@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9wcm-rrvh-qjc8",
-	"modified": "2023-04-11T01:31:11.094421Z",
+	"modified": "2024-12-02T05:44:34.107749Z",
 	"published": "2018-08-15T20:03:53Z",
 	"summary": "High severity vulnerability that affects colorscore",
 	"details": "Withdrawn, accidental duplicate publish.\n\nThe initialize method in the Histogram class in lib/colorscore/histogram.rb in the colorscore gem before 0.0.5 for Ruby allows context-dependent attackers to execute arbitrary code via shell metacharacters in the (1) image_path, (2) colors, or (3) depth variable.",

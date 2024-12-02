@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-44vc-fpcg-5cc5",
-	"modified": "2023-04-11T01:48:23.313594Z",
+	"modified": "2024-12-02T05:45:50.890599Z",
 	"published": "2018-08-08T22:29:49Z",
 	"summary": "Moderate severity vulnerability that affects safemode",
 	"details": "Withdrawn, accidental duplicate publish.\n\nThe Safemode gem before 1.2.4 for Ruby, when initialized with a delegate object that is a Rails controller, allows context-dependent attackers to obtain sensitive information via the inspect method.",

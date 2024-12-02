@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9vc2-p34x-jhxh",
-	"modified": "2023-04-11T01:31:58.579605Z",
+	"modified": "2024-12-02T05:43:51.384295Z",
 	"published": "2018-09-17T21:56:30Z",
 	"summary": "Moderate severity vulnerability that affects rack",
 	"details": "Withdrawn, accidental duplicate publish.\n\nlib/rack/utils.rb in Rack before 1.5.4 and 1.6.x before 1.6.2, as used with Ruby on Rails 3.x and 4.x and other products, allows remote attackers to cause a denial of service (SystemStackError) via a request with a large parameter depth.",
