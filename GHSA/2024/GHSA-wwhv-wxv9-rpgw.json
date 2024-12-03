@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wwhv-wxv9-rpgw",
-	"modified": "2024-10-31T19:49:48.217802Z",
+	"modified": "2024-12-02T20:01:34.766151Z",
 	"published": "2024-10-15T23:35:36Z",
 	"aliases": [
 		"BIT-rails-2024-47888",
