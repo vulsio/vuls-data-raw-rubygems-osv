@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w6pv-c757-6rgr",
-	"modified": "2023-12-06T01:01:27.963686Z",
+	"modified": "2024-12-03T05:56:54.407077Z",
 	"published": "2022-05-24T19:16:32Z",
 	"aliases": [
 		"BIT-gitlab-2021-39880",

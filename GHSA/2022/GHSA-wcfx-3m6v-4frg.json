@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wcfx-3m6v-4frg",
-	"modified": "2023-11-08T03:57:43.635488Z",
+	"modified": "2024-12-03T06:04:56.546820Z",
 	"published": "2022-05-17T04:35:23Z",
 	"aliases": [
 		"CVE-2014-5441"

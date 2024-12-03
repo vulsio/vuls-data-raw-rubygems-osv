@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w37c-q653-qg95",
-	"modified": "2024-02-18T05:33:06.210874Z",
+	"modified": "2024-12-03T06:02:44.626274Z",
 	"published": "2017-10-24T18:33:36Z",
 	"aliases": [
 		"CVE-2013-6416"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vm28-mrm7-fpjq",
-	"modified": "2024-02-16T08:21:59.317937Z",
+	"modified": "2024-12-03T06:07:34.614720Z",
 	"published": "2017-10-24T18:33:36Z",
 	"aliases": [
 		"CVE-2014-2888"
