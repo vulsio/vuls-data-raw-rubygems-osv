@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-48wp-p9qv-4j64",
-	"modified": "2023-04-11T22:15:45.199512Z",
+	"modified": "2024-12-04T05:41:10.781623Z",
 	"published": "2023-04-11T22:08:18Z",
 	"summary": "Commonmarker vulnerable to to several quadratic complexity bugs that may lead to denial of service",
 	"details": "## Impact\n\nSeveral quadratic complexity bugs in commonmarker's underlying [`cmark-gfm`](https://github.com/github/cmark-gfm) library may lead to unbounded resource exhaustion and subsequent denial of service.\n\nThe following vulnerabilities were addressed:\n\n* [CVE-2023-24824](https://github.com/github/cmark-gfm/security/advisories/GHSA-66g8-4hjf-77xh)\n* [CVE-2023-26485](https://github.com/github/cmark-gfm/security/advisories/GHSA-r8vr-c48j-fcc5)\n\nFor more information, consult the release notes for version [`0.23.0.gfm.10`](https://github.com/github/cmark-gfm/releases/tag/0.29.0.gfm.10) and [`0.23.0.gfm.11`](https://github.com/github/cmark-gfm/releases/tag/0.29.0.gfm.11).\n\n## Mitigation\n\nUsers are advised to upgrade to commonmarker version [`0.23.9`](https://rubygems.org/gems/commonmarker/versions/0.23.9).",
