@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w6rc-q387-vpgq",
-	"modified": "2024-02-16T08:11:27.415466Z",
+	"modified": "2024-12-05T05:36:49.756916Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-4136"

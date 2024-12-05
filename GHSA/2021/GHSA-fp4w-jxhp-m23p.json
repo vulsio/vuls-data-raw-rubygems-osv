@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fp4w-jxhp-m23p",
-	"modified": "2024-02-20T05:37:30.143808Z",
+	"modified": "2024-12-05T05:42:55.716134Z",
 	"published": "2021-05-24T18:12:33Z",
 	"aliases": [
 		"CVE-2020-36327"
