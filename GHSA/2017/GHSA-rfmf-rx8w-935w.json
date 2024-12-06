@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rfmf-rx8w-935w",
-	"modified": "2024-02-16T08:23:38.275073Z",
+	"modified": "2024-12-06T05:38:50.229429Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-5647"
