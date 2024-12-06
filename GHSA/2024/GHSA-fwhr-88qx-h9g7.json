@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fwhr-88qx-h9g7",
-	"modified": "2024-06-05T22:01:00.135360Z",
+	"modified": "2024-12-06T15:46:40.954679Z",
 	"published": "2024-06-04T22:26:24Z",
 	"aliases": [
 		"CVE-2024-28103"
@@ -194,6 +194,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actionpack/CVE-2024-28103.yml"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20241206-0002"
 		}
 	],
 	"database_specific": {
