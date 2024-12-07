@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v444-jggx-6v7f",
-	"modified": "2024-02-16T08:03:27.249104Z",
+	"modified": "2024-12-07T05:44:50.724590Z",
 	"published": "2024-01-04T21:30:24Z",
 	"summary": "Duplicate Advisory: Race Condition leading to logging errors",
 	"details": "### Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-hjp3-5g2q-7jww. This link is maintained to preserve external references.\n\n### Original Description\nA race condition exists in Audited 4.0.0 to 5.3.3 that can result in an authenticated user to cause audit log entries to be attributed to another user.\n\n",
@@ -55,7 +55,12 @@
 				"5.4.0",
 				"5.4.1",
 				"5.4.2",
-				"5.4.3"
+				"5.4.3",
+				"5.5.0",
+				"5.5.1.pre",
+				"5.6.0",
+				"5.7.0",
+				"5.8.0"
 			],
 			"database_specific": {
 				"last_known_affected_version_range": "< 5.3.3",

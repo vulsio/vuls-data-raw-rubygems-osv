@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-24fg-p96v-hxh8",
-	"modified": "2024-02-16T08:15:46.894976Z",
+	"modified": "2024-12-07T05:38:37.003705Z",
 	"published": "2017-10-24T18:33:38Z",
 	"aliases": [
 		"CVE-2011-0447"

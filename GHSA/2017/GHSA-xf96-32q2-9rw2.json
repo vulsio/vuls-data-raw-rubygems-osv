@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xf96-32q2-9rw2",
-	"modified": "2024-02-22T05:31:51.457029Z",
+	"modified": "2024-12-07T05:39:18.718037Z",
 	"published": "2017-10-24T18:33:38Z",
 	"aliases": [
 		"CVE-2008-4094"

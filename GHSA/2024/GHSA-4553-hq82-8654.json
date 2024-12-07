@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4553-hq82-8654",
-	"modified": "2024-02-16T08:14:37.309921Z",
+	"modified": "2024-12-07T05:33:43.390454Z",
 	"published": "2024-01-04T21:30:24Z",
 	"summary": "Duplicate Advisory: encoded_id-rails potential DOS vulnerability due to URIs with extremely long encoded IDs",
 	"details": "### Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-3px7-jm2p-6h2c. This link is maintained to preserve external references.\n\n### Original Description\nencoded_id-rails versions before 1.0.0.beta2 are affected by an uncontrolled resource consumption vulnerability. A remote and unauthenticated attacker might cause a denial of service condition by sending an HTTP request with an extremely long \"id\" parameter.\n\n",
@@ -39,7 +39,8 @@
 				"0.6.1",
 				"0.6.2",
 				"1.0.0.beta1",
-				"1.0.0.beta2"
+				"1.0.0.beta2",
+				"1.0.0.beta3"
 			],
 			"database_specific": {
 				"last_known_affected_version_range": "< 1.0.0.beta2",
