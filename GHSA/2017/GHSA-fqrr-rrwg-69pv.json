@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fqrr-rrwg-69pv",
-	"modified": "2024-02-16T08:09:35.039589Z",
+	"modified": "2024-12-08T05:33:26.454261Z",
 	"published": "2017-10-24T18:33:36Z",
 	"aliases": [
 		"CVE-2014-1233"

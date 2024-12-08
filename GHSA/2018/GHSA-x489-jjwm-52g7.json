@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x489-jjwm-52g7",
-	"modified": "2024-02-22T05:26:17.130877Z",
+	"modified": "2024-12-08T05:44:02.146290Z",
 	"published": "2018-08-28T22:34:15Z",
 	"aliases": [
 		"CVE-2015-7225"

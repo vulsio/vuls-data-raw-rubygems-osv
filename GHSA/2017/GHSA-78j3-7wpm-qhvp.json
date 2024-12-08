@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-78j3-7wpm-qhvp",
-	"modified": "2024-02-16T08:39:36.607639Z",
+	"modified": "2024-12-08T05:34:00.288112Z",
 	"published": "2017-10-24T18:33:37Z",
 	"aliases": [
 		"CVE-2013-1947"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-579v-mp3v-rrw5",
-	"modified": "2024-02-22T05:32:53.587602Z",
+	"modified": "2024-12-08T05:33:53.323376Z",
 	"published": "2022-05-14T01:09:51Z",
 	"aliases": [
 		"CVE-2011-4969"
