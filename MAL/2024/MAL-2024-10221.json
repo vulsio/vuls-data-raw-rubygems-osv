@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10221",
-	"modified": "2024-10-16T15:03:54Z",
+	"modified": "2024-12-09T14:39:23Z",
 	"published": "2024-10-16T15:03:54Z",
 	"summary": "Malicious code in johnny_five (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -66,6 +66,13 @@
 					"9.1.0",
 					"9.1.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-11215",
+				"import_time": "2024-12-09T14:38:53.957017496Z",
+				"modified_time": "2024-12-09T06:51:33Z",
+				"sha256": "da15e05b0a1012fae25629e943a3d6d4b6288edf237dbc6bce1ce31a9299e19b",
+				"source": "reversing-labs"
 			}
 		]
 	}

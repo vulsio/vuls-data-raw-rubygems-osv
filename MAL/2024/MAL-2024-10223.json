@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-10223",
-	"modified": "2024-10-16T15:05:09Z",
+	"modified": "2024-12-09T14:39:23Z",
 	"published": "2024-10-16T15:05:09Z",
 	"summary": "Malicious code in zen-ruby-linter (RubyGems)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -40,6 +40,13 @@
 				"versions": [
 					"1.8.1"
 				]
+			},
+			{
+				"id": "RLUA-2024-11217",
+				"import_time": "2024-12-09T14:38:54.014414187Z",
+				"modified_time": "2024-12-09T06:51:36Z",
+				"sha256": "35f579f16dcc3d719af208f346b492e382176ddbdab88af1de0dc781359a21fd",
+				"source": "reversing-labs"
 			}
 		]
 	}
