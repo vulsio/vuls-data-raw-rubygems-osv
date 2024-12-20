@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vfm5-rmrh-j26v",
-	"modified": "2024-12-11T21:23:47.117144Z",
+	"modified": "2024-12-20T10:42:25.440765Z",
 	"published": "2024-12-10T22:42:27Z",
 	"aliases": [
+		"BIT-rails-2024-54133",
 		"CVE-2024-54133"
 	],
 	"summary": "Possible Content Security Policy bypass in Action Dispatch",

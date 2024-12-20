@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8h22-8cf7-hq6g",
-	"modified": "2024-06-10T18:53:13.756001Z",
+	"modified": "2024-12-20T10:42:24.507157Z",
 	"published": "2024-02-27T21:41:16Z",
 	"aliases": [
+		"BIT-rails-2024-26144",
 		"CVE-2024-26144"
 	],
 	"summary": "Rails has possible Sensitive Session Information Leak in Active Storage",

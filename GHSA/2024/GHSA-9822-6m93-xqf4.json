@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9822-6m93-xqf4",
-	"modified": "2024-06-10T19:02:13.914753Z",
+	"modified": "2024-12-20T10:42:26.578616Z",
 	"published": "2024-02-27T21:41:12Z",
 	"aliases": [
+		"BIT-rails-2024-26143",
 		"CVE-2024-26143"
 	],
 	"summary": "Rails has possible XSS Vulnerability in Action Controller",

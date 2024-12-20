@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jjhx-jhvp-74wq",
-	"modified": "2024-11-28T05:38:39.148809Z",
+	"modified": "2024-12-20T10:42:24.945438Z",
 	"published": "2024-02-27T21:41:09Z",
 	"aliases": [
+		"BIT-rails-2024-26142",
 		"CVE-2024-26142"
 	],
 	"summary": "Rails has possible ReDoS vulnerability in Accept header parsing in Action Dispatch",
