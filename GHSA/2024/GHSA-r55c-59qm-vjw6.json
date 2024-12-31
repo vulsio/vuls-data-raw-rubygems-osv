@@ -8,11 +8,17 @@
 	],
 	"related": [
 		"CGA-24jw-g87x-3mgj",
+		"CGA-53cw-f4vc-x329",
 		"CGA-6h5q-rgv8-vx5g",
+		"CGA-7j6j-656x-j7ph",
+		"CGA-f453-4qqx-r36p",
 		"CGA-gvjv-4f2q-v69c",
+		"CGA-jg48-jr4v-332g",
 		"CGA-jxrj-xh37-f583",
 		"CGA-rf7h-9459-7pw9",
 		"CGA-vv4v-283v-49f3",
+		"CGA-vvgg-rx7r-rc2f",
+		"CGA-w4gw-2rgw-gfxh",
 		"CVE-2024-41123"
 	],
 	"summary": "REXML DoS vulnerability",

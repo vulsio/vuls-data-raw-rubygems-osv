@@ -7,6 +7,9 @@
 		"CVE-2024-47220"
 	],
 	"related": [
+		"CGA-56ff-jwrg-cqpg",
+		"CGA-f527-rqfp-cfc5",
+		"CGA-jm6v-8wj8-x64h",
 		"CGA-vpxm-6rw3-pvp7"
 	],
 	"summary": "HTTP Request Smuggling in ruby webrick",
